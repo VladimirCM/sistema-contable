@@ -1,0 +1,6019 @@
+El estado del flujo
+de efectivo
+
+13
+
+Objetivos de aprendizaje/Claves para el éxito
+
+El
+
+Identificar los propósitos del estado del flujo
+de efectivo
+
+EJ
+
+Distinguir entre flujos de efectivo operativo,
+de inversión y de financiamiento
+
+El
+
+Preparar el estado del flujo de efectivo usando
+el método indirecto
+
+D
+
+Preparar el estado del flujo de efectivo con
+el método directo (Apéndice 13A)
+
+•
+
+¿P
+
+or qué el efectivo es tan importante?
+Es posible que usted conteste esa
+pregunta considerando su experien-
+
+cia: Se necesita efectivo para pagar las facturas.
+Se tienen algunos ingresos y algunos gastos; y tales
+eventos crean recepciones de fondos (o entradas
+de efectivo) y pagos (o salidas de efectivo).
+Las empresas, incluyendo a Smart Touch Learning, Inc., y a Greg's Groovy Tunes, Inc., trabajan de la
+misma manera. La utilidad neta es algo bueno; pero
+tanto Smart Touch como Greg's necesitan suficiente
+efectivo para pagar las facturas y para efectuar sus
+operaciones.
+
+Este capítulo cubre el tema de los flujos de efectivo: las
+entradas y las salidas de efectivo. Veremos cómo preparar el Estado del flujo de efectivo, empezando con el formato que usa la gran mayoría de las
+compañías no públicas; éste se denomina método indirecto. El Apéndice 13A del capítulo cubre
+el formato alternativo al Estado del flujo de efectivo, el método directo.
+Este capítulo tiene cuatro secciones distintas:
+• Introducción: El Estado del flujo de efectivo
+• La preparación del Estado del flujo de efectivo usando el método indirecto
+• El apéndice 13A del capítulo: Preparación del Estado del flujo de efectivo con el método
+directo
+• El apéndice 13B del capítulo: Preparación del Estado del flujo de efectivo usando una hoja de
+cálculo electrónica
+
+681
+
+682
+
+Capítulo 13
+
+La compañía que ocupará el foco de nuestra atención durante todo el capítulo será de
+nuevo Smart Touch Learning.
+El Apéndice 13B del capítulo muestra cómo usar una hoja de cálculo electrónica para
+preparar el Estado del flujo de efectivo. Este apéndice presenta primero la hoja de cálculo del
+método indirecto y, al final, se presenta la hoja de cálculo del método directo -para mantener
+congruencia con el orden en el cual se cubren estos temas en el capítulo.
+
+Introducción: El estado del flujo de efectivo
+D
+
+Identificar los
+propósitos del
+estado del flujo
+de efectivo
+
+El Balance general reporta la posición financiera. Cuando se presenta un balance general comparativo para dos periodos, se indica si el efectivo aumentó o disminuyó. Por ejemplo, el balance
+general comparativo de Smart Touch Learning reportó lo siguiente:
+
+Efectivo .... . .
+
+2011
+
+2010
+
+Incremento
+(Decremento)
+
+$22,000
+
+$42,000
+
+$(20,000)
+
+El efectivo de Smart Touch disminuyó en $20,000 durante 2011. Pero el Balance general
+no muestra la causa por la cual dicho efectivo disminuyó. Necesitamos el estado del flujo de
+efectivo para saberlo.
+El estado del flujo de efectivo reporta los flujos de efectivo: entradas de efectivo y salidas
+de efectivo. Asimismo,
+• muestra de dónde vino el efectivo (entradas) y cómo se gastó (salidas).
+• explica por qué aumentó o disminuyó el efectivo durante el periodo.
+• cubre un lapso y lleva la misma fecha que el Estado de resultados: "Año terminado el 31 de
+diciembre de 2011", por ejemplo.
+El Estado del flujo de efectivo explica la causa por la cual la utilidad neta, como se reporta
+en el Estado de resultados, no es igual al cambio en el saldo de efectivo. En esencia, el estado del
+flujo de efectivo es el vínculo de comunicación entre el Estado de resultados (construido sobre
+bases devengadas) y el efectivo que se reporta en el Balance general.
+La figura 13-1 ilustra las relaciones entre el Balance general, el Estado de resultados y el
+Estado del flujo de efectivo.
+¿Cómo usa la gente la información del flujo de efectivo? El Estado del flujo de efectivo
+ayuda a
+1. predecir los flujos de efectivo futuros . Las entradas y las salidas de efectivo del pasado ayudan a predecir los flujos de efectivo futuros.
+2. evaluar las decisiones de la gerencia. Las decisiones de inversión acertadas ayudan a la
+empresa a prosperar, en tanto que las decisiones inadecuadas causan problemas. Los inversionistas y los acreedores usan la información del flujo de efectivo para evaluar las decisiones de los administradores.
+3. predecir la capacidad para pagar las deudas y los dividendos. Los prestamistas desean
+saber si harán cobros sobre sus préstamos. Los accionistas quieren dividendos sobre sus
+inversiones. El Estado del flujo de efectivo ayuda a realizar estas predicciones.
+
+Equivalentes de efectivo
+En un Estado del flujo de efectivo, efectivo significa algo más que el efectivo disponible y que el
+efectivo en el banco. El efectivo incluye los equivalentes de efectivo, los cuales son inversiones altamente líquidas que pueden convertirse rápidamente en efectivo. Como el nombre indica,
+los equivalentes de efectivo están tan cercanos al efectivo que se tratan como "iguales". Algunos
+ejemplos de equivalentes de efectivo son las cuentas del mercado de dinero y las inversiones en
+bonos (títulos) del gobierno que los emite. En todo este capítulo, el término efectivo se refiere
+tanto al efectivo mismo como a sus equivalentes.
+
+El estado del flujo de efectivo
+
+FIGURA 13·1
+
+683
+
+Oportunidad del momento de los estados financieros
+
+31 de diciembre de 2010
+(un punto en el tiempo)
+
+Para el año terminado
+el 31 de diciembre de 2011
+(un periodo)
+
+31 de diciembre de 2011
+(un punto en el tiempo)
+
+Actividades relacionadas con operaciones,
+inversiones y financiamiento
+Hay tres tipos básicos de actividades del flujo de efectivo y el Estado del flujo de efectivo tiene
+una sección para cada uno:
+• Actividades operativas
+• Actividades de inversión
+• Actividades de financiamiento
+Veamos qué es lo que reporta cada sección.
+
+Actividades operativas
+• Es la categoría más importante de flujos de efectivo, ya que refleja las operaciones cotidianas
+que determinan el futuro de una organización
+• Crean ingresos, gastos, ganancias y pérdidas
+• Afectan la utilidad neta en el Estado de resultados
+• Afectan a los activos circulantes y los pasivos circulantes en el Balance general
+
+Actividades de inversión
+• Aumentan y disminuyen los activos a largo plazo, como computadoras, programas de software, terrenos, edificios y equipo
+• Incluyen las compras y las ventas de estos activos más los préstamos por cobrar provenientes
+de terceros y los cobros de esos préstamos
+
+Actividades de financiamiento
+• Aumentan y disminuyen los pasivos a largo plazo, así como el capital contable
+• Incluyen las emisiones de acciones, el pago de dividendos, y la compra y venta de acciones en
+tesorería
+• Incluyen la solicitud de dinero en préstamo y el pago de estos préstamos
+
+El
+
+Distinguir entre flujos
+de efectivo operativo,
+de inversión y de
+financiamiento
+
+684
+
+Capítu lo 13
+
+La figura 13-2 muestra la relación entre los flujos de efectivo operativo, de inversión y de financiamiento, así como las diversas partes de! Balance general.
+
+FIGURA 13·2
+
+Flujos de
+•
+efectivo operativo
+
+Flujos de efectivo operativo, de inversión y de
+financiamiento , y las cuentas del balance general
+Activos circulantes
+
+Flujos de
+.. Activos a largo plazo
+efectivo de inversión
+
+Pasivos circulantes
+
+........-_ _ Flujos de
+efectivo operativo
+
+Pasivos a largo plazo
+
+J-
+
+Capital contable
+de los accionistas
+
+Flujos de
+efectivo de fi nanciamiento
+
+Como se observa, los flujos de efectivo operativo afectan las cuentas circulantes. Los flujos
+de efectivo de inversión afectan los activos a largo plazo. Los flujos de efectivo de financiamiento afectan los pasivos a largo plazo y e! capital contable.
+
+Dos formatos para las actividades operativas
+Hay dos formas para dar formato a las actividades operativas en e! Estado de! flujo de efectivo:
+• El método indirecto empieza con la utilidad neta y la ajusta al efectivo neto proveniente de
+las actividades operativas.
+• El método directo vuelve a presentar e! E~tado de resultados en términos de! efectivo. El método directo muestra todas las entradas de efectivo y todas las salidas de efectivo provenientes de las actividades operativas.
+Los métodos directo e indirecto:
+• usan diferentes cálculos pero producen la misma cantidad de flujo de efectivo proveniente de
+las operaciones.
+• no tienen efecto sobre las actividades de inversión ni las actividades de financiamiento.
+Empecemos con e! método indirecto porque la mayoría de las empresas lo usan. Para concentrar la atención en el método directo, consulte e! Apéndice 13A.
+
+Preparación del estado del flujo de efectivo a través
+del método indirecto
+
+m
+
+Preparar el estado
+del flujo de efectivo
+usando el método
+indirecto
+
+Para preparar e! Estado del flujo de efectivo, se necesita e! Estado de resultados, y e! Balance general inicial y final. Considere los estados financieros de Smart Touch Learning en la página 687.
+Para preparar e! Estado de! flujo de efectivo con e! método indirecto siga los pasos 1 a 4:
+PASO 1:
+
+Distribuya e! formato del estado como se muestra en la figura 13-3. Los pasos
+2 a 4 completarán el Estado de! flujo de efectivo.
+
+El estado del flujo de efectivo
+
+FIGURA 13·3
+
+I
+
+Formato del estado del flujo de efectivo:
+Método indirecto
+SMART TOUCH LEARNING, INC.
+Estado del flujo de efectivo
+Año terminado el 31 de diciembre de 2011
+
+I
+
+Flujos de efectivo por las actividades operativas:
+Utilidad neta
+Ajustes para reconciliar la utilidad neta con el efectivo neto
+por las actividades operativas:
++ Depreciación I gastos de amortización
++ Pérdida sobre la venta de activos a largo plazo
+- Ganancia sobre la venta de activos a largo plazo
+- Incrementos en activos circulantes distintos del efectivo
++ Decrementos en activos circulantes distintos del efectivo
++ Incrementos en pasivos circulantes
+- Decrementos en pasivos circulantes
+Efectivo neto de las actividades operativas
+± Flujos de efectivo por las actividades de inversión:
++ Entradas de efectivo por las ventas de activos a largo plazo
+(inversiones, terreno, edificio, equipo, etc.)
+- Compras de activos a largo plazo
+Efectivo neto por (usado para) las actividades de inversión
+± Flujos de efectivo por las actividades de financiamiento:
++ Entradas de efectivo por la emisión de acciones
++ Venta de acciones en tesorería
+- Compra de acciones en tesorería
++ Entradas de efectivo por la emisión de documentos o bonos por pagar (préstamo)
+- Pago de documentos o bonos por pagar
+- Pago de dividendos
+Efectivo neto proporcionado por (usado para) las actividades de financiamiento
+=Incremento (decremento) neto en efectivo durante el año
++ Efectivo al 31 de diciembre de 2010
+= Efectivo al 31 de diciembre de 2011
+
+PASO 2:
+
+/
+
+Calcule el cambio en efectivo proveniente del Balance general comparativo. El
+cambio en el efectivo es la "cifra reconciliadora básica" para el Estado del
+flujo de efectivo. La figura 13-5 es el Balance general comparativo de Smart
+Touch Learning, donde la línea superior muestra que el efectivo disminuyó en
+$20,000 durante 2011.
+PASO 3: Tome la utilidad neta, la depreciación y cualesquiera ganancias o pérdidas del
+Estado de resultados. La figura 13-6 ilustra el Estado de resultados para 2011
+de Smart Touch Learning, donde las partidas relevantes aparecen resaltadas.
+PASO 4: Complete el Estado del flujo de efectivo, usando datos del Estado de resultados y del Balance general. El estado queda completo tan sólo después de que
+se hayan explicado todos los cambios de un año a otro en todas las cuentas
+del Balance general.
+
+Apliquemos estos pasos para mostrar las actividades operativas de Smart Touch Learning.
+La figura 13-4 ilustra la sección de actividades operativas del Estado del flujo de efectivo. Todas
+las partidas se resaltaron para darles énfasis. Ello hace más sencillo darle un seguimiento a los
+datos de un estado a otro.
+
+685
+
+686
+
+Capítulo 13
+
+Actividades operativas , de inversión , y de financ iamiento ,
+
+FIGURA 13·4
+
+J así como decremento neto en efectivo y en saldo de efecti vo
+SMART T OUCH LEARNING, INC.
+Estado del flu jo de efectivo
+Año terminado el 31 de diciembre de 2011
+
+m
+
+11
+11
+
+a
+
+El
+DI
+
+11
+
+13
+
+Flujos de efectivo por las actividades operativas:
+Utilidad neta
+Ajustes para reconciliar la utilidad neta con el efectivo neto por las actividades operativas:
+Depreciación
+Ga nancia sobre la venta de activos de planta
+Incremento en cuentas por cobrar
+Decremento en inventarios
+Incremento en cuentas por pagar
+Decremento en pasivos devengados
+Efectivo neto por las actividades operativas
+Flujos de efectivo de las actividades de inversión:
+Adquisición de activos de planta
+Entradas de efectivo por la venta de activos de planta
+Efectivo neto usado para las actividades de inversión
+Flujos de efectivo por las actividades de inversión:
+Entradas de efectivo por la emisión de acciones comunes
+Entradas de efectivo por la emisión de documentos por pagar
+Pago de documentos por pagar
+Compra de acc iones en tesorería
+Pago de dividendos
+Efectivo neto proporcionado por las actividades de financiamiento
+Decremento neto en efectivo
+
+(Miles)
+$ 40
+$ 20
+(10)
+(17)
+2
+40
+(5)
+
+30
+70
+
+$(310)
+50
+(260)
+120
+90
+(10)
+(20)
+(10)
+170
+$(120)
+
+Saldo en efectivo, 31 de diciembre de 2010
+
+42
+
+Saldo en efectivo, 31 de diciembre de 2011
+
+$22
+
+Flujos de efectivo provenientes de las actividades
+operativas
+Los flujos de efectivo operativo empiezan con la utilidad neta, tomada del Estado de resultados.
+
+rJ Utilidad neta
+El Estado del flujo de efectivo -método indirecto- empieza con la utilidad neta porque los
+ingresos y los gastos, los cuales afectan la utilidad neta, producen entradas y salidas de efectivo.
+Los ingresos aportan entradas de efectivo y los gastos se deben pagar. La utilidad neta se basa
+en el principio de devengado y los flujos de efectivo (utilidad neta sobre bases de contado) no
+siempre son iguales a los ingresos y los gastos sobre bases devengadas. Por ejemplo, las ventas
+a crédito son ingresos que incrementan la utilidad neta, aunque la compañía aún no haya
+cobrado el efectivo de esas ventas. Los gastos devengados disminuyen la utilidad neta, aunque
+todavía no se haya pagado efectivo aun cuando los gastos se hayan devengado.
+Para ir de la utilidad neta al flujo de efectivo proveniente de las operaciones, debemos
+hacer algunos ajustes a la utilidad neta en el Estado del flujo de efectivo. Esas adiciones y sustracciones siguen a la utilidad neta y se denominan Ajustes para la reconciliación de la utilidad
+neta con el efectivo proveniente de las actividades operativas.
+
+El estado del flujo de efectivo
+
+FIGURA 13-5
+
+I Balance general comparativo
+SMART TOUCH LEARNING, INC.
+Balance general comparativo
+31 de diciembre de 2011 y de 2010
+
+I
+(En miles)
+
+2011
+
+2010
+
+Incremento
+(Decremento)
+
+$ 22
+90
+143
+460
+$715
+
+$ 42
+73
+145
+210
+$470
+
+$ (20)
+17
+(2)
+250
+$245
+
+$ 90
+5
+160
+
+$ 50
+10
+80
+
+$ 40
+-5
+80
+
+370
+110
+(20)
+$715
+
+250
+80
+
+120
+30
+(20)
+$245
+
+Activos
+Circulantes:
+Efectivo
+Cuentas por cobrar
+Inventarios
+Activos de planta, neto
+Activos totales
+Pasivos
+Circulantes:
+Cuentas por pagar
+Pasivos devengados
+Documentos por pagar a largo plazo
+Capital contable de los accionistas
+Capital común
+Utilidades retenidas
+Menos: Acciones en tesorería
+
+FIGURA 13-6
+
+-
+
+O
+
+$470
+
+a
+m
+
+11
+
+I Estado de resultados
+SMART TOUCH LEARNING, INe.
+Estado de resultados
+Año terminado el 31 de diciembre de 2011
+(En miles)
+
+m
+m
+a
+
+Ingresos y ganancias:
+Ingresos por ventas
+Ingresos por intereses
+Ingresos por dividendos
+Ganancia sobre la venta de activos de planta
+Ingresos y ganancias totales
+Gastos:
+Costos de los bienes vendidos
+Gastos por salarios y de sueldos
+Gasto por depreciación
+Otros gastos operativos
+Gastos por intereses
+Gasto por impuestos a la utilidad
+Gastos totales
+Utilidad neta
+
+I
+
+$286
+12
+9
+10
+$317
+$156
+56
+20
+16
+
+l'
+
+15
+
+14
+277
+$ 40
+
+687
+
+688
+
+Ca pítulo 13
+
+I]J Depreciación , agotamiento y gastos de amortización
+Estos gastos se vuelven a agregar a la utilidad neta para reconciliada con el flujo de efectivo
+proveniente de las operaciones. Veamos por qué ocurre esto. La depreciación se registra como
+sIgue:
+Gasto por depreciación
+(G+)
+Depreciación acumulada
+
+20,000 ~
+(DA+)
+
+20,000
+
+Se puede ver que la depreciación no afecta el efectivo porque no hay una cuenta de Efectivo
+en el asiento del diario. Sin embargo, la depreciación, al igual que todos los demás gastos, disminuye la utilidad neta. Por lo tanto, para ir de la utilidad neta a los flujos de efectivo, debemos
+eliminar la depreciación volviéndola a agregar a la utilidad neta.
+Ejemplo: Suponga que se tuvieran tan sólo dos transacciones durante el periodo:
+• Una venta en efectivo de $40,000
+• Un gasto por depreciación de $20,000
+La utilidad neta sobre bases devengadas es de $20,000 ($40,000 - $20,000). No obstante,
+el flujo de efectivo proveniente de las operaciones es de $40,000. Para hacer la reconciliación
+yendo de la utilidad neta, $20,000, al flujo de efectivo proveniente de las operaciones, $40,000,
+vuelva a agregar la depreciación, $20,000. También añada nuevamente los gastos por agotamiento y de amortización, ya que son similares a la depreciación.
+
+B Ganancias y pérdidas sobre la venta de activos
+Las ventas de activos a largo plazo como los terrenos y edificios son actividades de inversión, y
+dichas ventas generalmente crean una ganancia o una pérdida. La ganancia o la pérdida se
+incluyen en la utilidad neta, la cual ya se encuentra en la sección operativa del estado del flujo
+de efectivo. Las ganancias y las pérdidas requieren un ajuste al flujo de efectivo proveniente de
+las actividades operativas: La ganancia o la pérdida se deben eliminar de la utilidad neta en el
+Estado del flujo de efectivo, de modo que el efectivo total proveniente de la transacción se pueda mostrar en la sección de inversiones
+La figura 13-4 incluye un ajuste para una ganancia. Durante 2011 Smart Touch vendió un
+equipo y obtuvo una ganancia de $10,000 sobre la venta . La ganancia se incluyó en el cálculo de
+la utilidad neta del Estado de resultados, por lo que la ganancia se debe eliminar de los flujos
+de efectivo operativo. La ganancia hizo más grande la utilidad neta y, por lo tanto, se deduce de
+la sección operativa. Por otro lado, una pérdida sobre la venta de los activos de planta haría más
+pequeña la utilidad neta y, por consiguiente, se volvería a añadir a la utilidad neta.
+
+m
+
+Cambios en los activos circulantes y en los pasivos circulantes
+
+La mayoría de los activos circulantes y de los pasivos circulantes resultan de las actividades
+operativas. Por ejemplo,
+• las cuentas por cobrar resultan de las ventas,
+• el inventario se relaciona con el costo de los bienes vendidos, y así sucesivamente.
+Los cambios en los activos circulantes crean ajustes para la utilidad neta sobre el estado del
+flujo de efectivo, como sigue:
+
+i Activos circulantes
+J. Efectivo
+
+1. Un incremento en un activo circulante distinto de! efectivo ocasiona un decremento en e!
+efectivo. Se necesita efectivo para adquirir activos . Si aumentan Cuentas por cobrar,
+Inventarios o gastos pagados por adelantado, entonces disminuye el efectivo. Por lo tanto,
+reste e! incremento en los activos circulantes de la utilidad neta, para obtener el flujo de
+efectivo proveniente de las operaciones. Por ejemplo, las Cuentas por cobrar de Smart
+Touch aumentaron en $1 7,000. Ese incremento en los activos circulantes se muestra como
+un decremento en efectivo en el estado del flujo de efectivo (figura 13-4).
+
+El estado del flujo de efectivo
+
+2. Un decremento en un activo circulante distinto del efectivo ocasiona un incremento en efectivo. El inventario de Smart Touch disminuyó en $2,000. ¿Qué ocasionó e! decremento?
+Smart Touch debe haber vendido algún inventario, y cobró efectivo. Por ello, agregamos e!
+decremento en Inventarios de $2,000 en e! estado de! flujo de efectivo (figura 13-4).
+3. Un decremento en un pasivo circulante ocasiona un decremento en efectivo. El pago de un
+pasivo circulante disminuye e! efectivo. Por lo tanto, restamos las disminuciones en los
+pasivos circulantes de la utilidad neta, para obtener e! flujo de efectivo proveniente de las
+operaciones. Los Pasivos devengados de Smart Touch disminuyeron en $5,000. Ese cambio
+aparece como un decremento de $5,000 en los flujos de efectivo de la figura 13-4.
+4. Un incremento en un pasivo circulante ocasiona un incremento en efectivo. Las Cuentas
+por pagar de Smart Touch aumentaron en $40,000. Esto significa que e! efectivo no fue
+erogado en e! momento en que se incurrió en e! gasto, sino que se pagará en un momento
+posterior dando como resultado un pasivo. De manera que, aun cuando la utilidad neta se
+redujo por e! gasto, e! efectivo no se redujo. Sin embargo, e! efectivo se reducirá posteriormente cuando Smart Touch liquide su pasivo. Por consiguiente, un incremento en un
+pasivo circulante se agrega a la utilidad neta en e! Estado de! flujo de efectivo (figura 13-4).
+
+Evaluación de los flujos de efectivo provenientes
+de las actividades operativas
+Durante 2011, las operaciones de Smart Touch Learning generaron un flujo de efectivo neto de
+$70,000. Este monto excede la utilidad neta (por diversos ajustes que se exponen en las secciones B, C y D). Sin embargo, para evaluar de una manera total los flujos de efectivo de una
+compañía, también debemos examinar sus actividades de inversión y de financiamiento. La
+figura 13-4 muestra la sección completa de actividades operativas.
+
+Deténgase O pensar ...
+Las actividades operativas representan la parte medular de los resultados cotidianos de cualquier
+empresa. ¿Recuerda usted cuando aprendimos la diferencia entre la contabilidad sobre bases
+devengadas y la contabilidad sobre bases de efectivo? Todo lo que representa la sección de actividades operativas es un estado de resultados sobre bases de efectivo. Con el método indirecto,
+volvemos de una manera indirecta a la base de efectivo -es decir, empezamos con la utilidad neta
+sobre bases devengadas y la volvemos a ajustar a los flujos.de efectivo" operativo" sobre bases de
+efectivo (utilidad neta sobre bases de efectivo).
+
+Flujos de efectivo provenientes de las actividades
+de inversión
+Las actividades de inversión afectan los activos a largo plazo, como los Activos de planta y
+las Inversiones. Éstos se muestran en la figura 13-4 para Smart Touch. Veamos cómo se deben
+calcular los flujos de efectivo de inversión.
+
+Cálculo de adquisiciones y ventas de activos de planta
+Las compañías mantienen una cuenta separada para cada activo. Sin embargo, para calcular los
+flujos de efectivo provenientes de inversiones, es útil combinar todos los activos de planta en
+una sola cuenta Activos de planta. Restamos la Depreciación acumulada de! costo de los activos, para trabajar con una sola cifra neta para los activos de planta, como Activos de planta,
+neto: $460,000. Esto simplifica los cálculos.
+Para ilustrar, observe que para Smart Touch Learning
+• El Balance general reporta activos de planta, neto de depreciación, de $460,000 a finales de
+2011 y $210,000 a finales de 2010 (figura 13-5).
+• El estado de resultados muestra gasto por depreciación de $20,000 y una ganancia de
+$10,000 sobre la venta de activos de planta (figura 13-6).
+
+689
+
+J.. Activos circulantes
+¡Efectivo
+
+J.. Activos circulantes
+J.. Efectivo
+
+i Activos circulantes
+¡Efectivo
+
+690
+
+Capítulo 13
+
+Además, suponga que las adquisiciones de los activos de planta de Smart Touch durante
+
+2011 totalizaron $310,000.0
+Esto nos proporciona una cuenta-T incompleta como sigue:
+Activos de planta, neto
+Saldo 31/12/10
+
+210,000
+
+Adquisiciones
+
+310,000 Ventas
+
+Saldo 31/12/11
+
+460,000
+
+Depreciación (proveniente del Inc Strnt) 20,000
+?
+
+También sabemos que Smart Touch vendió algunos activos de planta más antiguos porque
+había una ganancia sobre la venta de activos reportada en el Estado de resultados. Nosotros no
+tenemos interés en la ganancia misma, necesitamos conocer el monto de efectivo de la venta.
+Recuerde, estamos buscando movimientos de efectivo. ¿Qué cantidad de efectivo recibió el
+negocio por la venta de activos de planta? Primero, veamos el costo de los activos vendidos. Éste
+será el valor que falta en nuestra cuenta-T de Activos de planta, neto.
+
+Saldo 31/12/10 + Adquisiciones - Depreciación - Ventas? = Saldo 31/12/11
+210,000 + 310,000
+20,000
+- Ventas? = 460,000
+500,000 - Ventas? =460,000
+Ventas = 40,000
+
+Por lo tanto, nuestra cuenta-T completa es como sigue:
+Activos de planta, neto
+Saldo 31/12/10
+
+210,000
+
+Adq uisiciones
+
+310,000 Ventas
+
+Saldo 31/12/11
+
+460,000
+
+Depreciación (proveniente del Inc Strnt) 20,000
+40,000
+
+El efectivo recibido por la venta de los activos de planta se puede calcular mediante el uso
+del enfoque del asiento de diario:
+Efectivo
+Ganancia sobre la venta de activos de planta (del estado de resultados)
+Activos de planta (de la cuenta-T)
+
+?????
+
+10,000
+40,000
+
+La información del valor en libros proviene de la cuenta Activos de planta (Neto) en el Balance general. La ganancia o la pérdida viene del Estado de resultados. La cantidad que falta
+debe ser el efectivo que se recibió por la venta.
+Por lo tanto, calculamos la entrada de efectivo proveniente de la venta como sigue:
+Efectivo = $10,000 Ganancia + $40,000 Activos de planta, neto
+Efectivo = $50,000
+
+La entrada de efectivo proveniente de la venta de activos de planta por $50,000 se muestra
+en la sección de actividades de inversión del Estado del flujo de efectivo
+como la partida
+(véase figura 13-4).
+La figura 13-7 resume el cálculo de los flujos de efectivo de inversión. Las partidas que se
+deben calcular se muestran con un recuadro aliado.
+
+D
+
+El estado del flujo de efectivo
+
+691
+
+Cálculo de los flujos de efectivo provenientes de las actividades de inversión
+
+FIGURA 13·7
+Entradas de efectivo
+
+Activos de planta
+(neto) iniciales
+
+Provenientes de la venta
+de activos de planta
+
++ Adquisición
+
+-
+
+Valor en libros de los
+activos vendidos
+
+Gasto por
+depreciación
+
+Activos de planta
+(neto) finales
+
+'b
+d { + Ganancia sobre la venta
+Va 1or en II ros e
+b'
+o len
+los activos vendidos
+, d'd
+b 1
+- Per I a so re a venta
+
+Entrada de efectivo
+
+Salidas de efectivo
+Para las adquisiciones
+de los activos de planta
+
+Activos de planta
+(neto) iniciales
+
++ Adquisición
+
+-
+
+Gasto por
+depreciación
+
+Valor en libros
+de los activos
+vendidos
+
+Flujos de efectivo provenientes de las actividades
+de financiamiento
+Las actividades de financiamiento afectan las cuentas de pasivos y de capital contable de los
+propietarios, como Documentos por pagar a largo plazo, Bonos por pagar, Capital común y
+Utilidades retenidas. Éstas se muestran en la figura 13-5 para Smart Touch.
+
+Cálculo de emisiones y de pagos de documentos por pagar a largo plazo
+Los saldos inicial y final de Documentos por pagar o de Bonos por pagar se toman del Balance
+general. Si se conoce el monto de las nuevas emisiones o pagos, el otro monto se puede calcular.
+Para Smart Touch Learning, las nuevas emisiones de documentos por pagar hacen un total de
+$90,000 (lo cual se muestra como la partida
+en la figura 13-4). El cálculo de los pagos de los
+documentos usa la cuenta Documentos por pagar a largo plazo, con los montos del Balance general de Smart Touch Learning de la figura 13-5, para crear la siguiente cuenta-T incompleta:
+
+B
+
+Documentos por pagar a largo plazo
+Pagos de documentos
+
+Saldo 31/12/10
+Nuevos documentos emitidos
+
+80,000
+90,000
+
+Saldo 31/12/11
+
+160,000
+
+Posteriormente, resuelva el valor de los pagos faltantes:
+Saldo 31/12/10 + Nuevos documentos emitidos - Pagos? = Saldo 31/12/11
+80,000
+
++
+
+90,000
+
+- Pagos? = 160,000
+
+170,000
+
+- Pagos? = 160,000
+Pagos
+
+= 10,000
+
+Complete la cuenta-T:
+Documentos por pagar a largo plazo
+Pagos de documentos
+
+Saldo 31/12/10
+10,000 Nuevos documentos emitidos
+Saldo 31/12/11
+
+80,000
+90,000
+160,000
+
+El pago de $10,000 como un flujo de salida de efectivo se muestra en el Estado del flujo
+de efectivo. (Véase la partida
+en la figura 13-4.)
+
+CI
+
+Activos de planta
+(neto) finales
+
+692
+
+Cap ítulo 13
+
+Cálculo de las emisiones de acciones y de las compras
+de acciones en tesorería
+Los flujos de efectivo para estas actividades de financiamiento se determinan con el aAálisis df
+las cuentas de capital. Por ejemplo, el monto de una nueva emisión de acciones de capitfll comú'\)
+se determina a partir del Capital común. Usando los datos de la figura 13-5, la cuenta-T incompleta de Capital común es como sigue:
+Capital común
+Retiros
+
+Saldo 31/12/10
+Emisión
+
+250,000
+
+Saldo 31/12/11
+
+370,000
+
+Se nos tendría que decir si ha habido algún retiro de acciones. Puesto que no lo hubo, sabemos que el cambio en el saldo debe estar representado por las nuevas emisiones de acciones.
+La resolución del valor que falta se completa como sigue:
+
+250,000
+
+o =370,000
+Emisión de acciones = 120,000
+
++ Emisión de acciones?-
+
+La cuenta-T completa para Capital común es:
+Capital común
+Saldo 31/12/10
+
+250,000
+120,000
+
+Saldo 31/12/11
+
+370,000
+
+o Emisión
+
+Retiros
+
+Por lo tanto, la emisión de nuevas acciones aparece como flujo de efectivo positivo de
+$120,000 en la sección de financiamiento del estado (partida
+en la figura 13-4).
+La última partida que cambió en el balance general de Smart Touch Learning fue la cuenta
+Acciones en tesorería. Los saldos de la cuenta-T provenientes de la cuenta Acciones en tesorería
+del balance general muestran lo siguiente:
+
+O
+
+Acciones en tesorería
+Saldo 31/12/10
+Compras
+
+o
+
+Saldo 31/12/10
+
+20,000
+
+Ventas
+
+Como no se nos dijo que se hubieran vendido Acciones en tesorería, debemos suponer que
+el 100% del cambio en la cuenta representa nuevas adquisiciones de Acciones en tesorería.
+Despejando el monto, la ecuación queda como:
+Saldo 31/10/12 + Compras? _. Ventas? = Saldo 31/12/11
+O
++ Compras? - O
+=20,000
+Compras = 20,000
+Completando la cuenta-T, tenemos:
+Acciones en tesorería
+
+o
+
+Saldo 31/12/10
+Compras
+
+20,000 Ventas
+
+Saldo 31/12/11
+
+20,000
+
+o
+
+Entonces, los $20,000 aparecen como un flujo de salida de efectivo en la sección de finanen
+ciamiento del estado del flujo de efectivo por la compra de acciones en tesorería (partida
+la figura 13-4).
+
+11
+
+El estado del flujo de efectivo
+
+Cálculo de los pagos de dividendos
+El monto de los pagos de dividendos se calcula analizando la cuenta Utilidades retenidas. Primero, ingresamos los saldos del Balance general:
+Utilidades retenidas
+Pérdida neta
+Declaraciones de dividendos
+
+Saldo 31/12/10
+Utilidad neta
+
+80,000
+
+Saldo 31/12/11
+
+110,000
+
+Las utilidades retenidas aumentan cuando las compañías obtienen una utilidad neta. Las
+utilidades retenidas disminuyen cuando las compañías tienen una pérdida neta y cuando
+declaran dividendos. Del Estado de resultados de la figura 13-6, sabemos que Smart Touch
+obtuvo una utilidad neta de $40,000.
+Utilidades retenidas
+Pérdida neta
+Declaraciones de dividendos
+
+Saldo 31/12/10
+Utilidad neta
+
+80,000
+40,000
+
+Saldo 31/12/11
+
+110,000
+
+Por lo tanto, el valor que falta debe ser el monto de dividendos que declaró Smart Touch.
+La obtención de dicho valor es como:
+Saldo 31/12/1 O + Utilidad neta - Dividendos declarados = Saldo 31/12/11
+80,000
+
++
+
+40,000
+
+- Dividendos declarados = 110,000
+
+120,000
+
+- Dividendos declarados =110,000
+Dividendos declarados =10,000
+
+De esta forma, nuestra cuenta-T final para Utilidades retenidas muestra lo siguiente:
+Utilidades retenidas
+
+Dividendos declarados
+
+Saldo 31112/10
+Utilidad neta
+
+80,000
+40,000
+
+Saldo 31/12/11
+
+110,000
+
+10,000
+
+Un dividendo en acciones no tiene efecto sobre Efectivo ni se reporta en el estado del flujo
+de efectivo. Smart Touch no tuvo dividendos en acciones -tan sólo dividendos en efectivo.
+La figura 13-8 de la página 694 resume el cálculo de los flujos de efectivo provenientes de las
+actividades de financiamiento, resaltado con negritas.
+
+Cambio neto en el efectivo y en los saldos de efectivo
+La siguiente línea del estado del flujo de efectivo (debajo de Efectivo neto proporcionado por las
+actividades de financiamiento de la figura 13-4) representa el cambio total en efectivo para el
+periodo. En el caso de Smart Touch Learning, es el decremento neto en los saldos de efectivo
+de $20,000 para el año. El decremento en efectivo de $20,000 también está representado por
+lo siguiente:
+(montos en miles)
+Efectivo neto proporcionado
+por las actividades
+operativas
+70
+
+-
+
+Efectivo neto
+Efectivo neto
+proporcionado
+usado por las
+actividades + por las actividades
+de inversión
+de financiamiento
+260
+
++
+
+170
+
+Decremento neto
+en Efectivo
+-20
+
+693
+
+694
+
+Capítulo 13
+
+FIGURA 13·8
+
+Cálculo de los flujos de efectivo provenientes de las actividades de financiamiento
+
+Entradas de efectivo
+Entrada de efectivo
+proveniente de la emisión
+de documentos por pagar
+
+Pago de documentos
+por pagar
+
+Entrada de efectivo
+proveniente de la emisión
+de acciones
+
+Capital final
+
++
+
+Entrada de efectivo
+proveniente de la emisión
+de documentos por pagar
+
+Pago de documentos
+por pagar
+
+Acciones en
+tesorería iniciales
+
++
+
+Costo de las acciones
+en tesorería compradas
+
+Acciones en
+tesorería finales
+
+Utilidades
+retenidas iniciales
+
++
+
+Utilidad neta
+
+Dividendos
+declarados
+
+Provenientes de la emisión
+de documentos por pagar
+
+Documentos
+por pagar iniciales
+
++
+
+Provenientes de la emisión
+de acciones
+
+Capital inicial
+
++
+
+De los documentos
+por pagar
+
+Documentos
+por pagar iniciales
+
+Para comprar acciones
+en tesorería
+De dividendos
+
+Documentos
+por pagar finales
+
+Salidas de efectivo
+Documentos
+por pagar finales
+
+Utilidades
+retenidas finales
+
+A continuación, el saldo inicial de efectivo del 31 de diciembre de 2010 se presenta como
+de $42,000. El decremento neto de $20,000 con respecto al saldo inicial de efectivo de $42,000
+es igual al saldo final de efectivo al 31 de diciembre de 2011: $22,000. Ésta es la clave para el
+Estado del flujo de efectivo -explica por qué el saldo de efectivo de Smart Touch disminuyó en
+$20,000, aun cuando la compañía reportó una utilidad neta para el año.
+
+Deténgase O pensar ...
+Es probable que la mayoría de ustedes tengan una cuenta de ahorros o de cheques. Piense en la
+manera en que el saldo cambia de un mes a otro. No siempre cambia porque haya obtenido ingresos o haya incurrido en gastos (operativos). Algunas veces cambia porque se compra un activo
+de larga duración, como un televisor (una forma de inversión). Algunas veces cambia porque se
+hace el pago de un abono sobre la compra de un automóvil (un financiamiento). Sucede lo mismo
+con los negocios; las cuentas bancarias de las empresas no cambian únicamente porque obtengan
+ingresos o incurran en gastos (operativos) . El estado del flujo de efectivo explica todas las razones por las cuales cambia el efectivo (actividades operativas, actividades de inversión y actividades
+de financiamiento).
+
+Inversiones y actividades de financiamiento que no
+implican efectivo
+Las compañías hacen inversiones que no requieren de efectivo. También obtienen financiamiento que no implica efectivo. Tales transacciones se denominan actividades de inversión y
+de financiamiento que no implican efectivo, y aparecen en una sección separada del estado del
+flujo de efectivo. Nuestro ejemplo de Smart Touch no incluyó transacciones de este tipo, porque
+la compañía no realizó ninguna transacción que no implicara efectivo durante el año. Por lo
+tanto, para ilustrarlas, consideremos tres transacciones que no implican efectivo para Greg's
+Groovy Tunes. ¿Cómo se reportarían? Primero, recopilamos la actividad que no implica efectivo
+para la compañía:
+
+El estado del flujo de efectivo
+
+1
+
+Adquirió un edificio de $300,000 con la emisión de acciones.
+
+2
+
+Adquirió un terreno de $70,000 con la emisión de documentos por pagar.
+
+3
+
+Pagó un documento por pagar de $100,000 con la emisión. de acciones.
+
+Ahora, consideramos cada transacción en forma individual.
+
+1. Greg's Groovy Tunes emitió acciones comunes de $300,000 para adquirir un edificio.
+El asiento de diario para registrar la compra sería como sigue:
+Edificio
+(A+)
+Capital común
+
+(Q+)
+
+~~~~--- ]
+
+300,000
+
+I
+
+300,000
+
+Esta transacción no se reportaría en el estado del flujo de efectivo porque no se pagó nada
+de efectivo. Pero el edificio y las acciones comunes son importantes.
+La compra del edificio es una actividad de inversión. La emisión de acciones comunes es
+una actividad de financiamiento. Considerada de conjunto, esta transacción es una actividad
+de inversión y de financiamiento que no implica efectivo.
+2. La segunda transacción que se presenta indica que Greg's Groovy Tunes adquirió $70,000
+de terreno emitiendo un documento. El asiento de diario para registrar la compra sería
+como sigue:
+Terreno
+(A+)
+Documentos por pagar
+
+"'~----~---
+
+l
+--------------
+
+(P+)
+
+70,000
+
+I
+
+70,000
+
+Esta transacción no se reportaría en el estado del flujo de efectivo porque no se pagó nada
+de efectivo. Pero el terreno y los documentos por pagar son importantes.
+La compra del terreno es una actividad de inversión. La emisión del documento es una
+actividad de financiamiento. Tomada de conjunto, esta transacción es una actividad de inversión y de financiamiento que no implica efectivo.
+3. La tercera transacción que se presenta indica que Greg's Groovy Tunes intercambió
+$100,000 de deudas emitiendo acciones comunes. El asiento de diario para registrar la
+compra sería como sigue:
+(P-)
+
+Capital común
+
+(Q+)
+
+----~--------------~!--~--~~---
+
+Esta transacción no se reportaría en el estado del flujo de efectivo porque no se pagó
+ningún efectivo. Pero los documentos por pagar y la emisión de acciones son importantes.
+El pago sobre el documento y la emisión de acciones comunes son ambos actividades de
+financiamiento. Tomada en conjunto, esta transacción, aun cuando son dos transacciones
+de financiamiento, se reporta en las actividades de inversión y de financiamiento que no implican efectivo.
+Las actividades de inversión y de financiamiento que no implican efectivo se pueden presentar en un reporte separado que acompañe al Estado del flujo de efectivo. La figura 13-9 de la
+página 696 ilustra las actividades de inversión y de financiamiento que no implican efectivo,
+para el caso de Greg's Groovy Tunes (todos los montos son supuestos). Esta información o bien
+sigue al estado del flujo de efectivo o se puede incluir en una nota.
+
+695
+
+696
+
+Capítulo 13
+
+FIGURA 13·9
+
+I
+
+Actividades de inversión y de financiamiento
+que no implican efectivo
+GREG'S GROOVY TUNES
+
+Estado del flujo de efectivo: parcial
+Año terminado el 31 de diciembre de 2011
+
+I
+
+(En miles)
+
+Actividades de inversión y de financiamiento que no implican efectivo:
+Adquisición de un edificio mediante la emisión de acciones comunes
+Adquisición de terrenos mediante la emisión de un documento por pagar
+Pago de un documento por pagar mediante la emisión de acciones comunes
+Total de actividades de inversión y de financiamiento que no implican efectivo
+
+$300
+70
+100
+$470
+
+Medición de la suficiencia del efectivo:
+Flujo de efectivo liberado
+En todo este capítulo nos hemos concentrado en los flujos de efectivo provenientes de las actividades operativas, de inversión y de financiamiento . Algunos inversionistas desean saber
+cuánto dinero puede "liberar" una compañía para las oportunidades nuevas. El flujo de efectivo
+libeJ;ado es la cantidad de efectivo que está disponible a partir de las operaciones, después de
+pagar las inversiones planeadas en activos de largo plazo. El flujo de efectivo liberado se calcula
+como sigue:
+
+Flujo de efectivo liberado =
+
+Efectivo neto
+proporcionado por
+las actividades operativas
+
+Pagos de efectivo planeados
+para las inversiones en planta,
+equipo y otros activos de largo plazo
+
+Muchas compañías usan el flujo de efectivo liberado para administrar sus operaciones.
+Suponga que Greg's Groovy Tunes espera fondos netos de efectivo proporcionados por las operaciones de $200,000. Suponga que Greg's Groovy Tunes planea gastar $160,000 para modernizar sus instalaciones de producción. En este caso, el flujo de efectivo liberado para Greg's
+Groovy Tunes sería de $40,000 ($200,000 - $160,000). Si se presenta una buena oportunidad
+de inversión, Greg's Groovy Tunes debería tener $40,000 para invertir.
+Pongamos ahora en práctica lo que se ha aprendido acerca del Estado del flujo de efectivo
+preparado por el método indirecto.
+
+El estado del flujo de efectivo
+
+697
+
+Lineamientos para la toma de decisiones
+FORMA DE USAR EL FLUJO DE EFECTIVO Y LA INFORMACiÓN RELACIONADA PARA EVALUAR
+LAS INVERSIONES
+
+Ann Browning es una inversionista privada. A través de los años, ella ha diseñado algunos lineamientos para evaluar las
+inversiones. A continuación se presentan algunos de sus lineamientos.
+
+Pregunta
+
+Estado financiero
+
+Qué buscar
+
+• ¿De dónde viene la mayoría
+del efectivo de la compañía?
+
+Estado del flujo de efectivo
+
+Actividades operativas ~ Buen signo
+Actividades de inversión ~ Mal signo
+Actividades de financiamiento ~ Signo aceptable
+
+• ¿Un nivel alto de ventas y de
+utilidades se convierte en más
+efectivo?
+
+Estado del flujo de efectivo
+
+Generalmente, pero los flujos de efectivo provenientes
+de las actividades operativas deben ser la principal
+fuente del efectivo para el éxito a largo plazo.
+
+• Si las ventas y las utilidades son Estado del flujo de efectivo
+bajas, ¿cómo está generando
+efectivo la compañía?
+
+Si las actividades de inversión están generando el
+efectivo, quizás el negocio esté en problemas porque
+está liquidando sus activos de largo plazo.
+Si las actividades de financiamiento están generando
+el efectivo, eso no puede continuar por siempre.
+Tarde o temprano, los inversionistas exigirán efectivo
+proveniente de las actividades operativas.
+
+• ¿El saldo de efectivo es lo
+suficientemente grande como
+para favorecer la expansión?
+
+Balance general
+
+El saldo de efectivo debería estar creciendo con el paso
+del tiempo. En caso de no ser así, la compañía puede
+estar en problemas.
+
+• ¿La empresa tiene para pagar
+sus deudas?
+
+Estado de resultados
+
+¿La tendencia indica una utilidad neta creciente?
+
+Estado del flujo de efectivo
+
+Los flujos de efectivo provenientes de las actividades
+operativas deberían ser la principal fuente de efectivo.
+
+Balance general
+
+¿La razón circulante y la razón de endeudamiento son
+adecuadas?
+
+Problema de resumen
+The Adams Corporation reportó el siguiente Estado de resultados y Balance general comparativo para 2011 y 2010, junto con los datos de las transacciones para 2011:
+
+ADAMS CORPORATION
+Estado de resultados
+Año terminado el 31 de diciembre de 2011
+Ingresos por ventas
+Costos de los bienes vendidos
+Utilidad bruta
+Gastos operativos:
+Gastos por salarios
+Gasto por depreciación
+Gasto por renta
+Gastos operativos totales
+Ingreso por las operaciones
+Otras partidas:
+Pérdida sobre la venta de equipo
+Utilidad antes del impuesto a la utilidad
+Impuestos a la utilidad
+Utilidad neta
+
+$662,000
+560,000
+102,000
+$46,000
+10,000
+2,000
+58,000
+44,000
+(2,000)
+42,000
+16,000
+$ 26,000
+
+ADAMS CORPORATION
+Balance general
+31 de diciembre de 2011 y 2010
+Activos
+Circulantes:
+Efectivo y equivalentes
+Cuentas por cobrar
+,Inventarios
+1Activos circulantes totales
+Equipo, neto
+I~
+
+-
+
+Activos totales
+
+2011
+
+=
+
+-
+
+~ 22,000
+
+_.12,000
+35,000
+79,000
+_126,000
+
+$205,000
+
+2010
+$
+
+3,000
+23,000
+34,000
+60,000
+72,000
+
+$132,000
+
+2011
+Pasivos
+Circulantes:
+Cuentas por pagar
+$ 35,000
+Pasivos devengados
+7,000
+Impuestos a la utilidad por pagar
+10,000
+Pasivos circulantes totales
+52,000
+Bonos por pagar
+84,000
+Capital contable de los accionistas
+Capital común
+52,000
+Utilidades retenidas
+27,000
+Menos: Acciones en tesorería
+(10,000)
+Pasivos y capital contable totales
+$205,000
+
+2010
+$ 26,000
+9,000
+10,000
+45,000
+53,000
+
+-
+
+20,000
+19,000
+(5,000d
+$132,000
+~
+
+Datos de las transacciones para 2011:
+Compra de equipo ......................... ................... ................................................... $140,000
+
+698
+
+Capítulo 13
+
+Pago de dividendos..............................................................................................
+
+18,000
+
+Emisión de acciones comunes para retirar bonos por pagar................................ .
+
+13,000
+
+Emisión de bonos por pagar para solicitar efectivo en préstamo ........................ ..
+
+44,000
+
+Entradas de efectivo por la emisión de acciones comunes .................................. ..
+
+19,000
+
+Entradas de efectivo por la venta de equipo (valor en libros, $76,000) .............. ..
+
+74,000
+
+Compra de acciones en tesorería ........................................................................ .
+
+5,000
+
+Se requiere
+1. Preparar el Estado del flujo de efectivo de Adams Corporation para e! año que terminó e!
+31 de diciembre de 2011. Dé formato a los flujos de efectivo operativo usando e! método
+indirecto. Siga los pasos que se esbozan más abajo.
+PASO 1: Diseñar e! formato de! Estado de! flujo de efectivo.
+PASO 2: Partiendo del Balance general comparativo, calcular e! incremento en el efectivo durante e! año.
+PASO 3: Partiendo de! Estado de resultados, llevar la utilidad neta, la depreciación y la
+pérdida sobre la venta de equipo al Estado del flujo de efectivo.
+PASO 4: Completar e! estado de! flujo de efectivo. Contabilice e! cambio de un año a
+otro en cada cuenta del Balance general. Prepare una cuenta-T para mostrar
+las actividades de las transacciones en cada cuenta a largo plazo del balance
+general.
+
+Solución
+ADAMS CORPORATION
+Estado del flujo de efectivo
+Año terminado el 31 de diciembre de 2011
+Flujos de efectivo por las actividades operativas:
+Utilidad neta
+Ajustes para reconciliar la utilidad neta con el efecrivo neto
+proporcionado por las actividades operativas:
+Depreciación
+Pérdida sobre la venta de equipo
+Decremento en cuentas por cobrar
+Incremento en inventarios
+Incremento en cuentas por pagar
+Decremento en pasivos devengados
+Efectivo neto proporcionado por las actividades operativas
+
+$26,000
+
+$ 10,000
+2,000
+1,000
+(1,000)
+9,000
+(2,000)
+
+Flujos de efectivo por las acrividades de inversión:
+Compra de equipo
+Venta de equipo
+Efectivo neto usado para las actividades de inversión
+
+(140,000)
+74,000
+
+Flujos de efectivo por las actividades de fmanciamiento:
+Emisión de acciones comunes
+Pago de dividendos
+Emisión de bonos por pagar
+Compra de acciones en tesorería
+Efectivo neto proporcionado por las acrividades de financiamiento
+
+19,000
+(18,000)
+44,000
+(5,000)
+
+19,000
+45,000
+
+(66,000)
+
+40,000
+
+Incremento neto en efectivo
+Saldo de efectivo, 31 de diciembre de 2010
+Saldo de efectivo, 31 de diciembre de 2011
+
+19,000
+3,000
+$22,000
+
+Actividades de inversión y de financiamiento que no implican efectivo:
+Emisión de acciones comunes para retirar bonos por pagar
+Actividades de inversión y de financiamiento que no implican efectivos totales
+
+$13,000
+$13,000
+
+El estado del flujo de efectivo
+
+699
+
+Cuentas-T relevantes:
+E U1 o, neto
+
+Saldo
+
+Saldo
+
+72,000
+140,000
+
+53,000
+44,000
+
+Saldo
+
+84,000
+
+126,000
+Ca ital común
+Saldo
+
+Saldo
+
+700
+
+Saldo
+13,000
+
+10,000
+76,000
+
+Capítulo 13
+
+Acciones en tesorería
+
+Utilidades retenidas
+20,000
+13,000
+19,000
+52,000
+
+Saldo
+
+19,000
+26,000
+
+Saldo
+
+5,000
+5,000
+
+Saldo
+
+27,000
+
+Saldo
+
+10,000
+
+18,000
+
+Repaso El estado del flujo de efectivo
+• Vocabulario contable
+Actividades de financiamiento (p. 683)
+Actividades que obtienen el efectivo necesario
+para lanzar y sostener el negocio; una sección
+del estado del flujo de efectivo.
+
+Equivalentes de efectivo (p. 682)
+Inversiones a corto plazo altamente líquidas
+que se pueden convertir fácilmente en
+efectivo.
+
+Actividades de inversión (p. 683)
+Actividades que aumentan o disminuyen los
+activos de largo plazo; una sección del estado
+del flujo de efectivo.
+
+Flujos de efectivo (p. 682)
+Recepciones o entradas de efectivo, así como
+pagos o s¡ilidas de efectivo.
+
+Actividades operativas (p. 683)
+Actividades que crean ingresos o gastos en la
+principallfnea de negocios de la entidad; una
+sección del estado del flujo de efectivo. Las
+actividades operativas afectan el estado de
+resultados .
+
+Flujo de efectivo liberado (p. 696)
+Monto del efectivo disponible a partir de
+las operaciones, después de pagar las
+inversiones planeadas en planta, equipo
+y otros activos de largo plazo.
+
+Método directo (p. 684)
+Formato de la sección de actividades
+operativas del estado del flujo de efectivo;
+muestra las principales categorías de las
+entradas y salidas de efectivo operativo.
+Método indirecto (p. 684)
+Formato de la sección de actividades
+operativas del estado del flujo de efectivo;
+empieza con la utilidad neta y reconcilia el
+efectivo neto proporcionado por las
+actividades operativas.
+
+• Repaso rápido
+1. Los propósitos del estado del flujo de efectivo son
+a) evaluar las decisiones de la gerencia.
+b) determinar la capacidad para pagar los pasivos y los dividendos.
+
+e) predecir los flujos de efectivo futuros .
+d) todos los anteriores.
+
+2. Las principales categorías de las actividades del flujo de efectivo son
+a) directas e indirectas.
+
+b) operativas, de inversión y de financiamiento .
+
+e) circulantes y a largo plazo.
+d) de inversión y de financiamiento que no implican efectivo.
+
+3. Las actividades operativas están más Íntimamente relacionadas con
+a) los activos de largo plazo.
+b) los pasivos de largo plazo y el capital contable de los accionistas.
+
+e) los activos circulantes y los pasivos circulantes.
+d) los dividendos y las acciones en tesorería.
+
+4. ¿Qué partida no aparece en el Estado del flujo de efectivo preparado por el método indirecto?
+a) Cobranzas de los clientes.
+b) Depreciación.
+
+e) Utilidad neta.
+d) Ganancia sobre la venta de terrenos.
+
+5. Hobby Gas Station obtuvo una utilidad neta de $73,000 después de deducir la depreciación de
+$7,000 y todos los demás gastos. Los activos circulantes disminuyeron en $6,000 y los pasivos
+circulantes aumentaron en $9,000. ¿De cuánto fue el efectivo de Hobby Gas Station proporcionado por las actividades operativas (método indirecto)?
+a) $95,000.
+
+b) $51,000.
+e) $83,000.
+
+d) $63,000.
+El estado del flujo de efectivo
+
+701
+
+6. La cuenta Activos de planta de Vacation Club muestra lo siguiente:
+Activos de planta, neto
+Compra
+
+99,000 Depreciación 27,000
+437,000 Venta
+54,000
+
+Final
+
+455,000
+
+Inicial
+
+Vacation Club vendió activos de planta con una pérdida de $16,000. ¿En qué parte del Estado del
+flujo de efectivo Vacation Club debería reportar la venta de los activos de planta? ¿Qué cantidad
+debería reportar la empresa por la venta?
+a) Flujos de efectivo de inversión: entrada de efectivo de $54,000.
+b) Flujos de efectivo de inversión: entrada de efectivo de $38,000.
+
+e) Flujos de efectivo de financiamiento: entrada de efectivo de $70,000.
+d) Flujos de efectivo de inversión: entrada de efectivo de $70,000.
+
+7. Rock Music, Corp., solicitó $36,000 en préstamo, emitió acciones comunes de $15,000 y pagó
+dividendos de $21,000. ¿De cuánto fue el efectivo neto de Rock Music proporcionado por las
+actividades de financiamiento?
+a) $0.
+b) ($21,000).
+e) $30,000.
+
+d) $72,000.
+
+8. ¿Qué partida aparece en el Estado del flujo de efectivo preparado con el método indirecto?
+a) Pagos a proveedores.
+b) Pagos de impuestos a la utilidad.
+e) Depreciación.
+d) Cobranzas de los clientes.
+9. (Apéndice 13A: Método directo) Sun Copy Center tuvo cuentas por cobrar de $23,000 al inicio del año y de $51,000 al final del año. Los ingresos para el año totalizaron $103,000. ¿Qué
+cantidad cobró el negocio de los clientes?
+a) $75,000.
+
+b) $131,000.
+e) $177,000.
+
+d) $126,000.
+
+10. (Apéndice 13A: Método directo) Cell Call Company tuvo gastos operativos de $44,000. Al
+inicio del año, Cell Cal! poseía $7,000 sobre los pasivos devengados. Al final del año, los
+pasivos devengados fueron de $3,500. ¿Qué cantidad de efectivo pagó Cell Call por los gastos operativos?
+a) $37,000.
+
+b) $47,500.
+e) $48,500.
+
+d) $40,500.
+
+Las respuestas se proporcionan después de la sección Aplicación de conocimientos (p. 720).
+
+702
+
+Capítulo 13
+
+Evaluación del progreso
+• Ejercicios cortos
+EC13-1
+
+(Objetivo de aprendizaje 1) Propósitos del estado del flujo de efectivo [10 min]
+Todos los estados financieros tienen una meta. El estado del flujo de efectivo también.
+
+Se requiere
+
+1.
+
+EC13-2
+
+Describir la manera en que el Estado del flujo de efectivo ayuda a los inversionistas y
+a los acreedores a ejecutar cada una de las siguientes funciones:
+a) Predecir los flujos de efectivo futuros
+b) Evaluar las decisiones de la gerencia
+e) Predecir la capacidad para hacer pagos de deudas a los prestamistas y para pagar
+dividendos a los accionistas
+
+(Objetivo de aprendizaje 2) Clasificación de las partidas del flujo de efectivo [10 min]
+Las partidas del flujo de efectivo se deben incluir en una de cuatro categorías.
+
+Se requiere
+
+1.
+
+Responder las siguientes preguntas acerca del Estado del flujo de efectivo:
+a) Liste las categorías del flujo de efectivo en orden de presentación.
+b) ¿Cuál es la "cifra reconciliadora básica" para el Estado del flujo de efectivo? ¿De
+
+dónde se obtiene esta cifra?
+e) ¿Cuál es el primer monto en dólares que se debe reportar con el método indirecto?
+EC13-3
+
+(Objetivo de aprendizaje 3) Clasificación de las partidas en el estado del flujo de
+efectivo indirecto [10 min]
+Triumph Corporation está preparando el Estado del flujo de efectivo por el método indirecto. Triumph tiene las siguientes partidas que usted debe considerar en la preparación
+de dicho estado:
+_ _ a) Incremento en cuentas por pagar
+
+_ _ g) Gasto por depreciación
+
+_ _ b) Pago de dividendos
+
+_ _ h) Incremento en inventarios
+
+_ _ e) Decremento en pasivos devengados
+
+_ _ i)
+
+Decremento en cuentas por cobrar
+
+_ _ d) Emisión de acciones comunes
+
+_ _ j)
+
+Compra de equipo
+
+_ _ e) Ganancia sobre la venta de un edificio
+
+_ _ f) Pérdida sobre la venta de un terreno
+
+Se requiere
+
+1.
+
+EC13-4
+
+Identificar cada partida como
+• Una actividad operativa: suma a la utilidad neta (0+), o resta de la utilidad neta (0-)
+• Una actividad de inversión: suma al flujo de efectivo (1+), o resta del flujo de efectivo (1-)
+• Una actividad de financiamiento: suma al flujo de efectivo (F+), o resta del flujo
+de efectivo (F-)
+• Una actividad que no se usa para preparar el estado del flujo de efectivo indirecto (N)
+
+(Objetivo de aprendizaje 3) Cálculo de los flujos de efectivo por las actividades
+operativas: método indirecto [10 min]
+DVR Equipment, Inc., reportó los siguientes datos para 2011:
+Estado de resultados
+$ 40,000
+Utilidad neta
+10,000
+Depreciación . . .... ..... . . .. .. .. .
+Balance general
+9,000
+Incremento en cuentas por cobrar
+6,000
+Decremento en cuentas por pagar
+
+El estado del flujo de efectivo
+
+703
+
+Se requiere
+1. Calcular el efectivo neto de DVR proporcionado por las actividades operativas:
+método indirecto.
+
+EC13-5
+
+(Objetivo de aprendizaje 3) Cálculo de los flujos de efectivo provenientes de las
+actividades operativas: método indirecto [10 min]
+Los contadores de Street Cellular han recopilado los siguientes datos para e! año que terminó e! 30 de junio de 2012:
+
+Entrada de efectivo por la venta de un terreno $ 29,000
+Gasto por depreciación
+19,000
+Pago de dividendos
+5,700
+Entrada de efectivo por la
+emisión de acciones
+16,000
+
+Utilidad neta
+$ 64,000
+Compra de equipo
+44,000
+Decremento en pasivos circulantes
+7,000
+Incremento en activos circulantes
+distintos del efectivo
+13,000
+
+Se requiere
+1. Preparar la sección de actividades operativas usando e! método indirecto, para el
+Estado de! flujo de efectivo de Street Cellular por e! año que terminó e! 30 de junio
+de 2012.
+
+Nota: Los datos del ejercicio corto 13-5 se usan para completar el ejercicio corto 13-6.
+EC13-6
+
+(Objetivo de aprendizaje 3) Cálculo de flujos de efectivo: método indirecto [15 min]
+Use los datos de! ejercicio corto 13-5 para completar este ejercicio.
+
+Se requiere
+1. Preparar el Estado del flujo de efectivo de Street Cellular usando e! método indirecto,
+para e! año que terminó el 30 de junio de 2012. Deténgase después de determinar el
+incremento (o decremento) neto en efectivo.
+
+EC13-7
+
+(Objetivo de aprendizaje 3) Cálculo de los flujos de efectivo de inversión y de
+financiamiento [10 min]
+White Media Corporation tuvo los siguientes Estado de resultados y Balance general para
+2011:
+wmTE MEDIA CORPORATION
+Estado de resultados
+Año terminado el31 de diciembre de 2011
+Ingresos por servicios
+Gasto por depreciación
+
+$
+
+54,000
+
+Otros gastos
+Utilidad neta
+
+79,000
+6,000
+
+$
+
+19,000
+
+WIllTE MEDIA CORPORATION
+Balance general comparativo
+31 de diciembre de 2011 y de 2010
+Activos
+2011
+Circulantes:
+$ 5,100
+Efectivo
+Cuentas por cobrar
+10,100
+Equipo, neto
+76,000
+
+2010
+
+Pasivos
+Circulantes:
+$ 4,200
+Cuentas por pagar
+8,100 Documento por pagar a largo plazo
+68,000
+Capital contable de los accionistas
+Capital común
+Utilidades retenidas
+
+Activos totales
+
+704
+
+Capítulo 13
+
+$ 91,200
+
+$ 80,300 Pasivos y capital contable de los accionistas totales
+
+2011
+$
+
+6,500
+7,000
+27,000
+
+2010
+$
+
+4,500
+10,000
+18,000
+
+50,700
+
+47,800
+
+$ 91,200
+
+$ 80,300
+
+Se requiere
+1.
+
+Calcular para White Media Corporation durante 2011
+a) La adquisición de equipo. El negocio no vendió ningún equipo durante el año.
+b) El pago de un documento por pagar a largo plazo. Durante el año la empresa emi-
+
+tió un documento por pagar de $5,100.
+
+Nota: El ejercicio corto 13-8 debería realizarse tan sólo después de terminar el ejercicio
+corto 13-7.
+EC13-8
+
+(Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método
+indirecto [15 a 20 min]
+Use los datos de White Media Corporation del ejercicio corto 13-7 y los resultados que
+usted calculó a partir de los requisitos.
+
+Se requiere
+1.
+EC13-9
+
+Preparar el Estado del flujo de efectivo de White Media -método indirecto- para el
+año que terminó el 31 de diciembre de 2011.
+
+(Objetivo de aprendizaje 3) Cálculo del cambio en el efectivo [5 min]
+Brianna's Wedding Shops obtuvo una utilidad neta de $76,000, la cual incluyó depreciación de $17,000. Brianna pagó $122,000 por un edificio y solicitó $63,000 en préstamo sobre un documento por pagar a largo plazo.
+
+Se requiere
+1.
+
+¿En qué cantidad aumentó o disminuyó el saldo de efectivo de Brianna durante el año?
+
+EC13-10 (Objetivo de aprendizaje 3) Cálculo del cambio en efectivo [5 min]
+Roberta McLeary Company espera lo siguiente para 2011:
+•
+•
+•
+
+Efectivo neto proporcionado por las actividades operativas de $156,000
+Efectivo neto proporcionado por las actividades de financiamiento de $63,000
+Efectivo neto usado para las actividades de inversión de $78,000 (no hubo ventas de activos de largo plazo)
+
+Se requiere
+1. ¿Qué cantidad de flujo de efectivo liberado espera McLeary para 2011?
+
+• Ejercicios
+E13-11
+
+(Objetivo de aprendizaje 1) Predicción de los flujos de efectivo futuros [10 min]
+Magnuson's Magnets reportó una pérdida neta para el año de $10,000; sin embargo,
+reportó un incremento en el saldo de efectivo por $20,000. El director financiero aseveró:
+"Magnuson's Magnets hubiera mostrado una utilidad si no hubiera sido por el gasto por
+depreciación que se registró este año".
+
+Se requiere
+
+1.
+
+2.
+E13-12
+
+¿Puede tener razón el director financiero? ¿Por qué?
+Considerando la información proporcionada, ¿cuáles predeciría usted que serían los
+flujos de efectivo?
+
+(Objetivo de aprendizaje 2) Clasificación de las partidas de flujo de efectivo
+[10 min]
+Considere las siguientes transacciones:
+a) Compró un edificio por $200,000 en efectivo
+b) Emitió acciones preferentes con valor nominal de $10
+e) Recibió efectivo de las ventas hechas a los clientes por $20,000
+d) Pagó efectivo a los proveedores, $10,000
+
+e) Vendió un edificio por una ganancia de $5,000 en efectivo
+f) Compró acciones comunes en tesorería por $15,000
+g) Pagó un documento por pagar con 1,000 de acciones comunes de la compañía
+
+El estado del flujo de efectivo
+
+705
+
+Se requiere
+1. Identificar la categoría del Estado del flujo de efectivo, en la cual se reportaría cada
+transacción.
+E13-13
+
+(Objetivo de aprendizaje 3) Clasificación de partidas en el estado del flujo de efectivo indirecto [5 a 10 min]
+El estado del flujo de efectivo agrupa transacciones similares para lograr información
+óptima.
+
+Se requiere
+1.
+
+Identifique cada una de las siguientes transacciones como una
+• Actividad operativa (O) ,
+• Actividad de inversión (I),
+• Actividad de financiamiento (F),
+• Actividad de inversión y de financiamiento que no implica efectivo (NIF), o
+• Transacción que no se reporta en el Estado del flujo de efectivo (N).
+Para cada flujo de efectivo, indique si la partida aumenta (+) o disminuye H el efectivo. Se usa el método indirecto para reportar los flujos de efectivo por las activi?ades operativas.
+
+_ _ a) Pérdida sobre la venta de un terreno
+
+_ _ i)
+
+Venta en efectivo de un terreno
+
+_ _ b) Adquisición de equipo con la emisión
+
+_ _ j)
+
+Emisión de un documento por paga r a largo
+
+de un documento por pagar
+
+plazo para solicitar efectivo en préstamo
+
+_ _ e) Pago de una deuda a largo plazo
+
+_ _ k) Depreciación
+
+_ _ d ) Adquisición de un edificio con la
+
+_ _ 1) Compra de acciones
+
+emisión de acciones comunes
+_ _ e) Acumulación de gastos por salarios devengados
+
+_ _ m) Emisión de acciones comunes
+
+_ _ f) Decremento en inventarios
+
+_ _ n ) Incremento en cuentas por pagar
+
+_ _ g) Incremento en gastos pagados por adelantado
+
+_ _ o) Utilidad neta
+
+_ _ h) Decremento en pasivos devenga dos
+
+_ _ p)
+
+E13-14
+
+b) Acciones en tesorería
+
+81,000
+
+13,000
+
+e) Efectivo
+Ingresos por ven~as
+
+60,000
+
+d) Terreno
+
+87,700
+
+f) Dividendos por pagar
+Efectivo
+
+9,000
+16,500
+16,500
+
+7,200
+45,000
+45,000
+164,000
+
+Documento por pagar, largo plazo
+k) Pérdida sobre la eliminación de equipo
+
+9,000
+
+Depreciación acumulada
+
+7,200
+
+Efectivo
+j) Edificio
+
+87,700
+
+Efectivo
+
+18,000
+
+Equipo
+i) Bonos por pagar
+
+60,000
+
+18,000
+
+Efectivo
+h) Efectivo
+
+13,000
+
+Efectivo
+
+e) Gasto por depreciación
+
+g) Terreno
+
+81,000
+
+Capital común
+
+Capítulo 13
+
+Pago de un dividendo en efectivo
+
+(Objetivo de aprendizaje 3) Clasificación de transacciones en el estado del flujo de
+efectivo: método indirecto [5 a 10 min]
+Considere las siguientes transacciones:
+
+a) Efectivo
+
+706
+
+en tesorería
+
+Equipo, neto
+
+164,000
+1,400
+1,400
+
+-
+
+- - - - - - - - -- - - - - - - - - - - -
+
+Se requiere
+1. Indicar si cada transacción daría como resultado una actividad operativa, una actividad de inversión o una actividad de financiamiento, para un Estado de! flujo de efectivo preparado por e! método indirecto y para e! reporte adjunto de actividades de
+inversión y de financiamiento que no implican efectivo.
+E13-15
+
+(Objetivo de aprendizaje 3) Cálculo del flujo de efectivo proveniente de las actividades operativas: método indirecto [10 a 15 min]
+Los registros de Paramount Color Engraving revelan lo siguiente:
+Utilidad neta
+
+$ 42,000
+12,000
+Pérdida sobre la venta de terreno
+7,000
+Ad uisici6n de terreno
+36000
+
+Depreciación
+$ 11,000
+Disminución en pasivos circulantes
+20,000
+Incremento en activos circulantes
+distintos del efectivo
+8,000
+
+Se requiere
+1.
+
+2.
+E13-16
+
+Calcular los flujos de efectivo provenientes de las actividades operativas usando e!
+método indirecto.
+Evaluar e! flujo de efectivo operativo de Paramount Color Engraving. Proporcione la
+razón para su evaluación.
+
+(Objetivo de aprendizaje 3) Cálculo del flujo de efectivo proveniente de las actividades operativas: método indirecto [15 a 20 min]
+Los registros contables de CD Sales, lnc., incluyen las siguientes cuentas:
+Cuentas por cobrar
+
+Efectivo
+Mar 1
+
+Mar 1
+
+7,000
+
+????
+Mar 31
+
+Inventario
+Mar 1
+
+19,000
+
+21 ,000
+
+????
+
+5,000
+
+Mar 31
+
+Cuentas por pagar
+Mar 1
+Mar 31
+
+????
+
+14,000
+
+Mar 31
+
+Depreciación acumulada: equipo
+
+????
+
+Mar 1
+Depr
+
+50,000
+4,000
+
+17,500
+
+Mar 31
+
+54,000
+
+13,000
+
+24,000
+
+Utilidades retenidas
+Dividendo 16,000
+
+Mar 1
+Utilidad neta
+
+66,000
+81,000
+
+Mar 31
+
+131,000
+
+Se requiere
+1. Calcular e! efectivo neto de CD proporcionado por (usado para) las actividades operativas durante marzo. Use e! método indirecto.
+E13-17
+
+(Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método
+indirecto [20 a 30 min]
+A continuación se presenta e! Estado de resultados y algunos datos adicionales para
+Minerals Plus, lnc.:
+
+M1NERALS PLUS, lNe.
+Estado de resultados
+Año terminado el 30 de junio de 2010
+Ingresos:
+Ingresos por servicios
+Gastos:
+Costos de los bienes vendidos
+Gastos por salarios
+Gasto por depreciación
+Gasto por impuestos a la utilidad
+Utilidad neta
+
+~
+$ 236,000
+$ 96,000
+54,000
+27,000
+9,000
+
+186,000
+$
+
+50,000
+
+El estado del flujo de efectivo
+
+707
+
+A continuación se presentan algunos datos adicionales:
+a) La adquisición de los activos de planta es de $120,000. De esta cantidad, se pagan
+
+$103,000 en efectivo y $1 7,000 con la firma de un documento por pagar.
+b) La entrada de efectivo proveniente de la venta del terreno hace un tota l de $24,000.
+
+No hubo ni ganancia ni pérdida.
+e) Las entradas de efectivo provenientes de la emisión de acciones comunes hacen un total de $32,000.
+d) El pago del documento por pagar es de $17,000.
+
+e) El pago de los dividendos es de $11,000.
+
+f) Del balance general:
+Junio 30,
+2010
+Activos circulantes:
+Efectivo .. . . . .. . . . . ... .. . . . ... . . $ 32,000
+Cuentas por cobrar . . . .. .. .. .... ..
+38,000
+Inventarios . ... . ......... . .......
+92,000
+Pasivos circulantes:
+Cuentas por pagar . .. .. . .. . .. . . . .. $ 36,000
+Pasivos devengados o· ···· · · · · · · .. .
+15,000
+
+2009
+$ 15,000
+55,000
+86,000
+
+$ 22,000
+25,000
+
+Se requiere
+1. Preparar el Estado del flujo de efectivo de Minerals Plus para el año que terminó el
+30 de junio de 2010, usando el método indirecto. Incluya una sección separada para
+las actividades de inversión y de financiamiento que no implican efectivo.
+E13-18
+
+(Objetivo de aprendizaje 3) Cálculo del flujo de efectivo proveniente de actividades
+operativas: método indirecto [10 a 15 min]
+Considere los siguientes hechos para Java Jolt:
+a) Las utilidades retenidas iniciales y finale's son de $48,000 y de $69,000, respectivamente.
+
+La utilidad neta para el periodo es de $64,000.
+b) Los saldos iniciales y finales de activos de planta, neto, son de $102,000 y $106,000,
+
+respectivamente. La depreciación para el periodo es de $19,000, y las adquisiciones
+de los activos de planta nuevos son de $26,000. Los activos de planta se vendieron
+con una ganancia de $4,000.
+
+Se requiere
+1. ¿De cuánto son los dividendos en efectivo?
+2. ¿Cuál fue el monto de la entrada de efectivo proveniente de la venta de los activos
+de planta?
+E13-19
+
+(Objetivo de aprendizaje 3) Cálculo del efecto de la adquisición de activos sobre el
+efectivo [10 min]
+Cole Gymnastics Equipment, Inc., reportó los siguientes estados financieros para 2011:
+COLE GYMNASTICS EQUIPMENT, INC.
+Estado de resultados
+Año terminado el 31 de diciembre de 2011
+I
+
+Ingresos por ventas
+Costos de los bienes vendidos
+Gasto por depreciación
+Otros gastos
+
+$
+$ 343
+49
+
+- 210
+--
+
+Gastos tota les
+
+I
+708
+
+Capítulo 13
+
+Utilidad neta
+
+(En miles)
+711
+
+602
+
+$
+
+109
+
+COLE GYMNASTICS EQUlPMENT, INC.
+Balance general comparativo
+31 de diciembre de 2011 y de 2010
+(En miles)
+
+Activos
+Circulantes:
+Efectivo
+Cuentas por cobrar
+Inventarios
+Inversiones a largo plazo
+Activos de planta, neto
+
+2011
+$
+
+20
+56
+80
+91
+225
+
+2010
+$
+
+16
+50
+87
+74
+185
+
+Pasivos
+Circulantes:
+Cuentas por pagar
+Salarios por pagar
+Documentos por pagar a largo plazo
+Capital contable de los accionistas
+Capital común
+Utilidades retenidas
+
+--- --$ 472 $ 412 Total
+
+-
+
+Total
+
+-
+
+2011
+$
+
+2010
+
+75 $
+3
+58
+
+73
+4
+69
+
+45
+
+32
+
+- -291
+- - -234
+$ 472 $ 412
+
+-
+
+-
+
+Se requiere
+
+1.
+
+.,
+
+E13-20
+
+Calcular el monto de la adquisición de los activos de planta de Cole Gymnastics.
+Cole Gymnastics no vendió activos de planta .
+
+(Objetivo de aprendizaje 3) Cálculo del efecto de las transacciones sobre el efectivo [15 min]
+Use los datos de Cole Gyrnnastics en el ejercicio 13-19.
+
+Se requiere
+1.
+
+Calcular lo siguiente:
+
+a) Los préstamos nuevos o el pago de los documentos por pagar a largo plazo, considerando que
+
+Cole Gymnastics tiene tan sólo una transacción de un documento por pagar a largo plazo durante el año
+b) La emisión de acciones comunes, considerando que Col e Gyrnnastics tiene tan sólo una transacción
+
+de acciones comunes durante el año
+e) El pago de los dividendos en efectivo
+
+Nota: El ejercicio 13-21 debería realizarse tan sólo después de terminar los ejercicios 13-19 y 13-20.
+E13-21
+
+(Objetivo de aprendizaje 3) Cálculo del efecto de las transacciones sobre el efectivo [15 min]
+Use los datos de Cole Gymnastics en los ejercicios 13-19 y 13-20.
+
+Se requiere
+1. Prepare el Estado del flujo de efectivo de la compañía -método indirecto- para
+el año que terminó el 31 de diciembre de 2011. Muestre todas las cantidades en
+miles.
+
+El estado del flujo de efectivo
+
+709
+
+• Problemas (Grupo A)
+P13-22A (Objetivos de aprendizaje 1, 2, 3) Propósito del estado y preparación del estado del
+flujo de efectivo: método indirecto [40 a 50 min]
+
+North American Reserve Rare Coins (NARRC) se formó el1 de enero de 2010, cuando
+NARRC emitió sus acciones comunes por $475,000. A continuación se presentan los
+datos adicionales para el año:
+a) El1 de enero de 2010, NARRC emitió acciones comunes por $475,000.
+
+A principios de enero, NARRC hizo los siguientes pagos de efectivo:
+1. Por los enseres de la tienda, $46,000.
+2. Por el inventario, $330,000.
+3. Por el gasto por la renta sobre el edificio de la tienda, $11,000.
+e) Posteriormente en el año, NARRC compró inventario a crédito en $235,000. Antes del final del año, NARRC pago
+$135,000 de esta cuenta por pagar.
+d) Durante 2010, NARRC vendió 2,900 unidades de inventario en $300 cada una. Antes del fin de año, la compañía cobró el
+85% de esta cantidad. El costo de los bienes vendidos para el año fue de $310,000, y el inventario final totalizó $255,000.
+e) La tienda emplea a tres personas. La nómina anual combinada es de $96,000, de la cual NARRC todavía adeuda
+$5,000 al final del año.
+f) Al final del año, NARRC pagó un impuesto a la utilidad por $16,000.
+g) Más tarde en 2010, NARRC pagó dividendos en efectivo por $43,000.
+h) Para el equipo, NARRC usa el método de depreciación en línea recta, a lo largo de cinco años, con un valor residual de cero.
+b)
+
+Se requiere
+1.
+
+¿Cuál es el propósito del estado del flujo de efectivo?
+
+2. Preparar el Estado de resultados de NARRC para el año que terminó el 31 de diciem3.
+4.
+
+bre de 2010. Use el formato de una sola etapa, presentando todos los ingresos juntos y todos los gastos juntos.
+Elaborar el Balance general de NARRC al 31 de diciembre de 2010.
+Preparar el estado del flujo de efectivo de NARRe usando el método indirecto para
+el año que terminó el31 de diciembre de 2010.
+
+P13-23A (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método
+indirecto [35 a 45 min]
+
+Los contadores de Smithson, lnc., han recopilado los siguientes datos para el año que terminó el 31 de diciembre de 2011:
+31 de diciembre
+2011
+Cuentas circulantes:
+Activos circulantes:
+Efectivo y equivalentes de efectivo
+$105,600
+Cuentas por cobrar ... .. .. ..... .. .
+64,200
+Inventarios ............... .. .... .
+85,000
+Pasivos circulantes:
+Cuentas por pagar ...... .. ....... .
+57,800
+Impuestos a la utilidad por pagar .... .
+15,000
+
+710
+
+Capítulo 13
+
+2010
+
+$ 26,000
+69,300
+83,000
+56,000
+16,700
+
+..
+
+Datos de las transacciones para 2011
+Emisión de acciones comunes
+Pago de un documento por pagar .. ..... .. ... .. $45,100
+para obtener efectivo ........ ..... ..... $ 37,000 Pago de dividendos en efectivo. . . . . . . . . . . . . . .. 51,000
+Gasto por depreciación ........ ..... .. ..... .
+18,000 Emisión de un documento por pagar para
+Compra de equipo . ..... . . . ............... .
+71,000
+solicitar un préstamo en efectivo . ........ . 60,000
+Adquisición de terreno con la emisión de un
+Ganancia sobre la venta del edificio ........... .
+4,500
+documento por pagar a largo plazo ...... . 118,000 . Utilidad neta ..... . ...................... . 72,500
+Base del costo del edificio vendido .... .... ... . .
+56,000
+
+Se requiere
+
+1.
+
+Preparar e! Estado de! flujo de efectivo de Smithson usando e! método indirecto.
+Incluya un reporte adjunto para las actividades de inversión y de financiamiento que
+no implican efectivo.
+
+P13-24A (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo -método
+indirecto- y evaluación de los flujos de efectivo [35 a 45 min]
+El Balance general comparativo de Morston Medical Supply al31 de diciembre de 2012
+reportó lo siguiente:
+31 de diciembre
+2012
+Activos circulantes:
+Efectivo y equivalentes de efectivo
+$ 87,800
+Cuentas por cobrar . .. ...... .. ....
+14,800
+Inventarios . ...... ....... ........
+63,200
+Pasivos circulantes:
+30,100
+Cuentas por pagar ................
+Pasivos devengados
+10,500
+
+2011
+$
+
+23,500
+21,300
+60,000
+30,100
+11,100
+
+Las transacciones de Morston durante 2012 incluyeron lo siguiente:
+Pago de dividendos en efectivo
+$ 14,200
+Compra de equipo
+54,600
+Emisión de un documento por pagar a largo
+
+Gasto por depreciación
+Compra de edificio
+Utilidad neta
+
+$ 16,800
+105,000
+60,600
+
+~~~la~Q~~~~~~~~~I~r~
+és~ta~m
+~o~s~~4~9~0~0~0~~~~~~~~~~~~~~~~~~~109,000
+
+Se requiere
+1. Prepare e! Estado de! flujo de efectivo de Morston Medical Supply para e! año que
+terminó e! 31 de diciembre de 2012. Use e! método indirecto para reportar los flujos
+de efectivo provenientes de las actividades operativas.
+2. Evaluar los flujos de efectivo de Morston para e! año. Mencione las tres categorías
+de los flujos de efectivo y proporcione por qué los evaluó así.
+
+El estado del flujo de efectivo
+
+711
+
+P13-25A (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método
+indirecto [35 a 45 min]
+A continuación se presenta el Balance general comparativo y el Estado de resultados de
+Cobbs Hill, Inc.:
+
+COBBS HILl, INC.
+Balance general comparativo
+31 de diciembre de 2012 y de 2011
+
+Activos circulantes:
+Efectivo y equivalentes de efectivo
+Cuentas por cobrar
+Inventarios
+Activos de planta:
+Terreno
+
+$
+
+Equipo, neto
+
+Incremento
+Decremento)
+
+2012
+
+2011
+
+26,000 $
+26,700
+79,000
+
+15,300 $ 10,700
+25,000
+1,700
+(12,800)
+91,800
+
+34,700
+
+10,000
+
+24,700
+
+100,900
+
+92,700
+
+8,200
+
+$ 267,300 $ 234,800 $ 32,500
+
+Activos totales
+Pasivos circulantes:
+Cuentas por pagar
+Pasivos devengados
+Pasivos a largo plazos:
+Documentos por pagar
+Capital contable de los accionistas:
+Capital común
+Utilidades retenidas
+Pasivos y capital contable de los accionistas totales
+
+$
+
+35,600 $
+28,200
+
+30,700 $ 4,900
+30,000
+(1,800)
+
+77,000
+
+104,000
+
+(27,000)
+
+88,200
+
+64,400
+
+23,800
+
+5,700
+
+32,600
+
+38,300
+$ 267,300
+
+$ 234,800 $ 32,500
+
+COBBS HILl, INC.
+Estado de resultados
+Año terminado el31 de diciembre de 2012
+
+I
+
+Ingresos:
+Ingresos por ventas
+
+$ 443,000
+8,700
+
+Ingresos por intereses
+Ingresos totales
+Gastos:
+Costos de los bienes vendidos
+Gastos por salarios
+Gasto por depreciación
+Otros gastos operativos
+Gastos por intereses
+Gasto por impuestos a la utilidad
+Gastos totales
+Utilidad neta
+
+451,700
+$ 200,200
+73,400
+14,200
+10,000
+21,800
+19,700
+339,300
+
+$ 112,400
+
+Cobbs Hill no tuvo transacciones de inversión y de financiamiento que no implicaran
+efectivo en 2012. Durante el año, no hubo ventas de equipos ni de terrenos; tampoco
+hubo emisiones de documentos por pagar, ni retiros de acciones, así como ninguna
+transacción con acciones en tesorería.
+
+Se requiere
+1.
+712
+
+Capítulo 13
+
+2.
+
+Preparar el Estado del flujo de efectivo de 2012, dando formato a las actividades
+operativas con el método indirecto.
+¿Cómo le ayudará a usted lo que aprendió en este problema para evaluar una inversión?
+
+• Problemas (Grupo B)
+P13-26B (Objetivos de aprendizaje 1, 2, 3) Propósito del estado y preparación del estado del
+flujo de efectivo: método indirecto [40 a 50 min]
+
+Official Reserve Rare Coins (ORRC) se formó ell de enero de 2010, cuando ORRe emitió acciones comunes por $475,000. A continuación se presentan datos adicionales para el año:
+a) Ell de enero de 2010, ORRC emitió acciones comunes por $475,000.
+
+b) A principios de enero, ORRC hizo los siguientes pagos en efectivo:
+
+1. Para los enseres de la tienda, $46,000.
+2. Para el inventario, $310,000.
+3. Para el gasto por renta sobre el edificio de la tienda, $10,000.
+e) Posteriormente en el año, ORRC compró inventarios a crédito en $237,000.
+Antes del fin de año, ORRC pagó $137,000 de esta cuenta por pagar.
+d) Durante 2010, ORRC vendió 2,800 unidades de inventario en $225 cada una.
+Antes del fin del año, la compañía cobró el 80% de esta cantidad. El costo
+de los bienes vendidos para el año fue de $340,000, y el inventario final
+alcanzó un total de $207,000.
+e) La tienda emplea a tres personas. La nómina anual combinada es de $94,000,
+de los cuales ORRC todavía adeuda $2,000 al final del año.
+f) Al final del año, ORRC pagó impuestos a la utilidad por $22,000.
+g) Más tarde en 2010, ORRC pagó dividendos en efectivo por $44,000.
+h) Para el equipo, ORRC usa el método de depreciación en línea recta, a lo largo
+de 5 años, con un valor residual de cero.
+
+Se requiere
+1. ¿Cuál es el propósito del estado del flujo de efectivo?
+2. Preparar el Estado de resultados de ORRC para el año que terminó el 31 de diciembre de 2010. Use el formato de una sola etapa, presentando todos los ingresos juntos
+y todos los gastos juntos.
+
+3.
+
+Elaborar el Balance general de ORRC al 31 de diciembre de 2010.
+
+4. Preparar el Estado del flujo de efectivo de ORRC usando el método indirecto, para
+el año que terminó el 31 de diciembre de 2010.
+P13-27B (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método
+indirecto [35 a 45 min]
+
+Los contadores de Carlson, Inc., han recopilado los siguientes datos para el año que terminó el 31 de diciembre de 2011:
+31 de diciembre,
+2011
+Cuentas circulantes:
+Activos circulantes:
+$ 60,100
+Efectivo y equivalentes de efectivo
+Cuentas por cobrar . . . .. . .. .. . ... .
+64,500
+Inventarios . . .. . ...... ...... . ... .
+86,000
+Pasivos circulantes:
+Cuentas por pagar .. .. . . . .. ... ....
+57,600
+14,700
+Impuestos a la utilidad por pagar . . . ..
+Datos para las transacciones de 2011:
+Emisión de acciones comunes
+para obtener efectivo ... ... .. .. . . . ... .. . $ 42,000
+21,000
+Gasto por depreciación .. . . . .. ..... . ........ .
+66,000
+Compra de equipo .. . .. . . . .. .. .. . .. ....... . .
+Adquisición de terreno con la emisión de un
+documento por pagar a largo plazo ... . ... . 118,000
+
+2010
+
+$ 19,000
+69,000
+84,000
+56,200
+16,400
+
+Pago de un documento por pagar . . ... . .. . . . $44,100
+Pago de dividendos en efectivo . . . . . . . . . . . . . 48,000
+Emisión de un documento por pagar
+para solicitar efectivo en préstamo .... . 59,000
+4,500
+Ganancia sobre la venta de un edificio . . . ... .
+Utilidad neta .............. . .. ... . .. .. . 69,500
+Base del costo del edificio vendido
+$ 5,500
+
+El estado del flujo de efectivo
+
+713
+
+Se requiere
+1.
+
+Preparar el Estado del flujo de efectivo de Carlson usando el método indirecto. Incluya un reporte adjunto de actividades de inversión y de financiamiento que no impliquen efectivo.
+
+P13-288 (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo -método
+indirecto- y evaluación de los flujos de efectivo [35 a 45 min]
+
+El Balance general comparativo de Smithson Medical Supply al 31 de diciembre de 2012
+reportó lo siguiente:
+31 de diciembre
+2012
+Activos circulantes:
+Efectivo y equivalentes de efectivo
+$ 78,600
+14,700
+Cuentas por cobrar .............. .
+Inventarios ... .. ..... .. .... . .... .
+62,600
+Pasivos circulantes:
+Cuentas por pagar .... . .......... .
+28,100
+Pasivos devengados
+10,300
+
+2011
+$
+
+19,500
+21 ,400
+60,400
+27,100
+11,300
+
+Durante 2012, las transacciones de Smithson incluyeron lo siguiente:
+Pago de un dividendo en efectivo
+Compra de equipo
+Emisión de un documento por pagar a largo
+~Iazo ara solicitar efectivo en réstamo
+
+$ 22,200
+54,600
+50,000
+
+Gasto por depreciación
+Compra de un edificio
+Utilidad neta
+Emisión de acciones comunes ara obtener efectivo
+
+$ 16,800
+109,000
+61,600
+112,000
+
+Se requiere
+
+1.
+
+2.
+
+714
+
+Capítulo 13
+
+Preparar el Estado del flujo de efectivo de Smithson Medical Supply para el año que
+terminó el 31 de diciembre de 2012. Use el método indirecto para reportar los flujos
+de efectivo provenientes de las actividades operativas.
+Evaluar los flujos de efectivo de Smithson para el año. Mencione las tres categorías
+de flujos de efectivo y explique el porqué de su evaluación.
+
+P13-29B (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método indirecto [35 a 45 min]
+
+El Balance general comparativo y el Estado de resultados de 2012 de Digital Subscriptions, Inc., se presentan a continuación:
+
+DIGITAL SUBSCRIPTIONS, INC.
+Balance general comparativo
+31 de diciembre de 2012 y 2011
+
+I
+2011
+
+Incremento
+(Decremento)
+
+15,800
+25,000
+91,100
+
+$ 11,000
+1,500
+(11,600)
+
+34,700
+
+10,000
+
+24,700
+
+96,900
+
+88,700
+
+8,200
+
+$ 264,400 $ 230,600
+
+$ 33,800
+
+$
+
+$
+
+2012
+Activos circulantes:
+Efectivo y equivalentes de efectivo
+Cuentas por cobrar
+Inventarios
+Activos de planta:
+Terreno
+
+$
+
+Equipo, neto
+Activos totales
+Pasivos circulantes:
+Cuentas por pagar
+Pasivos devengados
+Pasivos a largo plazo:
+Documentos por pagar
+Capital contable de los accionistas:
+Capital común
+
+35,500
+28,500
+
+$
+
+$
+
+30,000
+30,100
+
+5,500
+(1,600)
+
+73,000
+
+102,000
+
+88,700
+
+64,300
+
+24,400
+
+38,700
+
+4,200
+
+34,500
+
+$ 264,400 $ 230,600
+
+$ 33,800
+
+Utilidades retenidas
+Pasivos y capital contable de los accionistas totales
+
+26,800
+26,500
+79,500
+
+(29,000)
+
+DIGITAL SUBSCRlPTIONS, INC.
+Estado de resultados
+
+Año terminado el31 de diciembre de 2012
+
+I
+
+Ingresos:
+Ingresos por ventas
+
+,
+
+$ 441,000
+
+Ingresos por intereses
+Ingresos totales
+Gastos:
+Costos de los bienes vendidos
+Gastos por salarios
+Gasto por depreciación
+Otros gastos operativos
+Gastos por intereses
+Gastos por impuestos a la utilidad
+
+8,100
+449,100
+
+$ 205,200
+79,400
+14,800
+10,300
+21,900
+19,900
+
+Gastos totales
+
+I
+
+Utilidad neta
+
+351,500
+
+$
+
+97,600
+
+Digital Subscriptions no tuvo transacciones de inversión y de financiamiento que no
+implicaran efectivo en 2012. Durante el año, no hubo ventas de terreno ni de equipo;
+tampoco hubo emisiones de documentos por pagar, retiros de acciones ni transacciones
+con acciones en tesorería.
+El estado del flujo de efectivo
+
+715
+
+Se requiere
+1.
+
+2.
+
+Preparar el Estado del flujo de efectivo para 2012, dando formato a las actividades
+operativas por el método indirecto.
+¿Cómo le ayudará a evaluar una inversión lo que usted aprendió en este problema?
+
+• Ejercicio continuo
+E13-30
+
+Este ejercicio da continuidad a la situación de Sherman Lawn Service, Inc., descrita en el
+ejercicio 12-38 del capítulo 12. Remítase al Balance general comparativo de Sherman
+Lawn Service.
+
+SHERMAN LAWN SERVICE, INC.
+Balance general comparativo
+Al31 de diciembre de 2009 y 2010
+
+1, Efectivo
+
+Activos
+
+Cuentas por cobrar
+Suministros para el césped
+Equipo
+
+2010
+$ 5,000
+2,200
+150
+1,400
+(495)
+
+(Menos: Depreciación acumulada)
+Activos totales
+Pasivos
+Cuentas por pagar
+Capital contable de los accionistas
+Capital común
+Utilidades retenidas
+Pasivos y capital contable de los accionistas totales
+
+$
+
+2009
+1,480
+150
+70
+1,400
+(146)
+
+$ 8,255
+
+$
+
+2,954
+
+350
+
+$
+
+1,400
+
+$
+
+2,000
+
+1,000
+
+5,905
+
+554
+
+$ 8,255
+
+2,954
+
+$
+
+Se requiere
+1.
+
+Preparar el Estado del flujo de efectivo usando el método indirecto, Suponga que no
+se declararon ni se pagaron dividendos durante el año,
+
+• Problema continuo
+P13-31
+
+716
+
+Capítulo 13
+
+Este problema da continuidad a la situación de Haupt Consulting, Inc., descrita en el
+problema 12-39 del capítulo 12. Remítase al balance general y al estado de resultados
+de Haupt Consulting.
+
+HAUPT CONSULTING, INC.
+Balance general comparativo
+Al 31 de diciembre de 2009 y 2010
+Activos
+Efectivo
+Cuentas por cobrar
+Suministros
+Equipo
+Mobiliario
+Edificio
+
+$
+
+\
+
+Pasivos
+Cuentas por pagar
+Salarios por pagar
+Documentos por pagar
+Capital contable de los accionistas
+Capital común
+Utilidades retenidas
+Pasivos y capital contable de los Accionistas totales
+
+$
+
+2009
+8,100
+1,700
+300
+2,000
+3,600
+
+-
+
+(2,753)
+
+(93)
+
+$ 93,467
+
+$ 15,607
+
+$
+
+$
+
+(Menos: Depreciación acumulada)
+Activos totales
+
+2010
+5,000
+2,200
+420
+10,000
+3,600
+75,000
+
+350
+2,500
+40,000
+
+3,900
+
+O
+O
+
+20,000
+
+10,000
+
+30,61 7
+
+1,707
+
+$ 93,467
+
+$ 15,607
+
+Información adicional: Haupt declaró y pagó $10,000 de dividendos para los accionistas.
+
+Se requiere
+1.
+
+Preparar el Estado del flujo de efectivo mediante el uso del método indirecto.
+
+Aplicación de conocimientos
+• Casos de decisión
+Caso 1. El Estado de resultados comparativo y el Balance general comparativo de 2010 para Golf
+America, Inc., se acaban de distribuir en una reunión de la junta directiva de la compañía. Los miembros de la junta hacen una pregunta fundamental: ¿Por qué el saldo de efectivo es tan bajo? Esta pregunta es especialmente difícil de entender porque el año 2010 mostró utilidades récord. Como
+contralor de la compañía, usted debe responder la pregunta.
+
+El estado del flujo de efectivo
+
+717
+
+GOLF AMERICA, INe.
+Estado de resultados comparativo
+Años terminados el 31 de diciembre de 2010 y de 2009
+2010
+
+(En miles)
+
+Ingresos y gastos:
+Ingresos por ventas
+Ganancia sobre la venta de equipo (precio de venta, $33)
+Ingresos y ganancias totales
+Gastos y pérd idas:
+Costos de los bienes vendidos
+Gastos por salarios
+Gasto por depreciación
+Gastos por intereses
+Gastos de amortización sobre una patente
+Pérdida sobre la venta de terrenos (precio de venta, $61)
+Gastos y pérdidas totales
+Utilidad neta
+
+2009
+
+I
+$444
+$444
+
+$310
+18
+$328
+
+$221
+48
+46
+13
+11
+
+$162
+28
+22
+20
+11
+35 I
+278
+$ 50
+
+339
+$105
+
+GOLF AMERICA, INC.
+Balance general comparativo
+AI31 de diciembre de 2010 y 2009
+(En miles)
+
+Activos
+Efectivo
+Cuentas por cobrar, neto
+Inventarios
+Inversiones a largo plazo
+Propiedad, planta y equipo, neto
+Patentes
+Totales
+Pasivos y capital contable de los propietarios
+Cuentas por pagar
+Pasivos devengados
+Documentos por pagar, largo plazo
+Capital común
+Utilidades retenidas
+Totales
+
+2010
+$ 25
+72
+194
+31
+125
+
+2009
+
+$624
+
+$ 63
+'6l
+181
+O
+61
+188
+$554
+
+$ 63
+12
+179
+149
+221
+$624
+
+$ 56
+17
+264
+61
+156
+$554
+
+177
+
+I
+
+Se requiere
+
+1.
+
+2.
+
+718
+
+Capítulo 13
+
+Preparar un Estado de! flujo de efectivo para 2010 con e! formato que mejor muestre la relación entre la utilidad neta y el flujo de efectivo operativo. La compañía no vendió ningún activo
+de planta ni inversiones a largo plazo, ni emitió documentos por pagar durante 2010. No hubo
+transacciones de inversión y de fin anciamiento que no implicaran efectivo durante e! año.
+Muestre todos los montos en miles.
+Considerando la utilidad neta y los flujos de efectivo de la compañía durante 2010, ¿fue éste un
+año bueno o malo? Explique su respuesta.
+
+I
+
+Caso 2. Showcase Cinemas y Theater by Design le están pidiendo a usted que recomiende sus
+acciones a sus clientes. Ya que Showcase y Theater by Design ganan aproximadamente la misma utilidad neta y tienen posiciones financieras similares, la decisión de usted depende de sus estados del
+flujo de efectivo, los cuales se resumen como sigue:
+
+Showcase Cinemas
+Efectivo neto proporcionado por las actividades operativas
+Efectivo proporcionado por (usado para) las actividades de inversión:
+Compra de activos de planta
+Venta de activos de planta
+Efectivo proporcionado por (usado para) las actividades de financiamiento:
+Emisión de acciones comunes
+Pago de deudas a largo plazo
+Incremento neto en efectivo
+
+$ 70,000
+$(20,000)
+40,000
+
+20,000
+
+$(100,000)
+10,000
+
+(90,000)
+30,000
+
+(40,000)
+$ 10,000
+
+$ 10,000
+
+Se requiere
+
+1.
+
+Basado en sus flujos de efectivo, ¿Qué compañía se ve mejor? Proporcione sus razones .
+
+• Cuestión ética
+Moss Exports está teniendo un mal año. La utilidad neta es únicamente de $60,000. Además, dos
+importantes clientes del extranjero le están retrasando sus pagos, en tanto que sus cuentas por cobrar se están "hinchando" . La compañía necesita un préstamo en forma desesperada. La junta
+directiva de The Moss Exports está considerando diversas formas de ponerle la mejor cara posible
+a los estados financieros de la compañía. El banco de Moss ha examinado minuciosamente el flujo
+de efectivo proveniente de las operaciones. Daniel Peavey, contralor de Moss, sugiere reclasificar
+como de largo plazo las cuentas por cobrar provenientes de los clientes de pago lento. Él le explica
+a la junta que la eliminación del incremento de $80,000 en las cuentas por cobrar proveniente de
+los activos circulantes aumentará el efectivo neto proporcionado por las operaciones. Este enfoque
+ayudará a Moss a obtener el préstamo.
+
+Se requiere
+1. Usando únicamente los montos proporcionados, calcule el efectivo neto proporcionado por
+las operaciones, tanto con como sin la reclasificación de las cuentas por cobrar. ¿Qué reporte
+hace que Moss se vea mejor?
+2. ¿Con qué condición sería ética la reclasificación de las cuentas por cobrar? ¿Con qué condición
+sería poco ética?
+
+• Caso de estados financieros
+Use el Estado del flujo de efectivo de Amazon.com, junto con los demás estados financieros de la
+otra compañía que se presentan al final de este libro, para responder las siguientes preguntas.
+Se requiere
+
+1.
+
+¿Qué método usa Amazon para reportar los flujos de efectivo netos provenientes de las actividades operativas? ¿Cómo lo sabe?
+2. Amazon obtuvo utilidades netas durante 2007. ¿Las operaciones proporcionaron efectivo o
+usaron efectivo durante 2007? Señale el monto. ¿Cómo se comparan los flujos operativos de
+2007 con los de 2006? Sea específico y explique su respuesta .
+.
+
+El estado del flujo de efectivo
+
+7 19
+
+3.
+
+4.
+
+Suponer que Amazon reporta flujos de efectivo netos provenientes de las actividades operativas con el método directo. Calcule estas cantidades para el año que terminó el 31 de diciembre
+de 2007:
+a) Cobros provenientes de los clientes (Los otros activos circulantes fueron de $20 millones
+al 31 de diciembre de 2007, y de $16 millones al 31 de diciembre de 2006)
+b) Los pagos del inventario
+Evaluar el año de 2007 en términos de la utilidad neta, los flujos de efectivo, la posición del
+Balance general y los resultados generales. Sea específico .
+
+• Proyectos en equipo
+Proyecto 1. Cada miembro del equipo debería obtener el reporte anual de una compañía diferente. Seleccione compañías de diferentes industrias. Evalúe la tendencia de los flujos de efectivo
+de cada compañía para los dos años más recientes. En su evaluación del flujo de efectivo de las
+compañías, usted puede usar cualquier otra información que esté públicamente disponible: por
+ejemplo, los otros estados financieros (Estado de resu ltados, Balance general, estado del capital
+contable de los accionistas y las notas relacionadas) y las noticias de revistas y periódicos .
+Clasifique los fl ujos de efectivo de las compañías desde el mejor hasta el peor, y escriba un reporte
+de dos páginas sobre sus descubrimientos .
+Proyecto 2. Seleccione una compañía y obtenga su reporte anual, incluyendo todos los estados
+financieros . Concentre la atención en el Estado del flujo de efectivo y, en particular, en los fl ujos de
+efectivo provenientes de las actividades operativas. Especifique si la compañía usa el método directo
+o el método indirecto para reportar los flujos de efectivo operativo. Conforme sea necesario, use los
+otros estados financieros (Estado de resultados, Balance general y Estado de utilidades retenidas) y
+las notas para preparar los flujos de efectivo provenientes de las actividades operativas con el otro
+método.
+
+Respuestas del repaso rápido
+1. d 2. b 3. c 4. a 5. a 6. b 7. c 8. c 9. a 10. b
+Para tareas, ejercicios y problemas en línea que le ofrecen una
+retroalimentación inmediata, por favor, visite www.myaccountinglab.com.
+
+720
+
+Capítulo 13
+
+Preparación del estado del flujo de efectivo con el
+método directo
+El Financial Accounting Standards Board (FASB) prefiere e! método directo para la preparación de
+los reportes de flujo de efectivo provenientes de las actividades operativas. El método directo proporciona información más clara acerca de los orígenes y de las aplicaciones de efectivo que el
+método indirecto. Sin embargo, muy pocas compañías de tipo no público usan e! método directo
+porque requiere de más cálculos que e! método indirecto. Los flujos de efectivo provenientes de las
+actividades de inversión y de financiamiento siguen exactamente la misma presentación, tanto con e!
+método directo como con e! indirecto. Ya que tan sólo difiere la preparación de la sección operativa,
+eso es todo lo que exponemos en este apéndice.
+Para ilustrar cómo difiere la sección operativa del Estado de! flujo de efectivo para e! método
+directo, usaremos los datos de Smart Touch Learning que vimos en e! capítulo principal. Los pasos
+necesarios para preparar e! Estado de! flujo de efectivo con e! método directo son:
+
+El
+
+Preparar el estado
+del flujo de
+efectivo con el
+método directo
+(Apéndice 13A)
+
+PASO 1: Preparar e! diseño de! formato de la sección operativa de! Estado de! flujo de efectivo por e! método directo, como se muestra en la figura 13A-lo
+
+Formato del estado del flujo de efectivo:
+
+FIGURA 13A·1
+
+,
+
+r
+
+I Método directo
+
+SMART TOUCH LEARNING,INC.
+Estado del flujo de efectivo
+Año terminado el31 de diciembre de 2011
+Flujos de efectivo por las actividades operativas:
+Entradas:
+Cobranzas de los clientes
+Intereses recibidos
+Dividendos recibidos sobre inversiones
+Entradas de efectivo totales
+Pagos:
+A proveedores
+A empleados
+Por intereses e impuestos a la utilidad
+Pagos en efectivo totales
+Efectivo neto proporcionado por las actividades operativas
+:t Flujos de efectivo por las actividades de inversión:
++ Entradas de efectivo por las ventas de activos a largo plazo (inversiones,
+terreno, edificio, equipo, etc.)
+- Compras de activos a largo plazo
+Efectivo neto de (usado para) las actividades de inversión
+:t Flujos de efectivo por las actividades de financiamiento:
++ Entradas de efectivo por la emisión de acciones
++ Venta de acciones en tesorería
+- Compra de acciones en tesorería
++ Entradas de efectivo por la emisión de documentos o bonos por pagar (préstamo)
+- Pago de documentos o bonos por pagar
+- Pago de dividendos
+Efectivo neto por (usado para) las actividades de financiamiento
+=Incremento (decremento) neto en efectivo durante el año
++ Efectivo al 31 de diciembre de 2010
+=Efectivo al 31 de diciembre de 2011
+
+~I
+
+"1
+
+721
+
+PASO 2:
+
+Usar el Balance general comparativo para determinar el incremento o el decremento en efectivo durante el periodo. El cambio en efectivo es la "principal cifra
+reconciliadora" para el Estado del flujo de efectivo. El Balance general comparativo de Smart Touch muestra que el efectivo disminuyó en $20,000 durante 2011.
+(Véase figura 13A-2.)
+
+FIGURA 13A· 2
+
+I Balance general comparativo
+SMART ToueR LEARNING, INe.
+Balance general comparativo
+31 de diciembre de 2011 y 2010
+
+I
+t
+Partidas operativas
+
+~
+
+Partidas de in versión {
+
+Partidas operativas
+
+Partidas de financiamiento
+Utilidad neta: Operativa
+Dividendos, Financiamiento
+
+(En miles)
+
+2011
+
+2010
+
+Incremento
+(Decremento)
+
+$ 22
+90
+143
+460
+$715
+
+$ 42
+73
+145
+210
+$470
+
+$ (20)
+17
+(2)
+250
+$245
+
+Activos
+Circulantes:
+Efectivo
+Cuentas por cobrar
+Inventarios
+Activos de planta, neto
+Activos totales
+Pasivos
+Circulantes:
+Cuentas por pagar
+Pasivos devengados
+Documentos por pagar a largo plazo
+Capital contable de los accionistas
+Capital común
+Utilidades retenidas
+Menos: Acciones en tesorería
+Total
+
+FIGURA 13A·3
+
+I
+$ 90
+5
+160
+
+$ 50
+10
+80
+
+$ 40
+(5)
+80
+
+370
+110
+(20)
+$715
+
+250
+80
+
+120
+30
+(20)
+$245
+
+O
+
+$470
+
+I Estado de resultados
+SMART ToueR LEARNING, INe.
+Estado de resultados
+Año terminado el 31 de diciembre de 2011
+(En miles)
+
+lngresos y ganancias:
+Ingresos por ventas
+Gastos por intereses
+Ingresos por dividendos
+Ganancia sobre la venta de activos de planta
+Ingresos y ganancias totales
+Gastos:
+Costos de los bienes vendidos
+Gastos por sueldos y salarios
+Gasto por depreciación
+Otros gastos operativos
+Gastos por intereses
+Gastos por impuestos a la utilidad
+Gastos totales
+Utilidad neta
+
+$286
+12
+9
+10
+$317
+$156
+56
+20
+16
+15
+14
+277
+$ 40
+~
+
+722
+
+Capítulo 13
+
+PASO 3: Usar los datos disponibles para preparar el Estado del flujo de efectivo. En el caso
+de Smart Touch Learning, no hubo datos adicionales fuera de los datos del Balance
+general y del Estado de resultados de la figura 13A-3, que afecten a la sección de
+actividades operativas.
+
+El Estado del flujo de efectivo reporta tan sólo transacciones con efectos sobre el efectivo. La
+figura 13A-4 muestra el Estado del flujo de efectivo de Smart Touch Learning para 2011, terminado
+.
+y preparado con el método directo.
+
+FIGURA 13A·4
+- 1'-'
+
+I Estado del flujo de efectivo: Método directo
+SMART TOUCH LEARNING, INe.
+Estado del flujo de efectivo
+Año terminado el 31 de diciembre de 2011
+(En miles)
+
+-
+
+Flujos de efectivo por las actividades operativas:
+Entradas:
+Cobros a los clientes
+Intereses recibidos
+Dividendos recibidos
+Entradas de efectivo totales
+Salidas:
+Pagos a proveedores
+Pagos a empleados
+Pagos por intereses
+Pagos por impuestos a la utilidad
+Salidas de efectivo totales
+Efectivo neto proporcionado por las actividades operativas
+Flujos de efectivo por las actividades de inversión:
+Adquisición de activos de planta
+Entradas de efectivo por la venta de activos de planta
+Efectivo neto usado para las actividades de inversión
+Flujos de efectivo por las actividades de financiamiento:
+Entradas de efectivo por la emisión de acciones comunes
+Entradas de efectivo por la emisión de documentos por pagar
+Pago de documentos por pagar
+Compra de acciones en tesorería
+Pago de dividendos
+Efectivo neto proporcionado por las actividades de financiamiento
+Decremento neto en efectivo
+Saldo de efectivo, 31 de diciembre de 2010
+Saldo de efectivo, 31 de diciembre de 2011
+
+I
+$ 269
+12
+9
+$ 290
+$(135)
+(56)
+
+(15)
+(14)
+(220)
+70
+
+I
+
+$(310)
+50
+(260)
+$ 120
+90
+(10)
+(20)
+(10)
+170
+$ (20)
+42
+$ 22
+
+I
+I
+
+A continuación, explicaremos cómo calculamos cada número.
+
+Flujos de efectivo provenientes de las actividades operativas
+En el método indirecto, empezamos con la utilidad neta y posteriormente la ajustamos a la "base de
+efectivo" a través de una serie de partidas de ajuste. Tomamos la partida de cada línea del Estado
+de resultados y la convertimos de la base devengada a la base de efectivo. Por lo tanto, en esencia,
+la sección de actividades operativas del estado del flujo de efectivo con el método directo es en realidad tan sólo un Estado de resultados preparado sobe la base de efectivo. Podemos hacer esto
+usando el método de la cuenta-T (revise el documento de demostración de este capítulo en myaccountinglab.com) o podemos modificar la gráfica de los cambios en las cuentas que se usó anteriormente en el capítulo, como se observa en la figura 13A-5 en la siguiente página.
+El estado del flujo de efectivo
+
+723
+
+FIGURA 13A·5
+
+Método directo: forma en que los
+cambios en los saldos de las cuentas
+afectan a las entradas y las salidas de efectivo
+
+fqfre t Flujo de efe<:tivo J,. Entradas de efectivo J. o Salidas de efectivo t
+
+~,J.. Flujo de efectivo l' Entradas de efectivo l' o Salida. de efectivo J.
+
+.ii$iVQ 1 Flujo de efectivo t Entradas de efectivo l' o Sálidas de efectivo J,.
+-:::tJIIIlW4,+ Flujo de efectivo J,. Entradas de efectivo J. o Salidas de efectivo l'
+ca~,* l' Flujo de efectivo l' Entradas de efectivo l' o Salidas deefectivo J,.
+~ ~ .j,; Flujo de efectivo J. Entradas de efectivo J. o Salidas de efectivo t
+
+Observe que henos agregado las Entradas y las Salidas de efectivo a la gráfica existente. Del incremento en las entradas de efectivo o del decremento en las salidas de efectivo surgirá un incremento en efectivo. Apliquemos ahora esta información a Smart Touch Learning.
+
+Cobranzas en efectivo de los clientes
+La primera partida del Estado de resultados son los Ingresos por ventas. Los ingresos por ventas representan el total de todas las ventas, ya sean en efectivo o a crédito. La cuenta del Balance general
+relacionada con los Ingresos por ventas son las Cuentas por cobrar. Las cuentas por cobrar ascendieron de $73,000 el 31/12/10 a $90,000 el 31/12/11, un incremento de $17,000. La aplicación de
+nuestra gráfica aparece ahora como sigue:
+Ingresos por ventas - Incremento en cuentas por cobrar =Cobros de efectivo provenientes de los dientes
+$286,000
+
+$17,000
+
+$269,000
+
+Activo j Flujo de efectivo ..J, Entradas de efectivo ..J, o Salidas de efectivo j
+
+Por lo tanto, el efectivo que recibió Smart Touch de los clientes es de $269,000. Ésta es la
+primera partida en la sección de actividades operativas del estado del flujo de efectivo preparado
+con el método directo. Usted puede verificar esto observando la figura 13A-4 de la página 723.
+
+Entradas de efectivo por intereses
+La segunda partida del Estado de resultados son los ingresos por intereses. La cuenta del Balance general relacionada con los Ingresos por intereses son los Intereses por cobrar. Ya que no existe
+una cuenta de Intereses por cobrar en el Balance general, los ingresos por intereses deben haberse
+recibido en efectivo. Por ello, el estado del flujo de efectivo muestra Intereses recibidos de $12,000
+(figura 13A-4 de la página 723).
+
+Entradas de efectivo provenientes de los dividendos
+Los ingresos por dividendos son la tercera partida que se reporta en el Estado de resultados. La
+cuenta del Balance general relacionada con los Ingresos por dividendos son los Dividendos por
+cobrar. Como sucede con los intereses, no existe una cuenta Dividendos por cobrar en el Balance
+general. Por lo tanto, el ingreso por dividendos debe haberse recibido en efectivo. Así, el estado del
+flujo de efectivo muestra que se recibieron $9,000 en efectivo por concepto de dividendos, de
+acuerdo con la figura 13A-4 de la página 723.
+
+724
+
+Capítulo 13
+
+----~~----------~-
+
+Ganancias sobre la venta de activos de planta
+La siguiente partida del estado de resultados es la ganancia sobre la venta de activos de planta. Sin
+embargo, el efectivo recibido de la venta de activos se reporta en la sección de actividades de inversión, y no en la sección de actividades operativas. Como se hizo notar anteriormente, no hay diferencia en la sección de actividades de inversión entre el método indirecto y el método directo del Estado
+del flujo de efectivo.
+
+Pagos a los proveedores
+Los pagos a los proveedores incluyen todos los pagos para:
+•
+•
+
+el inventario y
+los gastos operativos excepto las remuneraciones de los empleados, los intereses y los impuestos
+a la utilidad.
+
+Los proveedores son aquellas entidades que proporcionan a la empresa sus inventarios y sus servicios esenciales. Las cuentas relacionadas con los pagos a los proveedores por inventarios son Costos de los bienes vendidos, Inventarios y Cuentas por pagar. El costo de los bienes vendidos del Estado
+de resultados fue de $156,000. El inventario disminuyó de $145,000 el 31/12/10 a $143,000 el
+31/12/11. Las cuentas por pagar aumentaron de $50,000 el 31/12/10 a $90,000 el 31/12/11. Con la
+aplicación de nuestra fórmula, podemos calcular el efectivo pagado por el inventario como sigue:
+Costo de los bienes vendidos - Decremento en inventarios - Incremento en cuentas por pagar =Efectivo pagado por el inventario
+40,000
+$114,000
+$2,000
+$156,000
+Activo J. Flujo de efectivo i Entradas de efectivo i o Salidas de efectivo J. Pasivo i Flujo de efectivo i Entradas de efectivo i o Salidas de efectivo J.
+
+Las cuentas relacionadas con los pagos a los proveedores por los gastos operativos son Gastos
+operativos y Pasivos devengados. Los gastos operativos del Estado de resultados fueron de $16,000.
+Los pasivos devengados disminuyeron de $10,000 el 31/12/10 a $5,000 el 31/12/11. Con la aplicación de nuestra fórmula, podemos calcular el efectivo pagado por los gastos operativos como sigue:
+Gastos operativos + Decremento en pasivos devengados = Efectivo pagado por las operaciones
+$16,000
++
+5,000
+$21,000
++ Pasivo J.. Flujo de efectivo J. Entradas de efectivo J.. o Salidas de efectivo i
+Al añadir estas partidas, obtenemos un total de efectivo pagado a los proveedores de $135,000.
+(Confirme esto en la figura 13A-4 de la página 723).
+Efectivo pagado por el inventario + Efectivo pagado por las operaciones = Efectivo pagado a los proveedores
+
+$114,000
+
++
+
+21,000
+
+$135,000
+
+Pagos a los empleados
+Esta categoría incluye los pagos por salarios, sueldos y otras formas de remuneración a los empleados. Los montos devengados no son flujos de efectivo porque aún no se han pagado. Las cuentas
+relacionadas con los pagos a los empleados son Gastos por salarios y sueldos del Estado de resultados y Salarios y sueldos por pagar del Balance general. Ya que no existe una cuenta de Salarios por
+pagar en el Balance general, la cuenta de gastos por salarios y sueldos debe representar la totalidad
+de los montos pagados en efectivo a los empleados. Por lo tanto, el estado del flujo de efectivo muestra pagos en efectivo a los empleados por $56,000 (figura 13A-4 de la página 723).
+
+El estado del flujo de efectivo
+
+725
+
+Depreciación, agotamiento y gastos de amortización
+Estos gastos no se reportan en el método directo del Estado del flujo de efectivo porque no afectan
+al efectivo.
+
+Pagos por gastos de intereses
+Estos pagos en efectivo se reportan de manera separada de los demás gastos. Las cuentas relacionadas con los pagos de intereses son Gastos por intereses del Estado de resultados e Intereses por
+pagar del Balance general. Ya que no existe una cuenta de Intereses por pagar en el Balance general,
+la cuenta de gastos por intereses del Estado de resultados debe representar todos los montos pagados
+en efectivo por los intereses. Por lo tanto, el estado del flujo de efectivo muestra los pagos en efectivo
+relacionados con un monto de intereses por $15,000 (figura 13A-4 de la página 723).
+
+Pagos por gastos de impuestos a la utilidad
+Al igual que los gastos por intereses, estos pagos en efectivo se reportan en forma separada de los
+demás gastos. Las cuentas relacionadas con los pagos de impuestos a la utilidad son Gastos de impuestos a la utilidad del Estado de resultados e Impuestos a la utilidad por pagar del Balance general.
+Puesto que no existe una cuenta IMPUESTOS A LA UTILIDAD por pagar en el Balance general,
+la cuenta de gastos por impuestos a la utilidad del Estado de resultados debe representar todos
+los montos pagados en efectivo por el impuesto a la utilidad. Por lo tanto, el Estado del flujo de
+efectivo muestra los pagos en efectivo por impuestos a la utilidad de $14,000 (figura 13A-4 de la
+página 723).
+
+Efectivo neto proporcionado por las actividades operativas
+Para calcular el efectivo neto proporcionado por las actividades operativas usando el método directo, añadimos todas las entradas y las salidas de efectivo que se describieron anteriormente y obtenemos la diferencia. Para Smart Touch Learning, el total de entradas de efectivo fue de $290,000.
+Los pagos de efectivo totales fueron de $220,000. Por consiguiente, el efectivo neto proporcionado
+por las actividades operativas es de $70,000. Si nos volvemos a referir al estado del flujo de efectivo
+calculado con el método indirecto que se presenta en la figura 13-4 de la página 686, encontraremos
+que presentó los mismos $70,000 para el efectivo neto proporcionado por las actividades operativas:
+tan sólo el método con el cual se calculó fue diferente.
+La parte restante del Estado del flujo de efectivo de Smart Touch Learning es exactamente la
+misma que calculamos usando el método indirecto. (Véase la figura 13-4 de la página 686.)
+
+726
+
+Capítulo 13
+
+Problema de resumen
+Suponga que 13erkshire Hathaway está considerando la compra de Granite Shoals Corporation.
+Granite Shoals reportó el siguiente Balance general comparativo y el siguiente Estado de resultados para 2011:
+
+GRANnESHO~CORPORATION
+
+Balance general
+31 de diciembre de 2011 y de 2010
+
+Efectivo
+Cuentas por cobrar
+Inventarios
+Gastos pagados por adelantado
+~uipo (neto)
+
+Pasivos devengados
+Impuestos a la utilidad por pagar
+Capital común
+Utilidades retenidas
+Acciones en tesorería
+Pasivos y capital contable de los accionistas totales
+
+2011
+
+2010
+
+$ 19,000
+22,000
+34,000
+1,000
+90,000
+9,000
+$175,000
+
+Incremento
+(Decremento)
+
+$
+
+3,000
+23,000
+31,000
+3,000
+79,000
+9,000
+$148,000
+
+$16,000
+(1,000)
+3,000
+(2,000)
+11,000
+
+$ 14,000 $ 9,000
+16,000
+19,000
+14,000
+12,000
+45,000
+50,000
+31,000
+20,000
+64,000
+40,000
+(2,000)
+(9,000)
+$175,000 $148,000
+
+$ 5,000
+(3,000)
+2,000
+(5,000)
+11,000
+24,000
+(7,000)
+$27,000
+
+$27,000
+
+GRANnESHO~CORPORATION
+
+Estado de resultados
+Año terminado el 31 de diciembre de 2011
+Ingresos por ventas
+Ganancias sobre la venta de equipo
+Ingresos y ganancias totales
+Costos de los bienes vendidos
+Gastos por depreciación
+Otros gastos operativos
+Gastos totales
+Utilidad antes de impuestos a la utilidad
+Gastos por impuestos a la utilidad
+Utilidad neta
+
+$190,000
+6,000
+196,000
+$ 85,000
+19,000
+36,000
+140,000
+56,000
+18,000
+$ 38,000
+
+El estado del flujo de efectivo
+
+727
+
+Se requiere
+1. Calcular los siguientes montos del flujo de efectivo para 2011.
+a) Cobranzas a los clientes
+b) Pagos por inventarios
+e) Pagos por otros gastos operativos
+d) Pago de impuestos a la utilidad
+e) Adquisición de equipo. Granite Shoals vendió un equipo que tenía un valor en libros
+de $15,000
+f) Entrada de efectivo por la venta de activos de planta
+g) Emisión de un documento por pagar a largo plazo. Granite Shoals pagó $10,000 de
+documentos por pagar a largo plazo
+h) Emisión de acciones comunes
+i) Pago de dividendos
+j) Compra de acciones en tesorería
+2. Preparar el Estado del flujo de efectivo de Granite Shoals Corporation (método directo)
+para el año que terminó el31 de diciembre de 2011. No hubo actividades de inversión y
+de financiamiento que no implicaran efectivo.
+
+728
+
+Capítulo 13
+
+Soluci6n
+1. Montos del flujo de efectivo:
+1. Montos del flujo de efectivo:
+a)
+Cobros
+Ingresos
+a los
+= por ventas +
+clientes
+
+b)
+
+$191,000
+
+$190,000 +
+
+Pagos
+por
+inventarios
+
+Incremento
+Costo de
+los bienes +
+en
+vendidos
+inventarios
+
+=
+
+$83,000
+e)
+
+Decremento
+en cuentas
+por cobrar
+
+$85,000
+
+Pagos por
+otros gastos
+operativos
+
+=
+
+$37,000
+
+$1,000
+Incremento
+en cuentas
+por pagar
+
+$3,000
+
++
+
+$5,000
+
+Otros
+gastos
+operativos
+
+Decremento en
+gastos pagados
+por adelantado
+
++
+
+Decremento
+en pasivos
+devengados
+
+$36,000
+
+$2,000
+
++
+
+$3,000
+
+= Gastos por impuestos
+
+a la utilidad
+
+a la utilidad
+
+Incremento en impuestos
+a la utilidad por pagar
+
+$16,000
+
+$18,000
+
+$2,000
+
+d) Pago de impuestos
+
+e) Equipo, Neto (sea X = Adquisiciones)
+
+Inicial
+
++
+
+Adquisiciones
+
+$79,000
+
++
+
+X
+X
+
+-
+
+f) Venta de activos de planta
+Efectivo
+Valor en libros de
+recibido = los activos vendidos
+
+$21,000
+
+$15,000
+
+Gasto por
+depreciación
+
+Valor en libros
+=
+de la venta
+
+Final
+
+$19,000
+$45,000
+
+$15,000
+
+$90,000
+
++
+
+Ganancias
+sobre la venta
+
++
+
+$6,000
+
+g) Documento por pagar a largo plazo (sea X
+
++
+
+Emisión
+
+Pago
+
+$50,000
+
++
+
+X
+
+$10,000
+$ 5,000
+
+X
+
+=Emisión)
+=
+
+Inicial
+
+Final
+
+$45,000
+
+h) Capital común (sea X = Emisión)
+
+Inicial
+
++
+
+Emisión
+
+$20,000
+
++
+
+X
+X
+
+=
+
+Final
+
+= $31,000
+= $11,000
+
+Utilidades retenidas (sea X =Dividendos)
+Inicial
++ Utilidad neta - Dividendos
+
+$40,000
+
++
+
+X
+
+$38,000
+
+X
+
+=
+
+Final
+
+$64,000
+$14,000
+
+¡) Acciones en tesorería (sea X = Compras)
+Inicial
+
++
+
+Compras
+
+=
+
+Final
+
+$2,000
+
++
+
+X
+X
+
+=
+=
+
+$9,000
+$7,000
+
+El estado del flujo de efectivo
+
+729
+
+2.
+l'
+
+GRANnESHOALSCORPORATION
+Estado del flujo de efectivo
+Año terminado el31 de diciembre de 2011
+Flujos de efectivo por las actividades operativas:
+Entradas de efectivo:
+Cobros a los clientes
+Pagos:
+A proveedores ($83,000 + $37,000)
+r-- lPara impuestos a la utilidad
+Efectivo neto proporcionado por las actividades operativas
+Flujos de efectivo por las actividades de inversión:
+Adquisición de activos de planta
+Venta de activos de planta ($15,000 + $6,000)
+Efectivo neto usado para las actividades de inversión
+
+~
+
+$ 191,000
+~-
+
+(120,000)
+(16,000)
+$ 55,2.2,[
+
+-
+
+-
+
+~.
+
+$ (45,000)
+21,000
+
+(24,000)
+~ ~~-~
+
+Flujos de efectivo por las actividades de financiamiento:
+Pago de dividendos
+Emisión de acciones comunes
+Pago de un documento por pagar
+Compra de acciones en tesorería
+- Emisión de un documento por pagar
+Efectivo neto usado para las actividades de financiamiento
+-
+
+LL-
+
+e
+
+-
+
+$ (14,000)
+11,000
+(10,000)
+(7,000)
+5,000
+
+~
+
+-
+
+-
+
+(15,000)
+
+~
+
+Incremento neto en efectivo
+Saldo de efectivo, 31 de diciembre de 2010
+Saldo de efectivo, 31 de diciembre de 2011
+
+$ 16,000
+
+-
+
+3,000
+$ 19,000
+
+f
+~
+
+730
+
+Capítulo 13
+
+Tareas del Apéndice 13A
+
+• Ejercicios cortos
+EC13A-1 (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo con el
+método directo [15 min]
+White Chocolate, Inc., empezó el año 2011 con un saldo de efectivo de $52,000. Durante
+el año, White Chocolate obtuvo ingresos de $591,000 y cobró $624,000 a los clientes.
+Los gastos del año totalizaron $423,000, de los cuales White Chocolate pagó $413,000
+en efectivo a proveedores y empleados. White Chocolate también pagó $143,000 para
+comprar equipo y para distribuir un dividendo en efectivo por $49,000 a sus accionistas
+durante 2011.
+
+Se requiere
+1.
+
+Preparar el Estado del flujo de efectivo de la compañía para el año que terminó el 31
+de diciembre de 2011. Dé formato a las actividades operativas usando el método
+directo.
+
+EC13A-2 (Objetivo de aprendizaje 4) Preparación de las actividades operativas usando el
+método directo [5 min]
+Stella's Learning Center ha recopilado los siguientes datos para el año que terminó el 30
+de junio de 2011:
+Pagos a proveedores . .. . .... ..... .... .. . ....... $ 110,000
+Compra de equipo . .. ....... . . .. . . . . . . . ...... .
+37,000
+Pagos a los empleados . . . . . .. .. . ..... . .... .... .
+68,000
+Pago de un documento por pagar .... . ... .. . . ... . .
+34,000
+4,000
+Pago de dividendos ... .. .... . ....... . . . ..... . . .
+Entradas de efectivo por la emisión de acciones .... . .
+20,000
+Cobranzas a los clientes .......... . .. . ... .... . . . 196,000
+Entradas de efectivo por la venta de terreno . . . ..... .
+61,000
+
+Se requiere
+1. Preparar la sección de las actividades operativas del Estado del flujo de efectivo de la
+empresa para el año que terminó el 30 de junio de 2011, usando el método directo
+para los flujos de efectivo operativo.
+
+Nota: El ejercicio corto 13A-3 debería realizarse tan sólo después de terminar el ejercicio
+corto 13A-2.
+EC13A-3 (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo con el método directo [15 min]
+Use los datos del ejercicio corto 13A-2 y sus resultados.
+
+Se requiere
+1.
+
+Preparar el Estado del flujo de efectivo completo para el año que terminó el 30 de
+junio de 2011, usando el método directo para las actividades operativas. Deténgase
+después de determinar el incremento (o el decremento) neto en efectivo.
+
+El estado del flujo de efectivo
+
+731
+
+EC13A-4 (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo con el
+método directo [15 min)
+White Toy Company reportó el siguiente Balance general:
+WHITE TOY COMPANY
+
+Balance general comparativo
+31 de diciembre de 2011 y 2010
+Activos
+Pasivos
+2010
+2011
+Circulante:
+Circulante:
+Efectivo
+$ 20,000 $ 16,000
+Cuentas por pagar
+Cuentas por cobrar
+44,000
+Salarios por pagar
+50,000
+Inventario
+Pasivos devengados
+75,000
+82,000
+2,500
+1,500 Documentos por pagar a largo plazo
+Gastos pagados por adelantado
+Jnversio~es a largo plazo
+72,000
+88,000 Capital contable de los accionistas
+Activos de planta, neto
+228,000 187,000 Capital común
+Utilidades retenidas
+
+2011
+
+2010
+
+$ 46,000 $ 42,000
+21,000
+18,000
+4,000
+13,000
+61,000
+69,000
+36,000
+
+30,000
+
+279,500
+
+246,500
+
+$447,500 $418,500 Pasivos y capital contable de los accionistas totales $447,500 $418,500
+
+Activos totales
+
+Se requiere
+
+1.
+
+Calcular lo siguiente para White Toy Company:
+a) Las cobranzas a los clientes durante 2011. Las ventas totalizaron $142,000.
+b) Los pagos de inventarios durante 2011. El costo de los bienes vendidos fue de
+
+$79,000 .
+
+• Ejercicios
+(Objetivo de aprendizaje 4) Identificación de las categorías de actividades: método
+directo [10 a 15 min)
+Considere las siguientes transacciones:
+
+E13A-5
+
+_ _ a) Cobranzas de cuentas por cobrar
+
+_ _ i)
+
+_ _ b) Emisión de un documento por paga r
+
+- - i l Emisión de acciones comunes
+
+para solicitar fondos en préstamo
+
+Compra de acciones en tesorería
+
+para obtener efectivo
+
+_ _ e) Depreciación
+
+_ _ k) Pago de una cuenta por pagar
+
+_ _ d) Emisión de acciones preferentes
+
+__ /) Adquisición de un edificio media nte
+
+para obtener efectivo
+
+la emisión de acciones comunes
+
+_ _ e) Pago de dividendos en efectivo
+
+_ _ m ) Compra de equipo
+
+- - f) Venta de terrenos
+
+_ _ n ) Pago de sueldos a
+
+-
+
+-
+
+g) Adquisición de equipo mediante la
+
+emisión de un documento por pagar
+_
+
+_ h ) Pago de un documento por pagar
+
+empleados
+_ _ o) Cobro de intereses en efectivo
+- - p ) Venta de edificio
+
+Se requiere
+
+1.
+
+732
+
+Cap ítulo 13
+
+Identificar cada una de las transacciones como una
+
+• Actividad operativa (O),
+• Actividad de inversión (1),
+• Actividad de financiamiento (F),
+• Actividad de inversión y de financiamiento que no implica efectivo (NIF), o
+• Transacciones que no se reportan en el Estado del flujo de efectivo (N).
+Para cada flujo de efectivo, indique si la partida aumenta (+) o disminuye (-) el efectivo. Se
+usa el método directo para los flujos de efectivo provenientes de las actividades operativas.
+
+E13A-6
+
+(Objetivo de aprendizaje 4) Identificación de las categorías de actividades de las
+transacciones -método directo [5 a 10 min]
+Considere las siguientes transacciones:
+
+a) Terreno
+
+g) Gastos por salarios
+
+18,000
+
+Efectivo
+
+18,000
+
+b) Efectivo
+
+7,200
+
+h) Efectivo
+
+7,200
+
+Equipo
+e) Bonos por pagar
+
+45,000
+
+d) Edificio
+
+164,000
+
+1,400
+
+e) Efectivo
+
+Cuentas por cobrar
+f) Dividendos por pagar
+
+81,000
+13,000
+13,000
+2,000
+
+Ingresos por intereses
+k) Terreno
+
+1,400
+
+Efectivo
+
+16,500
+
+1) Cuentas por pagar
+Efectivo
+
+16,500
+
+Efectivo
+
+81,000
+
+Efectivo
+j) Efectivo
+
+164,000
+
+Documento por pagar
+
+4,300
+
+Capital común
+i) Acciones en tesorería
+
+45,000
+
+Efectivo
+
+4,300
+
+Efectivo
+
+2,000
+87,700
+87,700
+8,300
+8,300
+
+Se requiere
+1.
+
+E13A-7
+
+Indicar dónde, si es que en alguna parte, se reportaría cada una de las transacciones
+en un Estado del flujo de efectivo preparado con el método directo, y en el reporte
+adjunto de las actividades de inversión y de financiamiento que no implican efectivo.
+
+(Objetivo de aprendizaje 4) Preparación del flujo de efectivo proveniente de las
+actividades operativas: método directo [10 a 15 min]
+Los registros contables de Value Auto Parts revelan lo siguiente:
+Pago de salarios y sueldos
+Depreciación
+Pago de intereses
+Pago de dividendos
+Cobranzas a los clientes
+
+$ 36,000
+12,000
+15,000
+5,000
+118,000
+
+Utilidad neta
+$ 23,000
+13,000
+Pago de impuestos a la utilidad
+Cobro de ingresos por dividendos
+5,000
+Pago a proveedores
+56,000
+
+Se requiere
+1. Calcular los flujos de efectivo provenientes de las actividades operativas usando el
+método directo.
+
+El estado del flujo de efectivo
+
+733
+
+E13A-8
+
+(Objetivo de aprendizaje 4) Identificación de las categorías de actividades de las
+transacciones: método directo [5 a 10 min]
+Ciertas cuentas selectas de Routing Networks, Inc., muestran lo siguiente:
+Cuentas por cobrar
+Saldo inicial
+Ingresos por servicios
+
+9,300
+38,000
+
+Saldo final
+
+11,300
+
+Cobros en efectivo
+
+36,000
+
+Terreno
+Saldo inicial
+Adquisición
+
+93,000
+16,000
+
+Saldo final
+
+109,000
+
+Documentos por pagar a largo plazo
+Pagos
+
+69,000
+
+Saldo inicial
+Emisiones para obtener efectivo
+
+2 77,000
+85,000
+
+Saldo final
+
+293,000
+
+Se requiere
+1. Para cada cuenta, identificar la partida o partidas que deberían aparecer en un Es-
+
+tado del flujo de efectivo preparado por el método directo. Mencione también el
+monto de cada partida y dónde hay que reportarla.
+E13A-9
+
+(Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo: método
+directo [20 a 30 min]
+A continuación se presenta el Estado de resultados y otros datos adicionales de Rolling
+Hills Corporation:
+ROLLING HILLS CORPORATION
+Estado de resultados
+
+Año terminado el 30 de junio de 2010
+
+I
+
+Ingresos:
+Ingresos por ventas
+Ingresos por dividendos
+Gastos:
+Costos de los bienes vendidos
+Gastos por salarios
+Gasto por depreciación
+Gasto por publicidad
+Gasto por impuestos a la utilidad
+Gasto por intereses
+Utilidad neta
+
+734
+
+Capítulo 13
+
+$ 228,000
+
+7,000
+
+$ 235,000
+
+$ 105,000
+42,000
+22,000
+13,500
+9,500
+
+194,500
+
+2,500
+$
+
+40,500
+
+A continuación se presentan algunos datos adicionales:
+a)
+
+Los cobros provenientes de los clientes son de $14,500 más que las ventas.
+
+b) Los ingresos por dividendos, el gasto por intereses y el gasto por impuestos a la utilidad son iguales a sus montos en efectivo.
+e) Los pagos a los proveedores son la suma del costo de los bienes vendidos, más el gasto por publicidad.
+d) Los pagos a empleados son de $1,500 más que los gastos por salarios.
+
+e) La adquisición de los activos de planta es de $100,000.
+
+f) Las entradas de efectivo provenientes de la venta del terreno hacen un total de $21,000.
+g) Las entradas de efectivo provenientes de la emisión de acciones comunes hacen un total de $38,000.
+
+El pago del documento por pagar a largo plazo es de $11,000.
+El pago de los dividendos es de $10,500.
+i) El saldo de efectivo al 30 de junio de 2009 era de $20,000; al 30 de junio de 2010, de $33,000.
+h)
+
+i)
+
+Se requiere
+1.
+
+Preparar el Estado del flujo de efectivo de Rolling Hills Corporation para el año que
+terminó el 30 de junio de 2010. Use el método directo.
+
+E13A-10 (Objetivo de aprendizaje 4) Cálculo de las partidas del flujo de efectivo: método
+directo [10 a 15 min]
+Considere los siguientes hechos:
+a) Las cuentas por cobrar iniciales y finales son de $22,000 y de $18,000, respectivamente.
+b)
+
+Las ventas a crédito del periodo hacen un total de $60,000.
+El costo de los bienes vendidos es de $75,000. El saldo del Inventario inicial
+es de $25,000 y el saldo del Inventario final es de $21,000. Las cuentas por pagar
+inicial y final son de $11,000 y de $8,000, respectivamente.
+
+Se requiere
+1.
+2.
+
+Calcular los cobros de efectivo a los clientes.
+Calcular los pagos en efectivo por inventarios.
+
+E13A-11 (Objetivo de aprendizaje 4) Cálculo de las partidas del flujo de efectivo: método
+directo [20 a 30 min]
+TipTop Mobile Homes reportó lo siguiente en sus estados financieros para el año que terminó el 31 de diciembre de 2011 (adaptado, en millones):
+2011
+Estado de resultados
+$
+Ventas netas
+Costo de ventas ....................
+Depreciación ......................
+Otros gastos operativos .. .. . . .... . ...
+Gasto por impuestos a la utilidad .. .. ...
+Utilidad neta ..... .. ...... . ... .. .. . $
+Balance general
+Efectivo y equivalentes de efectivo .. . ... $
+Cuentas por cobrar ............. . ...
+Inventarios ... . ..... . ... .......... .
+Propiedad y equipo, neto ........ ... . .
+Cuentas por pagar ... .. . .. ..........
+Pasivos devengados . .. ... ...........
+Pasivos a largo plazo ................
+Capital común .....................
+Utilidades retenidas .................
+o
+
+•••••••••••••••••
+
+•
+
+••
+
+•
+
+•
+
+2010
+
+24,859
+18,121
+270
+4,432
+532
+1,504
+
+$
+
+17
+798
+3,483
+4,342
+1,546
+938
+477
+678
+5,001
+
+$
+
+$
+
+21,674
+15,497
+234
+4,221
+486
+1,236
+16
+621
+2,830
+3,428
+1,362
+848
+467
+446
+3,772
+
+El estado del flujo de efectivo
+
+735
+
+Se requiere
+1. Determinar lo siguiente para TipTop Mobile Homes durante 2011:
+a) Las cobranzas a los clientes
+b) Los pagos por inventarios
+e) Los pagos de los gastos operativos
+d) Las adquisiciones de propiedades y equipo (no hubo ventas de propiedades durante 2011)
+e) La solicitud de fondos en préstamo sin que TipTop haga pagos por pasivos a largo plazo
+fJ Las entradas de efectivo provenientes de la emisión de acciones comunes
+g) El pago de dividendos en efectivo
+
+• Problemas (Grupo A)
+P13A-12A (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo: método
+directo [35 a 45 min]
+Los contadores de KTG, Inc., han desarrollado los siguientes datos a partir de los registros contables de la compañía, para e! año que terminó e! 30 de noviembre de 2011:
+a) Compra de activos de planta, $58,400
+b) Entrada de efectivo proveniente de la emisión de documentos por pagar, $48,100
+e) Pagos de documentos por pagar, $49,000
+d) Entrada de efectivo por la venta de activos de planta, $22,500
+e) Entrada de efectivo por dividendos, $4,200
+f) Pagos a proveedores, $371,300
+g) Gastos y pagos de intereses, $13,500
+h) Pagos de salarios, $94,000
+i) Gastos y pagos de impuestos a la utilidad, $39,000
+j) Gasto por depreciación, $57,000
+k) Cobros a los clientes, $605,300
+l) Pago de dividendos en efectivo, $50,400
+m) Entrada de efectivo proveniente de la emisión de acciones comunes, $68,900
+n) Saldo de efectivo: 30 de noviembre de 2010, $39,700; 30 de noviembre de 2011, $113,100
+
+Se requiere
+1. Preparar e! Estado de! flujo de efectivo de KTG para e! año que terminó e! 30 de
+noviembre de 2011. Use e! método directo para los flujos de efectivo provenientes
+de las actividades operativas.
+P13A-13A (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo: método
+directo [40 min]
+Use los datos de North American Reserve Rare Coins del problema 13-22A.
+Se requiere
+
+1.
+
+2.
+3.
+
+Preparar e! Estado de resultados de North American Reserve Rare Coins, para el año
+que terminó e! 31 de diciembre de 2010. Use e! formato de una sola etapa, presentando todos los ingresos juntos y todos los gastos juntos.
+Preparar e! Balance general de North American Reserve al31 de diciembre de 2010.
+Preparar e! Estado de! flujo de efectivo de North American Reserve, para e! año que
+terminó el 31 de diciembre de 2010. Dé formato a los flujos de efectivo provenientes
+de las actividades operativas usando el método directo.
+
+P13A-14A (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo: método
+directo [30 a 40 min]
+Use los datos de Cobbs Hill del problema 13-25A.
+Se requiere
+
+1.
+
+2.
+736
+
+Capítulo 13
+
+Preparar e! Estado del flujo de efectivo de 2012 con el método directo.
+¿Cómo le ayudará a evaluar una inversión lo que aprendió en este problema?
+
+P13A-15A (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo: método
+directo [45 a 60 min]
+Para preparar el Estado del flujo de efectivo, los contadores de I-M-Mobile, Inc., han
+resumido las actividades de la cuenta Efectivo durante 2010, como sigue:
+
+Efectivo
+Saldo inicial
+Emisión de acciones comunes
+Entradas de efectivo por ingresos
+por intereses
+Cobros a los clientes
+
+Pagos de gastos operativos
+Pagos de salarios y sueldos
+Pago de un documento por pagar
+17,100 Pago de impuestos a la utilidad
+308,600 Pagos de cuentas por pagar
+Pagos de dividendos
+Pagos de intereses
+Compra de equipo
+
+Saldo final
+
+95,800
+
+87,300
+60,700
+
+46,200
+65,500
+82,000
+6,000
+101,100
+1,500
+21,100
+54,500
+
+Se requiere
+1. Preparar el Estado del flujo de efectivo de I-M-Mobile para el año que terminó el31 de
+diciembre de 2010, usando el método directo para reportar las actividades operativas .
+
+• Problemas (Grupo B)
+P13A-16B (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo: método
+directo [35 a 45 min]
+Los contadores de SKG, Inc., han desarrollado los siguientes datos a partir de los registros contables de la compañía, para el año que terminó el 30 de noviembre de 2011:
+a)
+
+Compra de activos de planta, $55,400
+
+b) Entrada de efectivo proveniente de la emisión de documentos por pagar, $43,100
+
+e) Pagos de documentos por pagar, $48,000
+d) Entrada de efectivo por la venta de activos de planta, $25,500
+e) Entrada de efectivo por dividendos, $4,400
+
+f) Pagos a proveedores, $374,800
+g) Gastos y pagos de intereses, $12,500
+h) Pagos de salarios, $95,000
+i) Gastos y pagos de impuestos a la utilidad, $40,000
+i) Gasto por depreciación, $56,500
+k) Cobros a los clientes, $605,500
+1) Pago de dividendos en efectivo, $50,400
+m) Entrada de efectivo proveniente de la emisión de acciones comunes, $60,900
+n) Saldo de efectivo: 30 de noviembre de 2010, $40,000; 30 de noviembre de 2011, $103,300
+
+Se requiere
+1. Preparar el Estado del flujo de efectivo de SKG para el año que terminó el 30 de
+noviembre de 2011. Use el método directo para los flujos de efectivo provenientes
+de las actividades operativas.
+P13A-17B (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo: método
+directo [40 min]
+Use los datos de Official Reserve Rare Coins del problema 13-26B.
+Se requiere
+
+1.
+
+2.
+3.
+
+Preparar el Estado de resultados de Official Reserve Rare Coins, para el año que terminó el 31 de diciembre de 2010. Use el formato de una sola etapa, listando todos
+los ingresos juntos y todos los gastos juntos.
+Elaborar el Balance general de Official Reserve al31 de diciembre de 2010.
+Preparar el Estado del flujo de efectivo de Official Reserve para el año que terminó el
+31 de diciembre de 2010. Dé formato a los flujos de efectivo provenientes de las
+actividades operativas con el método directo.
+El estado del flujo de efectivo
+
+737
+
+P13A-18B (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo: método
+directo [30 a 40 min]
+
+Use los datos de Digital Subscriptions del problema 13-29B.
+
+Se requiere
+1.
+
+Preparar el Estado del flujo de efectivo de 2012 con el método directo.
+
+2. ¿Cómo le ayudará a evaluar una inversión lo que aprendió en este problema?
+P13A-19B (Objetivo de aprendizaje 4) Preparación del estado del flujo de efectivo: método
+directo [45 a 60 min]
+
+Para preparar el Estado del flujo de efectivo, los contadores de B-Mobile, Inc., han resumido las actividades observadas en la cuenta Efectivo, durante 2010, como sigue:
+Efectivo
+Saldo inicial
+Emisión de acciones comunes
+Entradas de efectivo por ingresos
+por intereses
+Cobros a los clientes
+
+87,400 Pagos de gastos operativos
+60,100 Pagos de salarios y sueldos
+Pago de un documento por pagar
+14,600 Pago de impuestos a la utilidad
+308,900 Pagos de cuentas por pagar
+Pagos de dividendos
+Pagos de intereses
+Compra de equipo
+
+Saldo final
+
+97,300
+
+46,700
+69,500
+75,000
+9,500
+101,100
+1,300
+21,100
+49,500
+
+Se requiere
+1. Preparar el Estado del flujo de efectivo de B-Mobile para el año que terminó el 31
+
+de diciembre de 2010, usando el método directo para reportar las actividades
+operativas.
+
+738
+
+Capítulo 13
+
+Preparación del estado del flujo de efectivo con el método
+indirecto usando una hoja de cálculo electrónica
+El cuerpo de este capítulo expone las aplicaciones del Estado del flujo de efectivo en la toma de decisiones y muestra cómo preparar dicho estado mediante cuentas-T. El enfoque de la cuenta-T funciona bien corno un instrumento de aprendizaje. Sin embargo, en la práctica, la mayoría de las
+empresas se enfrentan a situaciones complejas. En estos casos, una hoja de cálculo electrónica ayuda
+en la preparación del Estado del flujo de efectivo.
+La hoja de cálculo empieza con el Balance general inicial y concluye con el Balance general final.
+Dos columnas intermedias -una para las cantidades de cargos y la otra para las cantidades
+de abonos- completan la hoja electrónica. Estas columnas, las cuales se denominan "Análisis de
+transacciones", mantienen los datos del Estado del flujo de efectivo. Los contadores pueden preparar
+el estado directamente usando la parte inferior de la hoja de cálculo. Este apéndice se basa en los
+datos de Smart Touch Learning usados en el capítulo. Ilustramos este enfoque tan sólo con el método
+indirecto para las actividades operativas. Esta metodología también sirve con el método directo.
+El método indirecto reconcilia la utilidad neta con el efectivo neto proporcionado por las actividades operativas. La figura 13B-1 de la siguiente página es la hoja electrónica para preparar el
+Estado del flujo de efectivo con el método indirecto . El panel A muestra el análisis de transacciones,
+y el panel B proporciona el Estado del flujo de efectivo.
+
+Análisis de transacciones en la hoja de cálculo: Método indirecto
+a)
+
+b)
+
+e)
+
+d)
+e)
+
+f)
+
+g)
+
+h)
+i)
+
+j)
+
+La utilidad neta de $40,000 es el primer flujo de entrada de efectivo operativo. La utilidad neta
+se ingresa en la hoja electrónica (Panel B), como un cargo a Utilidad neta bajo los Flujos de
+efectivo provenientes de las actividades operativas y como un abono a Utilidades retenidas en el
+Balance general (Panel A).
+A continuación se presentan los ajustes a la utilidad neta, empezando con una depreciación de
+$20,000 -transacción (b)-la cual se carga a Depreciación y se abona a Activos de planta, neto.
+Esta transacción es la venta de los activos de planta. La ganancia de $10,000 sobre la venta
+se ingresa como un abono a Ganancia sobre la venta de activos de planta -una resta de la utilidad neta- bajo los flujos de efectivo operativo. Este abono elimina la ganancia de $10,000
+proveniente de las operaciones, ya que los fondos en efectivo provenientes de la venta fueron
+de $50,000, y no de $10,000. El monto de la venta de $50,000 se ingresa después en la hoja de
+cálculo bajo las actividades de inversión. El asiento (e) se completa haciendo un abono por el
+valor en libros de los activos de planta por $40,000 a la cuenta Activos de planta, neto.
+El asiento (d) carga a Cuentas por cobrar por su incremento de $17,000 durante el año. Este
+monto se abona a Incremento en cuentas por cobrar bajo los flujos de efectivo operativo.
+Este asiento carga a Inventarios por su decremento de $2,000 durante el año. Esta cantidad se
+carga a Decremento en inventarios bajo los flujos de efectivo operativo.
+Este asiento abona a Cuentas por pagar por su incremento de $40,000 durante el año.
+Posteriormente, se carga para mostrarse como un Incremento en las cuentas por pagar bajo los
+flujos de efectivo operativo.
+Este asiento carga a Pasivos acumulados por su decremento de $5,000 durante el año. Luego se
+abona para mostrarse como Decremento en pasivos devengados bajo los flujos de efectivo
+operativo.
+Este asiento carga a Activos de planta, neto por su compra ($310,000) y abona a Adquisición
+de activos de planta bajo los flujos de efectivo de inversión.
+Este asiento carga a Entradas de efectivo provenientes de la emisión de acciones comunes ($120,000)
+bajo los flujos de efectivo de financiamiento. El abono compensador es a Capital común.
+Este asiento está representado por un abono a Documentos por pagar a largo plazo y por un
+cargo bajo los flujos de efectivo provenientes de las actividades de financiamiento por $90,000
+(Entrada de efectivo por la emisión de documentos por pagar).
+El estado del flujo de efectivo
+
+739
+
+FIGURA 138·1
+
+I
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Hoja de calculo electronlca para el esta d o
+del flujo de efectivo: Método indirecto
+SMART TOUCH LEARNING, INC.
+Hoja de cálculo para el estado del flujo de efectivo
+Año terminado el 31 de diciembre de 2011
+
+(En miles)
+Panel A: Balance general
+Efectivo
+Cuentas por cobrar
+Inventarios
+Activos de planta, neto
+
+Saldo
+
+12/31/2010
+42
+73
+145
+210
+
+Activos totales
+
+470
+
+Cuentas por pagar
+Pasivos devengados
+Documentos por pagar a largo plazo
+Capital común
+Utilidades retenidas
+Menos: Acciones en tesorería
+Pasivos y capital contable de los accionistas totales
+
+50
+10
+80
+250
+80
+O
+470
+
+Panel B: Estado del flujo de efectivo
+Flujos de efectivo por las actividades operativas:
+Utilidad neta
+Ajustes para reconciliar la utilidad neta con el efectivo
+neto por las actividades operativas:
+Depreciación
+Ganancia sobre la venta de activos de planta
+Incremento en cuentas por cobrar
+Decremento en inventarios
+Incremento en cuentas por pagar
+Decremento en pasivos devengados
+Efectivo neto por las actividades operativas
+Flujos de efectivo por las actividades de inversión:
+Adquisición de activos de planta
+Entradas de efectivo por la venta de activos de planta
+Efectivo neto usado para las actividades de inversión
+Flujos de efectivo por las actividades de financiamiento:
+Entradas de efectivo por la emisión de acciones comunes
+Entradas de efectivo por la emisión de documentos por pagar
+Pago de documentos por pagar
+Compra de acciones en tesorería
+Pago de dividendos
+Efectivo neto por las actividades de financiamiento
+
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46 Decremento neto en efectivo
+
+Análisis de
+Saldo
+la transacción
+12/3112011
+20 (n)
+22
+(d) 17
+90
+2 (e)
+143
+(h) 310
+20 (b)
+40 (c)
+460
+715
+I
+40 (f)
+(g)
+(k)
+
+5
+10
+
+(m)
+
+10
+20
+372
+
+(1)
+
+(a)
+
+40
+
+(b)
+
+20
+
+90 (j)
+120 (i)
+40 (a)
+372
+
+90
+5
+160
+370
+110
+-20
+71S
+
+10 (c)
+17 (d)
+(e)
+(f)
+
+2
+40
+5 (g)
+
+310 (h)
+(c)
+
+50
+
+(i) 120
+90
+
+(j)
+
+10 (k)
+20 (1)
+10 (m)
+
+(n)
+
+362
+20
+382
+
+382
+382
+~
+
+740
+
+Capítulo 13
+
+I
+
+k)
+
+1)
+
+m)
+
+n)
+
+Este asiento es lo opuesto de (j). Está representado por un cargo (reducción) de $10,000 a
+Documentos por pagar a largo plazo y un abono bajo los flujos de efectivo provenientes de las
+actividades de financiamiento para el Pago de documentos por pagar.
+La compra de acciones en tesorería hizo un cargo de $20,000 a la cuenta Acciones en tesorería
+del Balance general. El asiento correspondiente de flujo de efectivo "Compra de acciones en
+tesorería" hace un abono de $20,000 para reducir el flujo de efectivo.
+La reducción de $10,000 (cargo) a la cuenta Utilidades retenidas es el resultado de los dividendos declarados y pagados por la Compañía. Por lo tanto, mostramos el "Pago de dividendos"
+como un abono en la sección de financiamiento.
+La partida final en la figura 13B-1 de la página 740 es el Decremento neto en efectivo. Se muestra como un abono a Efectivo y un cargo a Decremento neto en efectivo por $20,000.
+
+Tareas del apéndice 138
+
+• Problemas (Grupo A)
+P13B-1A (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método
+indirecto [45 a 60 min]
+El Balance general comparativo y el Estado de resultados de Alden Group, Inc., para
+2012, se presentan a continuación. Alden no tuvo transacciones de inversión y de financiamiento que no implicaran efectivo durante 2012.
+
+ALDEN GROUP, INC.
+Balance general comparativo
+31 de diciembre de 2012 y de 2011
+1
+
+Activos circulantes:
+Efectivo y equivalentes de efectivo
+Cuentas por cobrar
+Inventarios
+Activos de planta:
+Terreno
+
+2011
+
+13,700 $
+41,500
+96,600
+
+15,600
+43,100
+93,000
+
+35,100
+
+10,000
+
+25,100
+
+100,900
+
+93,700
+
+7,200
+
+$ 287,800
+
+$ 255,400
+
+$ 32,400
+
+$
+
+Equipo, neto
+Activos totales
+Pasivos circulantes:
+Cuentas por pagar
+Pasivos devengados
+Pasivos a largo plazo:
+Documentos por pagar
+Capital contable de los accionistas:
+Acciones comunes
+Utilidades retenidas
+Pasivos y capital contable de los accionistas totales
+
+Incremento
+(Decremento)
+
+2012
+
+$
+
+24,800
+24,400
+
+$
+
+26,000
+22,500
+
+$
+
+$
+
+(1,900)
+(1,600)
+3,600
+
+(1,200)
+1,900
+
+55,000
+
+65,000
+
+(10,000)
+
+131,100
+
+122,300
+
+8,800
+
+52,500
+
+19,600
+
+32,900
+
+$ 287,800 $ 255,400
+
+$ 32,400
+
+El estado del flujo de efectivo
+
+741
+
+ALDEN GROUP, INe.
+Estado de resultados
+Año terminado el31 de diciembre de 2012
+
+I
+
+Ingresos:
+Ingresos por ventas
+
+$ 438,000
+11,700
+
+Ingresos por intereses
+Ingresos totales
+Gastos:
+Costos de los bienes vendidos
+Gastos por salarios
+Gasto por depreciación
+Otros gastos operativos
+Gastos por irltereses
+Gasto por impuestos a la utilidad
+
+449,700
+$ 205,200
+76,400
+15,300
+49,700
+24,600
+16,900
+
+Gastos totales
+Utilidad neta
+
+388,100
+$
+
+61,600
+
+Se requiere
+1.
+
+Preparar la hoja de cálculo electrónica para el Estado del flujo de efectivo de 2012.
+Dé formato a los flujos de efectivo provenientes de las actividades operativas utilizando el método indirecto.
+
+P13B-2A (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método
+indirecto [45 a 60 min]
+Repase los datos de P13-25A.
+
+Se requiere
+1.
+
+Preparar la hoja de cálculo electrónica para el Estado del flujo de efectivo de 2012 de
+Cobbs Hill. Dé formato a los flujos de efectivo provenientes de las actividades operativas usando el método indirecto .
+
+• Problemas (Grupo B)
+P13B-3B (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método
+indirecto [45 a 60 min]
+A continuación se presenta el Balance general comparativo y el Estado de resultados de
+Alden Group para 2012. Alden no tuvo transacciones de inversión y de financiamiento
+que no implicaran efectivo durante 2012.
+
+742
+
+Capítulo 13
+
+ALDEN GROUP, INe.
+Balance general comparativo
+31 de diciembre de 2010 y 2011
+
+I
+
+2012
+
+Activos circulantes:
+Efectivo y equivalentes de efectivo
+Cuentas por cobrar
+Inventarios
+Activos de planta:
+Terreno
+
+$
+
+Equipo, neto
+Activos totales
+Pasivos circulantes:
+Cuentas por pagar
+Pasivos devengados
+Pasivos a largo plazo:
+Documentos por pagar
+Capital contable de los accionistas:
+Capital común
+
+$
+
+Incremento
+(Decremento)
+
+15,800
+43,400
+93,200
+
+41,400
+
+16,000
+
+100,500
+
+$
+
+(5,100)
+(1,600)
+3,400
+25,400
+
+93,800
+
+6,700
+
+$ 291,000 $ 262,200
+
+$ 28,800
+
+$
+
+$
+
+25,400
+24,000
+
+$
+
+26,500
+22,700
+
+(1,100)
+1,300
+
+54,000
+
+66,000
+
+(12,000)
+
+136,200
+
+127,900
+
+8,300
+
+51,400
+
+19,100
+
+32,300
+
+$ 291,000 $ 262,200
+
+$ 28,800
+
+Utilidades retenidas
+Pasivos y capital contable de los accionistas totales
+
+10,700
+41,800
+96,600
+
+2011
+
+ALDEN GROUP, INe.
+Estado de resultados
+Año terminado el 31 de diciembre de 2012
+Ingresos:
+Ingresos por ventas
+
+$ 438,000
+
+Ingresos por intereses
+
+11,900
+
+Ingresos totales
+
+449,900
+
+Gastos:
+Costos de los bienes vendidos
+Gastos por salarios
+Gasto por depreciación
+Otros gastos operativos
+Gastos por intereses
+Gasto por impuestos a la utilidad
+
+$ 205,800
+76,700
+15,600
+49,600
+24,800
+16,700
+389,200
+
+Gastos totales
+
+1
+
+Utilidad neta
+
+$
+
+60,700
+
+El estado del flujo de efectivo
+
+743
+
+Se requiere
+1. Preparar la hoja de cálculo electrónica para el Estado del flujo de efectivo de 2012.
+Dé formato a los flujos de efectivo provenientes de las actividades operativas con el
+del método indirecto.
+P13B-4B (Objetivo de aprendizaje 3) Preparación del estado del flujo de efectivo: método
+indirecto [45 a 60 min]
+Repase los datos provenientes del P13-29B.
+
+Se requiere
+1. Preparar la hoja de cálculo electrónica para el Estado del flujo de efectivo de Digital
+Subscription para 2012. Dé formato a los flujos de efectivo provenientes de las actividades operativas usando el método indirecto.
+
+744
+
+Capítulo 13
+
+

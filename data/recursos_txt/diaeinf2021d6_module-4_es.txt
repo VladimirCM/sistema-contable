@@ -1,0 +1,1571 @@
+Módulo 4
+INTERPRETACIÓN DE LOS ESTADOS FINANCIEROS Y ACCESO
+AL FINANCIAMIENTO
+
+Módulo 4 - Interpretación de los estados
+financieros y acceso al financiamiento
+Objetivos de aprendizaje
+Al final de este módulo, se deberá tener un entendimiento de lo siguiente:
+• El método horizontal de análisis financiero
+• El método vertical de análisis financiero
+• El análisis de razones financieras
+• Cómo preparar un presupuesto en efectivo
+• Cómo acceder al financiamiento a través diferentes opciones
+• La importancia de producir estados financieros oportunos y exactos
+• La diferencia entre el interés simple y el interés compuesto
+
+Módulo 4 - Interpretación de los estados
+financieros y acceso al financiamiento
+Los objetivos generales son:
+• Introducir la interpretación de los estados financieros
+• Discutir la necesidad de una proyección de flujos de efectivo
+• Discutir algunos medios alternativos de acceso al
+financiamiento
+
+Módulo 4 – Temas
+Análisis de
+los estados
+financieros
+
+Access to
+finance
+
+• Método horizontal
+
+• Budgeting
+
+• Método vertical
+
+• Leases
+
+• Razones financieras
+
+• Asset-based financing
+• Government grants
+
+Using your financial
+statements to attract
+new partners or
+shareholders
+
+Interest
+
+Exercises
+
+Módulo 4 – Temas
+Análisis de
+los estados
+financieros
+
+Acceso al
+financiamiento
+
+Using your financial
+statements to attract
+new partners or
+shareholders
+
+• Método horizontal
+
+• Presupuestos
+
+• Método vertical
+
+• Arrendamiento
+
+• Razones financieras
+
+• Financiamiento basado en
+activos
+• Subsidios gubernamentales
+• Atraer socios o accionistas
+
+Interest
+
+Exercises
+
+Módulo 4 – Temas
+Análisis de
+los estados
+financieros
+
+Acceso al
+financiamiento
+
+• Método horizontal
+
+• Presupuestos
+
+• Método vertical
+
+• Arrendamiento
+
+• Razones financieras
+
+• Financiamiento basado en
+activos
+• Subsidios gubernamentales
+• Atraer socios o accionistas
+
+Documentación para el
+financiamiento
+
+Interest
+
+Exercises
+
+Módulo 4 – Temas
+Análisis de
+los estados
+financieros
+
+Acceso al
+financiamiento
+
+• Método horizontal
+
+• Presupuestos
+
+• Método vertical
+
+• Arrendamiento
+
+• Razones financieras
+
+• Financiamiento basado en
+activos
+• Subsidios gubernamentales
+• Atraer socios o accionistas
+
+Documentación para el
+financiamiento
+
+Intereses
+
+Exercises
+
+Módulo 4 – Temas
+Análisis de
+los estados
+financieros
+
+Acceso al
+financiamiento
+
+• Método horizontal
+
+• Presupuestos
+
+• Método vertical
+
+• Arrendamiento
+
+• Razones financieras
+
+• Financiamiento basado en
+activos
+• Subsidios gubernamentales
+• Atraer socios o accionistas
+
+Documentación para el
+financiamiento
+
+Intereses
+
+Ejercicios
+
+4.1 Análisis de los estados
+financieros
+Permite evaluar:
+• el desempeño de la empresa sobre un periodo
+específico de tiempo;
+• sus necesidades de financiamiento;
+• su capacidad de llevar a cabo inversiones;
+• su capacidad para cumplir con sus obligaciones;
+• la eficiencia en el uso de los recursos;
+• si la empresa está cumpliendo con los objetivos;
+• las operaciones futuras de la empresa.
+
+4.1.1 Método horizontal
+Se hace comparando las variaciones en una misma partida de los estados
+financieros en dos periodos diferentes
+Para calcular la variación de un periodo al otro tenemos que aplicar una fórmula
+muy sencilla:
+Actual − Anterior
+× 100
+Anterior
+Si tomamos como punto de partida los estados financieros del ejercicio de
+Importaciones Hernández SA, el cálculo para el renglón del efectivo es el
+siguiente:
+71,500−69,500
+× 100 = 2.87%
+69,500
+
+Ejemplo ilustrativo 4.1: Método horizontal de análisis financiero (estado de situación financiera)
+Importaciones Hernández SA
+Estado de situación financiera
+(en unidades monetarias)
+
+ACTIVOS
+Activos corrientes
+Efectivo
+Cuentas por cobrar
+Inventarios
+Total activos corrientes
+
+Activos no corrientes
+Mobiliario neto
+Terrenos
+Total activos no corrientes
+
+TOTAL ACTIVOS
+
+-
+
+Marzo
+UM
+
+Abril
+UM
+
+69,500
+25,000
+7,000
+101,500
+
+71,500 3%
+26,000 4%
+10,640 52%
+108,140 7%
+
+30,000
+30,000
+
+131,500
+
+29,583 -1%
+45,000
+74,583 149%
+
+182,723 39%
+
+PASIVOS
+Pasivos corrientes
+Proveedores
+Cuentas por pagar
+Impuestos por pagar
+Total pasivos corrientes
+Pasivos no corrientes
+Préstamos bancarios
+Total pasivos no corrientes
+Total Pasivos
+PATRIMONIO
+Capital social
+Resultado del ejercicio
+Resultados acumulados
+Total patrimonio
+TOTAL PASIVOS Y PATRIMONIO
+
+Marzo
+UM
+
+Abril
+UM
+
+25,000
+5,000
+390
+30,390
+
+26,500
+5,000
+448
+31,948
+
+30,390
+
+49,500
+49,500
+81,448 168%
+
+100,000
+1,110
+
+-85%
+
+101,110
+
+100,000
+165
+1,110
+101,275
+
+131,500
+
+182,723
+
+39%
+
+6%
+15%
+5%
+
+0.2%
+
+Ejemplo ilustrativo 4.1: Análisis de los resultados
+
+Comentarios generales:
+Los totales del estado de situación financiera han aumentado de 39%.
+Comentarios específicos:
+¿Por qué se ha producido este cambio del 39%? ¿Qué comentarios específicos se pueden hacer?
+
+Ejemplo ilustrativo 4.2: Método horizontal de análisis financiero (estado de resultados)
+Solución:
+Importaciones Hernández SA
+Estado de resultados
+(en unidades monetarias)
+
+Ventas
+(-) Costo de ventas
+Utilidad bruta
+(-) Gastos de ventas
+(-) Gastos administrativos
+(-) Gastos financieros (intereses)
+Resultado antes de impuestos
+(-) Impuesto a la utilidad
+Utilidad neta
+
+Marzo
+UM
+37,500
+(21,000)
+16,500
+(500)
+(14,500)
+1,500
+(390)
+1,110
+
+Abril
+UM
+18,500
+(10,360)
+8,140
+(6,917)
+(1,000)
+223
+(58)
+165
+
+-51%
+-51%
+-51%
+100%
+-52%
+-85%
+-85%
+-85%
+
+Ejemplo ilustrativo 4.2: Análisis de los resultados
+
+•
+
+Las ventas han disminuido con la disminución correspondiente del costo de las mercancías vendidas.
+
+•
+
+El margen bruto es de 44% en ambos meses.
+
+•
+
+Aunque la utilidad después de impuestos en marzo es de 1,110 UM, esto no significa necesariamente
+que la tesorería haya aumentado en 1,100 UM (ya que las ventas podrían haberse realizado a
+crédito), parece que el efectivo obtenido en marzo se utilizó para pagar los gastos de intereses en
+abril.
+
+•
+
+El principal problema parece ser las diminución de las ventas. Habría que investigar las razones de
+ello.
+
+4.1.2 Método vertical
+• Este método también es conocido como de porcentajes integrales.
+• Este método toma una partida como base y se le atribuye un valor del 100%.
+• La fórmula utilizada para el análisis vertical es:
+Partida
+x 100
+Total de la partida de base
+• Los activos se muestran como % de los activos totales.
+• Los pasivos y el patrimonio se muestran como % del total de pasivos y del patrimonio.
+• En el estado de resultados, las ventas suelen considerarse la partida base.
+
+Ejemplo ilustrativo 4.3: Método vertical de análisis financiero (estado de situación financiera)
+Importaciones Hernández SA
+Estado de situación financiera
+(en unidades monetarias)
+
+ACTIVOS
+Activos corrientes
+Efectivo
+Cuentas por cobrar
+Inventarios
+Total activos corrientes
+
+Activos no corrientes
+Mobiliario neto
+Terrenos
+Total activos no corrientes
+
+TOTAL ACTIVOS
+1redondeo.
+
+UM
+71,500
+26,000
+10,640
+108,140
+
+39%
+14%
+6%
+59%
+
+29,583
+45,000
+74,583
+
+16%
+25%
+41%
+
+182,723
+
+100%
+
+PASIVOS
+Pasivos corrientes
+Proveedores
+Cuentas por pagar
+Impuestos por pagar
+Total pasivos corrientes
+Pasivos no corrientes
+Préstamos bancarios
+Total pasivos no corrientes
+Total pasivos
+
+26,500
+5,000
+448
+31,948
+
+15%
+3%
+0%
+17%1
+
+49,500
+49,500
+81,448
+
+27%
+27%
+45%1
+
+PATRIMONIO
+Capital social
+Resultado del ejercicio
+Resultados acumulados
+Total patrimonio
+
+100,000
+165
+1,110
+101,275
+
+55%
+0%
+1%
+55%1
+
+TOTAL PASIVOS Y PATRIMONIO
+
+182,723
+
+100%
+
+UM
+
+Ejemplo ilustrativo 4.3: Análisis de los resultados
+
+•
+
+¿Qué activo o pasivo representa el mayor %?
+
+•
+
+¿Por qué necesita la empresa tener un % tan alto de sus activos en efectivo?
+
+•
+
+¿Es el % de activos corrientes demasiado alto?
+
+•
+
+¿Qué tipo de empresa tendría un % elevado de activos no corrientes y por qué?
+
+•
+
+¿Qué puede deducirse de los pasivos y del patrimonio en el estado de situación financiera?
+
+Método vertical - estado de resultados
+Para el estado de resultados, se compara cada renglón con respecto a las ventas totales:
+Partida
+× 100
+Total ventas
+el cálculo para el costo de ventas es el siguiente:
+Costo de ventas 10,360
+=
+x 100 = 56%
+Total ventas
+18,500
+
+Ejemplo ilustrativo 4.3: Método vertical de análisis financiero (estado de resultados)
+Importaciones Hernández SA
+Estado de resultados
+(en unidades monetarias)
+
+Ventas
+(-) Costo de ventas
+Utilidad bruta
+(-) Gastos de ventas
+(-) Gastos administrativos
+(-) Gastos financieros (intereses)
+Resultado antes de impuestos
+(-) Impuesto a la utilidad
+Utilidad neta
+
+Marzo
+UM
+37,500 100%
+(21,000) 56%
+16,500 44%
+(500) 1%
+(14,500) 39%
+- 0%
+1,500 4%
+(390) 1%
+1,110 3%
+
+Abril
+UM
+18,500
+(10,360)
+8,140
+(6,917)
+(1,000)
+223
+(58)
+165
+
+100%
+56%
+44%
+0%
+37%
+5%
+1%
+0%
+1%
+
+Ejemplo ilustrativo 4.4: Método vertical de análisis financiero (estado de resultados)
+
+•
+
+¿Hay algún cambio en el % de utilidad bruta?
+
+•
+
+¿Hay algún cambio en el resultado antes de impuestos?
+
+•
+
+¿Las nuevas empresas suelen ser rentables cuando inician su actividad?
+
+•
+
+¿Afecta la estacionalidad del negocio a su rentabilidad?
+•
+
+¿anualmente?
+
+•
+
+¿mensualmente?
+
+4.1.3 Razones financieras
+4.1.3.1 Razones de liquidez
+a) razón corriente y b) prueba del ácido
+4.1.3.2 Razones de rentabilidad
+a) margen neto, b) retorno sobre los activos y c) retorno sobre el patrimonio
+4.1.3.3 Razones de actividad
+a) rotación de cuentas por cobrar, b) rotación de inventarios y
+c) rotación de cuentas por pagar
+4.1.3.4 Razones de endeudamiento y cobertura
+a) razón de endeudamiento, b) razón de apalancamiento y c) razón de cobertura de gastos
+financieros
+
+4.1.3.1 Razones de liquidez
+a) Razón corriente: corresponde al número de veces que los activos corrientes cubren a los pasivos
+corrientes.
+Activos corrientes
+Pasivos corrientes
+Importaciones Hernández SA
+Razón corriente (Ejemplo ilustrativo 4.5):
+Marzo: 3.34 = 101,500 / 30,390
+Abril 3.38 = 108,140 / 31,948
+
+4.1.3.1 Razones de liquidez cont.
+b) Prueba del ácido: es una razón mucho más estricta que la anterior porque muestra la capacidad
+de la empresa para responder a sus obligaciones inmediatas (a corto plazo) únicamente
+considerando los activos que son altamente líquidos como efectivo y los equivalentes de efectivo
+sin incluir otras cuentas como inventarios:
+Activos corrientes − inventarios
+Pasivos corrientes
+Importaciones Hernández SA
+Prueba del ácido (Ejemplo ilustrativo 4.6):
+Solución:
+Marzo: 3.11 = (101,500 – 7,000) / 30,390
+Abril: 3.05 = (108,140 – 10,640) / 31,948
+
+4.1.3.2 Razones de rentabilidad
+a) Margen neto: es el porcentaje de utilidad o pérdida neta obtenido por cada unidad monetaria de
+las ventas. También se le conoce como margen neto de ventas.
+Resultado del ejercicio
+Ventas
+Importaciones Hernández SA
+Margen neto (Ejemplo ilustrativo 4.7):
+Solución:
+Marzo: 2.96% = 1,110 / 37,500 x 100
+Abril: 0.89% = 165 / 18,500 x 100
+
+4.1.3.2 Razones de rentabilidad cont.
+b) Retorno sobre los activos (ROA, Return On Assets): esta relación muestra la rentabilidad de una
+empresa en relación con sus activos. Es decir, la utilidad generada por la inversión en activos. Indica
+además cuán eficiente es la gestión de los activos para generar la utilidad. Se calcula dividiendo la
+utilidad neta por el total de activos.
+Resultado del ejercicio
+Total activos
+Importaciones Hernández SA
+Retorno sobre los activos (Ejemplo ilustrativo 4.8):
+Solución:
+Marzo: 0.8% = (1,110 / 131,500) x 100
+Abril: 0.105% = {165 / [(182,723 + 131,500) / 2] x 100} = 165 / 157,111.5 x 100
+
+4.1.3.2 Razones de rentabilidad cont.
+c) Retorno sobre el patrimonio (ROE, Return On Equity): es el porcentaje de utilidad o pérdida
+obtenido por cada unidad monetaria que los propietarios han invertido en la empresa. Esto significa
+que mide la capacidad de la empresa para generar utilidad a partir de las inversiones realizadas por los
+accionistas (propietarios).
+Resultado del ejercicio
+Patrimonio
+Importaciones Hernández SA
+Retorno sobre el patrimonio (Ejemplo ilustrativo 4.9):
+Solución:
+Marzo: 1% = (1.110 / 101.110) x 100
+Abril: 0.1% = (165 / 101,275) x 100
+
+4.1.3.3 Razones de actividad
+a) Rotación de cuentas por cobrar: refleja el número de veces al año que una empresa es capaz
+de cobrar sus cuentas por cobrar promedio, es decir, muestra la capacidad de una empresa para
+dar crédito eficientemente a sus clientes y volver a cobrar la deuda a tiempo.
+Ventas netas a crédito
+Cuentas por cobrar promedio
+
+Ejemplo ilustrativo 4.10: Cálculo de la rotación de cuentas por cobrar
+La información siguiente corresponde al mes de marzo:
+Ventas netas a crédito: 25,000
+Cuentas por cobrar promedio: 25,000
+Rotación de cuentas por cobrar: 25,000 / 25,000 = 1.0
+En días: 30/1 = 30 días
+Actividad: calcular la rotación para abril y discutir los resultados.
+Solución:
+Abril:
+Ventas netas a crédito: 11,000
+Promedio de cuentas por cobrar (26,000 + 25,000) / 2 = 25,500
+Rotación de cuentas por cobrar: 11,000 / 25,500 = 0.43
+En días1: 30 / 0.43 = 69.76 días
+1se utilizan días ya que el cálculo es para un solo mes.
+
+4.1.3.3 Razones de actividad cont.
+b) Rotación de inventarios: esta razón muestra la rapidez en número de veces con que la
+empresa vende sus inventarios (es decir, rota) en un periodo específico.
+Para el cálculo, el costo de ventas durante un periodo específico se divide por el promedio de
+inventarios del mismo periodo.
+Costo de ventas
+Inventarios promedio
+
+Ejemplo ilustrativo 4.11: Cálculo de la rotación de inventarios
+La información siguiente corresponde al mes de marzo:
+Costo de ventas: 21,000
+Inventarios promedio: 7,000
+Rotación de inventarios: 21,000 / 7,000 = 3
+En días: 30/3 = 10 días
+Actividad: calcular la rotación para abril y discutir los resultados de los dos meses.
+Solución:
+Abril:
+Costo de ventas: 10,360
+Inventarios promedio: (10,640 + 7,000) / 2 = 8.820
+Rotación de inventarios: 10,360 / 8,820 = 1.17
+En días: 30 / 1.17 = 25.64 días
+
+4.1.3.3 Razones de actividad cont.
+c) Rotación de cuentas por pagar (Proveedores): esta razón mide cuánto tiempo le toma a la
+empresa pagar a sus proveedores (acreedores).
+Compras de Inventarios
+Cuentas por pagar promedio
+Para calcular el número de días que la empresa tarda en pagar a sus proveedores, se dividen los
+días del año (360 o 365) por la razón de rotación.
+
+Ejemplo ilustrativo 4.12: Cálculo de la rotación de cuentas por pagar
+La información siguiente corresponde al mes de marzo:
+Compras de inventarios: 25,000
+Proveedores: 25,000
+Rotación de inventario: 1
+En días: 30/1 = 30 días
+Actividad: calcular la rotación para abril si las compras de inventario a crédito para dicho mes son de 14,000 UM y
+discutir los resultados.
+Solución:
+Compras de inventarios: 14,000
+Proveedores: (25,000 + 26,500) 2 = 25,750
+Rotación de inventarios: 0.54
+En días: 30 / 0.54 = 55.5 días
+
+4.1.3.4 Razones de endeudamiento y
+cobertura
+a) Razón de endeudamiento: muestra qué proporción de los activos han sido financiados con deuda.
+Es decir, la habilidad de la empresa para pagar sus pasivos con sus activos.
+Total pasivos
+Total activos
+
+Ejemplo ilustrativo 4.13: Cálculo de la razón de endeudamiento
+Actividad: tomando los datos del estado de situación financiera de la empresa Importaciones
+Hernández SA, determinar la razón de endeudamiento para marzo y abril y discutir los resultados.
+Solución:
+Marzo: 23% = (30,390 / 131,500) x 100
+Abril: 44% = (81,448 / 182,723) x 100
+
+4.1.3.4 Razones de endeudamiento y
+cobertura cont.
+b) Razón de apalancamiento: está razón también indica el riesgo de la empresa, ya que muestra la proporción
+del financiamiento suministrado por los pasivos no corrientes. Por lo tanto, compara los pasivos no corrientes
+de una empresa con el total de pasivos o patrimonio.
+Pasivos no corrientes
+Patrimonio
+
+Ejemplo ilustrativo 4.14: Cálculo de la razón de apalancamiento
+Actividad: tomando los datos del estado de situación financiera de la empresa Importaciones Hernández
+SA, determinar la razón de apalancamiento para marzo y abril y discutir los resultados.
+Solución:
+Marzo: 30,390 / 101,110 = 0.30
+Abril: 81,448 / 101,275 = 0.80
+
+4.1.3.4 Razones de endeudamiento y
+cobertura cont.
+c) Razón de cobertura de gastos financieros: muestra el número de veces que la empresa puede cubrir los
+gastos financieros con el resultado del ejercicio.
+Resultado antes de impuestos + gastos financieros
+Gastos financieros
+
+Ejemplo ilustrativo 4.15: Cálculo de la razón de cobertura de gastos financieros
+Actividad: tomando los datos del estado de situación financiera de la empresa Importaciones Hernández SA,
+determinar la razón de cobertura de gatos financieros para marzo y abril y discutir los resultados.
+Solución:
+Marzo: no hay gastos financieros
+Abril:
+Resultado antes de impuestos = 223
+Gastos financieros = 1,000
+(223 + 1000) / 1000 = 1.2
+
+Análisis financiero: puntos clave a recordar
+
+ Aunque los cálculos pueden ser sencillos, el valor real del análisis financiero está en la
+interpretación de los coeficientes.
+ La industria en la que opera la empresa debe ser considerada al interpretar los resultados (y
+también el estado de la economía).
+ En la práctica, hay diferentes maneras de calcular las razones financieras y muchas otras
+razones diferentes.
+
+Cuestionario rápido
+1.
+
+¿Qué es: el análisis vertical; el análisis horizontal; y el
+análisis de razones financieras?
+
+2.
+
+¿Qué es lo que las técnicas anteriores NO le dicen al
+usuario sobre la empresa?
+
+4.2 Acceso al
+financiamiento
+4.2.1 Presupuestos
+4.2.2 Arrendamiento
+4.2.3 Financiamiento basado en activos
+4.2.4 Subsidios gubernamentales
+4.2.5 Atraer nuevos socios o accionistas
+
+4.2.1 Presupuestos
+Un presupuesto es un plan preparado cuidadosamente de los resultados previstos de la empresa,
+incluidos el momento y las cantidades de los ingresos y pagos en efectivo, a fin de que los prestamistas
+financieros puedan evaluar las perspectivas futuras de la empresa. En el módulo 1 se señaló que las
+instituciones financieras como bancos utilizan los estados financieros para:
+•
+•
+•
+•
+
+Evaluar a las personas y negocios que solicitan financiamiento.
+Evaluar el riesgo de crédito (la posibilidad de que no sea rembolsado).
+Establecer historiales de crédito.
+Evaluar la capacidad de pago y la rentabilidad del negocio.
+
+En el caso de los negocios pequeños, la gestión del dinero en efectivo es fundamental para su
+supervivencia.
+Consultar el ejemplo ilustrativo 4.16. del manual
+
+Ventas
+No. unidades
+Efectivo
+Efectivo - abril
+Entradas:
+Compras - abril
+Compras - efectivo
+Viajes
+Salarios
+Otros gastos
+Salidas:
+Flujo de operación :
+Compras de activo
+Equipo
+Pago del préstamo
+Intereses del
+préstamo
+Flujo neto:
+Efectivo inicial
+Retiros
+Efectivo final
+
+Marzo
+actual
+
+Abril
+actual
+
+Mayo
+pres.
+
+Mayo actual
+
+Junio pres.
+
+Junio
+actual
+
+Julio
+pres.
+
+900
+8,000
+8,000
+
+1300
+6,750
+6,750
+
+1500
+22,5006
+6,000
+28,500
+
+2000
+30,0006
+30,0006
+
+2000
+30,0006
+30,000
+
+5,000
+200
+0
+0
+5,200
+2,800
+
+7,000
+200
+1,000
+0
+8,200
+(1,450)
+
+9,000
+15,0001
+300
+1,500
+100
+25,900
+2,600
+
+20,0001
+300
+1,500
+150
+21,950
+8,050
+
+20,0001
+400
+1,500
+150
+22,050
+7,950
+
+0
+0
+
+(2,500)
+0
+
+(2,500)
+(1,000)2
+
+0
+(1,000)
+
+0
+(1,000)
+
+0
+2,800
+5,000
+0
+7,800
+
+0
+(3,950)
+7,800
+0
+3,850
+
+(50)3
+(950)
+3,850
+(900)
+2,000
+
+(42)4
+7,008
+2,000
+(4,000)
+5,008
+
+(33)5
+6,917
+5,008
+(4,000)
+7,925
+
+Julio
+actual
+
+Información que puede ser necesaria
+• Análisis de flujos de efectivo con tres escenarios
+• Explicación de cualquier control interno
+• Cuestiones medioambientales
+• Análisis financiero
+• Análisis de contabilidad de costos
+• El efecto de cualquier variable macroeconómica
+• Análisis FODA
+
+4.2.2 Arrendamiento
+Ejemplo ilustrativo 4.17: Registro de un arrendamiento
+La empresa Mercado SA alquila una furgoneta de reparto a Banco Fuerte el 1 de enero de 20X1. En los términos del
+arrendamiento, Mercado SA debe pagar 1,000 UM al mes durante 5 años. El contrato de arrendamiento fue aprobado
+después de que Mercado SA proporcionó sus últimos estados financieros, incluyendo un presupuesto de efectivo
+detallado a Banco Fuerte.
+Actividad: mostrar cómo Mercado SA debería incluir el arrendamiento en sus estados financieros al 31 de diciembre de
+20X2.
+Solución:
+Mercado SA
+Estado de resultados del 1 de enero al 31 de diciembre de 20X2
+(en unidades monetarias)
+Nota
+20X2
+20X1
+Gastos:
+UM
+UM
+Pagos de arrendamiento
+1
+12,000
+12,000
+Notas a los estados financieros
+1. Pagos de arrendamiento
+Los pagos de arrendamientos restantes al 31 de diciembre de 20X2 son 36,000 UM (20X1: 48,000 UM).
+
+4.2.3 Financiamiento basado en activos
+Ejemplo ilustrativo 4.18: Financiamiento basado en activos
+
+La empresa Mercado SA necesita dinero para utilizarlo como capital de trabajo. El propietario entra en un acuerdo con Banco Fuerte
+para adquirir un préstamo de 5,000 UM usando al equipo del negocio como garantía el 1 de enero de 20X1. El préstamo es por 5
+años con un interés del 10% anual. Al final de los 5 años, el monto total del préstamo debe ser devuelto. El préstamo fue aprobado
+después de que Mercado SA proporcionó sus últimos estados financieros, incluyendo un presupuesto de efectivo detallado a Banco
+Fuerte.
+Actividad: Mostrar cómo Mercado SA debería incluir este financiamiento basado en activos en sus estados financieros al 31 de
+diciembre de 20X2
+Solución:
+Mercado SA
+Estado de resultados del 1 de enero al 31 de diciembre de 20X2
+(en unidades monetarias)
+Nota
+20X2
+20X1
+Gastos:
+UM
+UM
+Gastos financieros (intereses)
+500
+500
+Notas a los estados financieros
+1. Nota a Equipo (estado de situación financiera)
+El equipo está sujeto a un préstamo de bursatilización reembolsable al final del 31 de diciembre de 20X5, con interés anual del 10%.
+
+4.2.4 Subsidios gubernamentales
+Ejemplo ilustrativo 4.19: Subsidio gubernamental
+Debido a la pandemia de COVID-19, el gobierno ha hecho un pago único de 2,000 UM a todas las pequeñas empresas,
+siempre que tengan registros financieros actualizados. Juan Pérez recibe su subvención el 1 de septiembre de 20X1.
+Actividad: registrar en el libro diario la recepción del subsidio gubernamental.
+Solución:
+LIBRO DIARIO
+
+Juan Pérez comercializando como Tapabocas JP
+
+Efectivo (estado de situación financiera)
+Subsidio gubernamental (estado de resultados)
+Subsidio gubernamental recibido el 1 de septiembre de 20X1.
+
+DEBE
+UM
+2,000
+
+HABER
+UM
+2,000
+
+4.2.5 Atraer nuevos socios o accionistas
+Si una empresa no cumple con los criterios para obtener financiamiento de las instituciones financieras
+registradas, entonces los contactos del propietario podrían utilizarse como fuente de financiamiento.
+Propietario único: una sola fuente de contactos.
+Sociedad comercial: los socios aportan financiamiento y además tienen contactos que pueden ser fuentes
+de financiamiento.
+Empresa: en el momento de la constitución, los accionistas pagarían a la sociedad por sus acciones, lo que
+aportaría más financiamiento.
+Se necesitarían estados financieros actualizados para atraer a futuros inversores o accionistas.
+
+4.3 Documentación para el
+financiamiento
+• Últimos estados financieros
+• Últimos estados de cuenta bancarios
+• Proyecciones de flujos de efectivo
+• Plan de negocios
+• Copias certificadas de documentos de identidad
+• Copia de un contrato de arrendamiento
+• Copia de cualquier licencia del negocio
+• Prueba de estar al día con las autoridades fiscales
+• Registro ante las autoridades pertinentes como MIPYME
+
+Solicitar financiamiento en su jurisdicción
+
+Cuestionario rápido
+1.
+
+¿Qué documentación exigirías si fueras el proveedor de
+financiamiento?
+
+2.
+
+¿Qué información querrías ver en la documentación?
+
+3.
+
+¿Qué supuestos del ejemplo ilustrativo 4.16 podrían
+cambiar?
+
+Los estados financieros como acceso al financiamiento: punto clave a
+recordar
+
+ Para obtener financiamiento, es importante que se puedan elaborar estados
+financieros actualizados, así como una proyección de los flujos de efectivo.
+ Los proveedores de financiamiento pueden exigir un acuerdo en el que un activo
+de la empresa se mantenga como garantía o colateral.
+ Antes de solicitar financiamiento, hay que asegurarse de conocer todos los requisitos del
+proveedor de financiamiento.
+
+4.4 Intereses
+Cuando una persona (física o jurídica) o una entidad financiera
+presta dinero a otra, se espera que la cantidad sea devuelta después
+de un cierto período de tiempo más una compensación (intereses).
+Dicha compensación debe tener en cuenta tres cosas:
+• El riesgo de no recuperar el dinero que asume el prestamista.
+• El costo de oportunidad del prestamista de no disponer de esa
+cantidad.
+• El deterioro del valor de la cantidad prestada debido a la inflación.
+Esto significa que la cantidad no tendrá el mismo poder adquisitivo
+cuando sea devuelta.
+
+4.4 Intereses cont.
+4.4.1 Interés simple
+Interés simple = Monto inicial x tasa x número de periodos
+4.4.2 Interés compuesto
+El interés es calculado sobre el monto inicial más el interés devengado que no haya sido pagado.
+
+Intereses: puntos clave a recordar
+
+ El costo asociado a la obtención de financiamiento es el interés que es un gasto en el de
+resultados.
+ Es importante comparar los tipos de interés para asegurarse de que el financiamiento
+elegido tenga el tipo de interés más bajo.
+ Un préstamo normalmente tiene ciertas comisiones o gastos además del interés, que
+también deben tenerse en cuenta al calcular los costos totales del préstamo.
+
+4.5 Ejercicios
+
+Ejercicios
+Ejercicio 4.1 – Fotografía Andina SA– análisis de estados financieros
+Ejercicio 4.2 – Manjar Gourmet – proyección de flujos de efectivo
+
+Fotografía Andina SA (Ejercicio 4.1)
+Estado de resultados resumido:
+Ingresos
+Gastos
+Utilidad
+
+20X3
+UM
+550,000
+(525,000)
+25,000
+
+20X2
+UM
+525,000
+(400,000)
+125,000
+
+20X1
+CU
+500,000
+(300,000)
+200,000
+
+Estado de situación financiera resumido:
+Activos corrientes
+Efectivo
+Cuentas por cobrar
+Inventario
+
+55,000
+250,000
+220,000
+
+85,000
+80,000
+200,000
+
+80,000
+20,000
+80,000
+
+Activos no corrientes
+
+500,000
+
+400,000
+
+300,000
+
+Total activos
+
+1,025,000
+
+765,000
+
+480,000
+
+Pasivos corrientes
+Pasivo no corrientes
+Total pasivos
+
+395,000
+180,000
+575,000
+
+240,000
+100,000
+340,000
+
+130,000
+50,000
+180,000
+
+Patrimonio
+
+450,000
+
+425,000
+
+300,0001
+
+Total pasivo y patrimonio
+
+1,025,000
+
+765,000
+
+480,000
+
+Fotografía Andina SA (Ejercicio 4.1) solución
+Razones de los últimos 3 años:
+Razón corriente = activos corrientes/
+pasivos corrientes
+Prueba del ácido = (activos corrientes inventarios) /pasivos corrientes
+Margen neto
+Retorno sobre los activos
+Retorno sobre el patrimonio
+Razón de endeudamiento
+Razón de apalancamiento
+
+20X3
+
+20X2
+
+20X1
+
+525,000/395,000 =
+1.33
+
+365,000/240,000 =
+1.52
+
+180,000/130,000 =
+1.38
+
+305,000/395,000 =
+0.77
+
+165,000/240,000 =
+0.69
+
+100,000/130,000 =
+0.77
+
+25,000/550,000 x
+100 = 4.55%
+
+125,000/525,000
+x100 = 23.81%
+
+200,000/500,000 x
+100 = 40%
+
+25,000/1,025,000 x
+100 = 2.44%
+
+125,000/765,000 x
+100 = 16.34
+
+200,000/480,000 x
+100 = 41.67%
+
+25,000/450,000 x
+100 = 5.56%
+
+125,000/425,000 x
+100 = 29.41%
+
+200,000/300,000 x
+100 = 66.67%
+
+575,000/1,025,000 =
+0.56
+
+340,000/765,000 =
+0.44
+
+180,000/480,000 =
+0.375
+
+575,000/450,000 =
+1.28
+
+340,000/425,000 =
+0.80
+
+180,000/300,000 =
+0.60
+
+Requisito 3: Fotografía Andina SA (Ejercicio 4.1) solución
+A estas dos razones se les conoce como razones de liquidez.
+Aunque la razón corriente muestra poca variación a lo largo de los 3 años (aunque puede considerarse
+bastante bajo), la prueba del ácido muestra que la posición de liquidez de la empresa se deterioró en
+20X2 antes de recuperarse en 20X3. Sin embargo, el estado de situación financiera muestra que la
+empresa ha permitido que sus deudores (cuentas por cobrar) crezcan rápidamente. Esto puede
+significar que los deudores pueden ser lentos en su pago a Fotografía Andina SA, por lo que la empresa
+debe hacer un seguimiento de los pagos. Si se compara el efectivo con los pasivos corrientes, se
+observa que la empresa no tiene suficiente efectivo para liquidar sus obligaciones a corto plazo en caso
+de que gran parte de las cuentas por cobrar resulten ser incobrables.
+.
+
+Requisito 4: Fotografía Andina SA (Ejercicio 4.1) solución
+A estas razones se les conoce como razones de rentabilidad.
+Desde una posición saludable en 20X1, los resultados de las razones muestran un rápido deterioro. Las
+razones de esto deben ser investigadas. Una de las razones puede ser que el sector turístico se vio
+especialmente afectado durante la pandemia COVID-19 y que la industria turística se paralizó en
+Latinoamérica. Sin embargo, la empresa no debe culpar por completo de sus malos resultados a la
+pandemia, ya que el año intermedio (20X2) también muestra un deterioro de la posición. La empresa
+debería de cuestionar su modelo de funcionamiento: ¿Es el margen de utilidad de sus productos
+demasiado bajo? ¿Está dando a sus deudores demasiado tiempo para pagar? ¿Qué otros costos están
+contribuyendo al aumento de los gastos y puede reducirse alguno de ellos?
+
+Requisito 5: Fotografía Andina SA (Ejercicio 4.1) solución
+La razón de endeudamiento ha ido aumentando constantemente. Esto significa que la compañía está
+usando más deuda para financiar sus activos. A medida que la deuda aumenta, esto coloca a la
+compañía en una posición de riesgo ya que el monto de reembolso de préstamos e intereses puede
+crecer a un punto de no poder ser cubierto por la empresa.
+Esto se refleja en la razón de apalancamiento (total pasivos a patrimonio) que se ha más que duplicado
+en los tres años. Esto indica nuevamente que la empresa está en una posición de riesgo.
+
+Requisito 6: Fotografía Andina SA (Ejercicio 4.1) solución
+
+Las razones muestran a la compañía en una posición de deterioro durante tres años. Es poco probable
+que la empresa tenga éxito en su solicitud de financiamiento adicional.
+El propietario podría tomar las siguientes medidas:
+1. Contactar a todos los deudores (cuentas por cobrar) y pedirles que hagan un pago inmediato.
+2. Considerar si tiene demasiado inventario y si al bajar los precios de ciertos artículos de baja rotación,
+estos artículos se venderían, y así mejorar su posición de efectivo.
+3. ¿Hay algún activo no corriente que no sea necesario? Estos activos podrían venderse.
+4. La empresa tiene 50,000 UM en el banco, por lo que debería crear una proyección de flujos de
+efectivo y un plan de negocios para mostrar cómo pretende mejorar sus operaciones en el futuro.
+5. En este plan, su modelo de precios debería ser cuestionado, ya que podría ser que el margen de
+utilidad de la empresa en algunos de sus productos sea demasiado bajo.
+6. La empresa podría considerar el arrendamiento de los activos necesarios en lugar de su compra
+directa.
+
+Manjar Gourmet (Ejercicio 4.2)
+Inicio
+
+Enero
+
+UM
+
+UM
+
+55,000
+15,000
+-
+
+40,000
+
+70,000
+
+40,000
+
+15,000
+
+28,000
+
+10,000
+3,000
+
+4,000
+
+1,000
+
+1,000
+
+800
+
+900
+
+Efectivo gastado:
+
+29,800
+
+33,900
+
+Flujo de efectivo
+
+40,200
+
+MANJAR GOURMET
+Entradas de efectivo
+Inversión del propietario
+Préstamo de un familiar
+Ventas – recepción de efectivo
+Efectivo de ventas anteriores1
+Efectivo recibido:
+Salidas de efectivo
+Compras de inventarios
+Compras de equipo
+Salarios
+Alquiler, electricidad, agua
+Teléfono (tiempo aire y datos)
+
+Saldo anterior de efectivo
+Saldo de efectivo
+
+40,200
+
+Febrero
+UM
+
+Marzo
+UM
+
+Abril
+UM
+
+-
+
+-
+
+-
+
+15,000
+
+10,000
+
+25,000
+
+18,000
+
+36,000
+
+32,000
+
+33,000
+
+46,000
+
+57,000
+
+34,000
+-
+
+42,000
+-
+
+48,000
+-
+
+8,000
+
+8,000
+
+10,000
+
+1,000
+
+1,000
+
+1,200
+
+1,100
+
+1,200
+
+1,200
+
+44,100
+
+52,200
+
+60,400
+
+6,100 (11,100)
+40,200
+46,300
+
+(6,200)
+
+(3,400)
+
+35,200
+
+29,000
+
+35,200
+
+29,000
+
+25,600
+
+46,300
+
+Requisito 1: Manjar Gourmet (Ejercicio 4.2) solución
+
+El flujo de efectivo futuro se está deteriorando y el propietario necesita investigar las razones de ello.
+Algunas observaciones son las siguientes:
+•
+•
+
+•
+•
+
+Las ventas en efectivo no crecen y las ventas a crédito siguen aumentando. Es posible que el
+propietario esté dando crédito con demasiada libertad a los clientes.
+Si se comparan las compras de inventarios a las ventas, el margen de utilidad puede ser demasiado
+bajo. Por ejemplo, en enero se compró un inventario que costaba 28,000 UM, pero las entradas de
+efectivo en febrero fueron sólo 33,000 UM.
+Los salarios han aumentado rápidamente.
+Aunque abril muestra cierta mejoría, la proyección es demasiado corta para poder hacer cualquier
+predicción sobre los meses posteriores a abril.
+
+Requisito 2: Manjar Gourmet (Ejercicio 4.2) solución
+
+El consejo que se le daría al propietario se basa en las observaciones anteriores.
+•
+•
+•
+•
+
+Intentar que los clientes paguen inmediatamente usando transferencias electrónicas o formas de
+pago similares.
+Considerar la posibilidad de aumentar el margen bruto de ventas. ¿Cuál es el margen actual? Ver si
+dicho margen es bajo en comparación con los competidores.
+¿Por qué han aumentado tan rápido los salarios? El negocio no parece haber mostrado el
+crecimiento que se esperaría con la contratación de personal adicional.
+Extender la proyección a por lo menos 12 meses.
+
+Requisito 3: Manjar Gourmet (Ejercicio 4.2) solución
+
+Basado en la proyección de flujos de efectivo, no se le daría financiamiento adicional a Manjar Gourmet. Sin
+embargo, el propietario podría actuar con base en las siguientes observaciones para un financiamiento en el futuro:
+• El flujo de efectivo previsto muestra un saldo decreciente a lo largo de los 4 meses. Si la familia pide el reembolso
+del préstamo, no habría suficiente efectivo para comprar más inventarios.
+• ¿Los clientes están pagando dentro de un período de 25 a 30 días (que son los términos de crédito habituales), o
+están excediendo ese período?
+• ¿Paga la empresa inmediatamente sus compras de inventario o ha negociado condiciones de crédito con sus
+proveedores? Si puede negociar condiciones de crédito con sus proveedores, puede que no necesite
+financiamiento adicional.
+• La cuestión principal parece estar vinculada a las ventas en efectivo y a crédito, y a la posibilidad de que el
+margen de utilidad del inventario sea demasiado bajo, o de que el propietario haya invertido demasiado en
+artículos de inventario de lento movimiento. El propietario debe elaborar un plan de negocios que muestre cómo
+se van a aumentar las ventas y reducir los gastos.
+• Es necesario hacer una proyección de más de 4 meses, junto con alguna comparación de la proyección con el flujo
+real de efectivo para tener una idea de su exactitud.
+
+Fin del módulo 4
+
+

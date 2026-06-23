@@ -1,0 +1,407 @@
+1
+Introducción
+1.1. Costes fijos, variables, semifijos y semivariables
+Seguidamente, se facilitan datos de costes, referidos al ejercicio recién finalizado, de una
+consultoría con el fin de proceder a clasificarlos en función de su variabilidad respecto a la
+actividad:
+
+Consumos de material de oficina e informático
+
+Unidades monetarias
+32.000
+
+Sueldos y seguridad social del personal de administración
+y dirección
+
+150.000
+
+Dietas de los consultores en sus visitas a los clientes
+
+12.000
+
+Descuentos comerciales concedidos a clientes
+
+25.000
+
+Dietas del director general
+Costes de locomoción
+
+3.000
+17.000
+
+Gas
+Subcontratación de estudios a terceros
+
+600
+26.000
+
+Publicidad
+Gastos financieros
+
+12.000
+1.000
+
+Electricidad
+Teléfono
+
+7.000
+16.000
+
+Página Web
+Servicios de prensa
+
+6.000
+3.000
+
+Sueldos y seguridad social de los consultores
+Sueldos por horas extras de los consultores
+
+100.000
+36.000
+
+Costes varios
+Alquiler
+
+7.000
+12.000
+
+Amortización ordenadores
+
+10.000
+
+Figura 1.1. Datos de costes
+Se facilita la siguiente información sobre el mismo periodo:
+- Ingresos totales
+
+500.000
+
+También se le pide que calcule la cuenta de resultados.
+5
+
+Propuesta de solución
+Seguidamente se detalla la clasificación de cada concepto según su variabilidad respecto a
+la actividad:
+Concepto
+Consumos de material de oficina e
+informático
+Sueldos y seguridad social del personal de
+administración y dirección
+Dietas de los consultores en sus visitas a los
+clientes
+Descuentos comerciales concedidos a
+clientes
+Dietas del director general
+Costes de locomoción
+
+Unidades
+monetarias
+32.000
+
+Clasificación
+
+Coste Fijo
+150.000
+Coste Fijo
+12.000
+Coste Variable
+25.000
+
+Publicidad
+Gastos financieros
+
+No es coste
+3.000 Coste Fijo
+17.000
+Coste Variable
+600 Semivariable
+26.000
+Coste Variable
+12.000 Coste Fijo
+1.000
+
+Electricidad
+Teléfono
+
+Coste Fijo o
+Coste Variable
+7.000 Semivariable
+16.000
+
+Gas
+Subcontratación de estudios a terceros
+
+Página Web
+Servicios de prensa
+Sueldos y seguridad social de los
+consultores
+
+Sueldos por horas extras de los consultores
+Costes varios
+Alquiler
+Amortización ordenadores
+
+Semivariable
+6.000 Coste Fijo
+3.000 Coste Fijo
+100.000
+
+Coste fijo o
+Semifijo
+36.000 Coste Variable
+7.000 Coste Fijo
+12.000 Coste Fijo
+10.000 Coste Fijo
+
+Se trata como menor
+importe de ventas
+Ejemplo: gasolina para
+los comerciales
+Ejemplo: estudios para
+nuevos productos
+Los intereses pueden
+financiar activos no
+corrientes (coste fijo) o
+corrientes (variable)
+A mayor actividad, se
+podría considerar mayor
+necesidad de
+comunicación
+
+Semifijo si al aumentar
+un determinado
+porcentaje la
+facturación, se precisa
+un consultor nuevo
+
+Figura 1.2. Detalle de costes según su variabilidad
+
+También se adjunta la cuenta de resultados del período de modo abreviado y simple:
+6
+
+Cuenta de resultados
+Ventas
+Coste variable
+Margen bruto
+Costes fijos, semifijos y semivariables
+Resultado
+Figura 1.3. Cuenta de resultados del período
+
+u.m
+500.000
+91.000
+409.000
+359.600
+49.400
+
+7
+
+1.2. Costes directos e indirectos
+A partir de los datos del ejercicio anterior, se trata ahora de clasificar los costes en directos
+e indirectos en relación a los proyectos de consultoría que realiza.
+Propuesta de solución
+Seguidamente se detalla la clasificación de cada concepto según se trate de costes directos o
+indirectos:
+Clasificación
+Unidades
+monetarias
+Consumos de material de oficina
+32.000 Coste indirecto
+e informático
+Sueldos y seguridad social del
+150.000 Coste indirecto
+personal de administración y
+dirección
+Dietas de los consultores en sus
+12.000 Coste directo
+visitas a los clientes
+Descuentos comerciales
+25.000 No es coste. Se trata como menor importe de ventas
+concedidos a clientes
+Dietas del director general
+3.000 Coste indirecto
+Costes de locomoción
+17.000 Coste directo / indirecto
+Depende del uso: puede ser para
+comerciales de un producto
+(directo) o para el director general
+(indirecto)
+Gas
+600 Coste indirecto
+Subcontratación de estudios a
+26.000 Coste indirecto
+terceros
+Publicidad
+12.000 Coste directo / indirecto
+Depende de si el coste se identifica
+con un producto directamente
+Gastos financieros
+1.000 Coste indirecto
+Electricidad
+7.000 Coste indirecto
+Teléfono
+16.000 Coste indirecto
+Página Web
+6.000 Coste indirecto
+Servicios de prensa
+3.000 Coste indirecto
+Sueldos y seguridad social de los
+100.000 Coste directo
+consultores
+Sueldos por horas extras de los
+36.000 Coste directo
+consultores
+Costes varios
+7.000 Coste indirecto
+Alquiler
+12.000 Coste indirecto
+Amortización ordenadores
+10.000 Coste indirecto
+Figura 1.4. Detalle de costes según sean directos o indirectos
+8
+
+1.3. Costes por áreas funcionales
+A partir de los datos del ejercicio 1.7.1, se trata ahora de clasificar por áreas funcionales,
+suponiendo las funciones de la empresa: administración, comercial y proyectos.
+Propuesta de solución
+Ver diferentes clasificaciones a continuación:
+Concepto
+Consumos de material de
+oficina e informático
+Sueldos y seguridad social
+del personal de
+administración y dirección
+Dietas de los consultores en
+sus visitas a los clientes
+Descuentos comerciales
+concedidos a clientes
+Dietas del director general
+Costes de locomoción
+Gas
+Subcontratación de estudios
+a terceros
+Publicidad
+Gastos financieros
+Electricidad
+Teléfono
+Página Web
+Servicios de prensa
+Sueldos y seguridad social
+de los consultores
+Sueldos por horas extras de
+los consultores
+Costes varios
+Alquiler
+
+Unidades Clasificación
+monetarias
+Administración/Proyectos (dependiendo de a quién vaya
+32.000 dirigido el material)
+
+150.000 Administración
+12.000 Proyectos
+25.000 No es un coste. Se trata como un menor importe de ventas
+3.000 Administración
+17.000 Proyectos/Comercial (dependiendo de quién o qué los ocasione)
+600 Administración
+26.000 Administración (si son para la organización en general)
+12.000 Comercial
+1.000 Administración
+7.000 Administración
+16.000 Administración
+6.000 Administración
+3.000 Administración
+100.000 Proyectos
+
+36.000 Proyectos
+7.000 Administración
+12.000 Administración
+Administración/Proyectos (dependiendo de quién consuma la
+Amortización ordenadores
+10.000 vida útil)
+Figura 1.5. Detalle de costes por área funcional
+
+9
+
+1.4. Gasto-coste-inversión-pago
+Clasifique los conceptos siguientes según considere si son gasto, coste, pago y/o inversión.
+Gasto
+
+Coste
+
+Inversión
+
+Pago
+
+Dividendos de los accionistas
+Pago de los sueldos operarios de fábrica
+Almacén propiedad de los socios que ceden su uso
+a la empresa a título gratuito
+Pérdida de materias primas por incendio
+Coste del impuesto de sociedades
+Pago compra maquinaria
+Amortización de la maquinaria
+Curso de formación para los operarios con el
+objetivo de conocer el funcionamiento de la nueva
+maquinaria adquirida
+Pago del impuesto sobre sociedades
+Lotería regalada a los trabajadores por Navidad
+Impuesto por actividades económicas
+Materiales valorados al valor de reposición
+Utilización de capital propio para financiar las
+actividades de la empresa
+Impuesto sobre el valor añadido incluido en las
+facturas de proveedores
+Figura 1.6. Detalle de conceptos a clasificar
+
+10
+
+Propuesta de solución
+A continuación se clasifican los conceptos anteriores:
+Concepto
+Gasto Coste Inversión Pago
+
+Dividendos de los accionistas
+
+
+
+Pago de los sueldos operarios de fábrica
+
+Almacén propiedad de los socios que ceden su uso a la
+empresa a título gratuito
+
+Pérdida de materias primas por incendio
+
+
+Impuesto de sociedades
+
+
+Pago compra maquinaria
+
+
+Amortización de la maquinaria
+
+
+
+Curso de formación para los operarios con el objetivo de
+conocer el funcionamiento de la nueva maquinaria adquirida
+
+Pago del impuesto sobre sociedades
+
+
+Lotería regalada a los trabajadores por Navidad
+
+
+Impuesto por actividades económicas
+
+Materiales valorados al valor de reposición
+
+Utilización de capital propio para financiar las actividades de
+la empresa
+
+Impuesto sobre el valor añadido incluido en las facturas de
+proveedores
+Figura 1.7. Detalle de conceptos según sean gasto, coste, inversión o pago
+
+11
+
+

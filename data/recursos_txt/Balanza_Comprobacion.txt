@@ -1,0 +1,1379 @@
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+BALANZA DE COMPROBACIÓN ANTES DE AJUSTES
+Guajardo (2014) menciona “A partir del mayor general (saldos de esquemas de mayor o
+cuentas “T”) se elabora la balanza de comprobación, en la que se vacían los saldos de cada
+una de las cuentas del mayor general y se clasifican de acuerdo con el rubro al que
+pertenezcan”.
+Lara (2014) menciona:
+“La balanza de comprobación es el documento por medio del cual se puede verificar si
+todos los cargos y abonos de los asientos de diario han sido trasladados a las cuentas
+correspondientes del mayor, respetando el principio de la partida doble”.
+Para estar seguros de la exactitud de los saldos de las cuentas que contienen la balanza de
+comprobación es preciso examinar el saldo de cada cuenta para verificar si cada uno de
+ellos coincide con el de su mayor correspondiente.
+Puede haber motivos ajenos o imprevistos que hayan originado errores, o bien que los
+saldos no coincidan con la realidad, entre los cuales están:
+Operaciones no reportadas,
+Extravío, robos o malos manejos de bienes propiedad de la empresa,
+Activos en malas condiciones no incluidos en los inventarios,
+Créditos de cobro dudoso,
+Depreciaciones,
+Amortizaciones y consumo de activo diferido,
+Acumulación del activo y pasivo pendiente de registrar.
+
+                          
+  
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+BALANZA DE COMPROBACIÓN AJUSTADA
+Después de registrar en el libro de diario y esquemas de mayor o cuentas “T” los ajustes,
+debe prepararse una balanza de comprobación ajustada para verificar la exactitud de los
+saldos de las cuentas del mayor, antes de preparar y actualizar los estados financieros de
+fin de periodo.
+Este procedimiento se realiza de la misma forma que la balanza de comprobación antes de
+ajustes, solo que con los nuevos saldos de mayor; es decir, los que se obtienen
+incorporando los asientos de ajuste (saldos ajustados).
+
+Libro  de  Diario	
+Después  de  registrar  en  el   Balanza  de  Comprobación	
+Saldos  de  las  Cuentas  
+libro  de  diario  y  esquemas  
+del  Mayor	
+de  mayor  o  cuentas  T  los   Debe  prepararse  una  
+balanza  de  comprobación  
+ajustes....	
+ajustada...	
+Para  veriﬁcar  la  exactitud  
+de  los  saldos  de  las  cuentas  
+del  mayor  antes  de  
+preparar  y  actualizar  los  
+estados  ﬁnancieros  de  ﬁn  
+de  periodo.  	
+
+Por lo anterior, tenemos que para estar en posibilidades de elaborar los estados
+financieros, hay que cursar por los siguientes pasos:
+
+                          
+  
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+
+BALANZA DE
+COMPROBACIÓN
+
+AJUSTES
+
+• Se obtiene de los
+saldos de libros
+de mayor
+(esquemas de
+mayor o cuentas
+T).
+
+BALANZA  DE  
+SALDOS  AJUSTADOS	
+• Nuevos saldos de
+mayor
+(ajustados).
+
+• Realizar los asientos de
+ajuste necesarios para
+que el saldo de las
+cuentas coincida con la
+realidad.
+
+ESTADOS  
+FINANCIEROS	
+• Estado de
+resultados y
+balance general.
+
+Presta atención a los siguientes ejemplos tomados de Lara E. y Lara L. (2014). Primer
+Curso de Contabilidad (26a Edición). México. Trillas.
+Ejemplo 1
+Suponga que ya elaboró las pólizas con sus respectivos registros contables, los cuales ya
+registró en el libro mayor (esquemas de mayor o cuentas “T”) y le arrojan los siguientes
+saldos (sin incluir ajustes) con los cuales elabora la balanza de comprobación antes de
+ajuste.
+Bancos
+
+Inventario de mercancías
+
+1) 150,000.00
+
+100,000.00
+(3
+
+1) 500,000.00
+
+200,000.00 (4
+
+7)
+$700,000.00
+
+100,000.00
+(8
+
+2) 700,000.00
+
+500,000.00 (6
+
+7,000.00 (14
+
+9) 50,000.00
+
+$
+207,000.00
+
+11) 50,000.00
+
+$ 850,000.00
+
+$ 643,000.00
+
+$
+1’300,000.00
+$ 600,000.00
+
+                          
+  
+
+$ 700,000.00
+
+Capital
+650,000.00 (1
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+
+Proveedores
+3)
+100,000.00
+
+Ventas
+700,000.00
+(2
+
+4)
+200,000.00
+$
+300,000.00
+
+8)
+100,000.00
+
+$
+700,000.00
+
+Clientes
+700,000.00 (7
+
+100,000.00
+(10
+$1’000,000.00
+$ 200,000.00
+
+                          
+  
+
+1’000,000.00
+(5
+
+6)
+500,000.00
+
+10)
+100,000.00
+$
+200,000.00
+
+$
+400,000.00
+
+5) 1’000,000.00
+
+Costo de ventas
+
+$800,000.00
+
+50,000.00 (9
+
+50,000.00
+(11
+$1’000,000.00
+
+$
+500,000.00
+
+$800,000.00
+
+$
+400,000.00
+
+$
+100,000.00
+
+Gastos de Venta
+
+Gastos de administración
+
+12) 7,000.00
+
+13) 5,000.00
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+Acreedores Diversos
+14)
+7,000.00
+
+7,000.00 (12
+
+5,000.00 (13
+
+$ 7,000.00
+
+$ 12,000.00
+
+$ 5,000.00
+
+Balanza de comprobación antes de ajustes al 31 de diciembre de 2014
+No.
+Cuenta
+
+Cuentas
+
+Debe
+
+100
+
+Bancos
+
+$ 643,000.00
+
+100
+
+Clientes
+
+$ 200,000.00
+
+100
+
+Inventario de mercancías
+
+$ 600,000.00
+
+200
+
+Proveedores
+
+$ 400,000.00
+
+200
+
+Acreedores diversos
+
+$ 5,000.00
+
+300
+
+Capital
+
+$ 650,000.00
+
+400
+
+Ventas
+
+$ 800,000.00
+
+500
+
+Costo de ventas
+
+$ 400,000.00
+
+500
+
+Gastos de ventas
+
+$ 7,000.00
+
+500
+
+Gastos de Administración
+
+$ 5,000.00
+
+SUMAS IGUALES
+
+                          
+  
+
+$ 1’855,000.000
+
+Haber
+
+$ 1’855,000.00
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+
+Una vez que ya tenemos nuestra balanza de comprobación antes de ajustes, vamos a
+afectar los saldos con los siguientes ajustes:
+El 31 de diciembre se elabora inventario físico del cual se conoce que 3 artículos “X” se
+encuentran en malas condiciones por las cuales ya no es posible venderlos, y faltaron 2
+artículos “X” de los cuales el almacenista no pudo justificar; los artículos “X” tienen un
+costo de $10,000.00 cada uno.
+Póliza de: DIARIO
+
+Fecha:
+31/Dic/14
+
+Póliza No. 15
+
+No. Cuenta
+
+Cuenta
+
+Debe
+
+Haber
+
+500
+
+Gastos de Venta
+
+$ 30,000.00
+
+100
+
+Deudores Diversos
+
+$ 20,000.00
+
+100
+
+Inventario de mercancía
+
+Sumas iguales
+
+$ 50,000.00
+$ 50,000.00
+
+$ 50,000.00
+
+Concepto: Asiento de registrar la mercancía dañada y el faltante de mercancía.
+CONTROL
+
+                          
+  
+
+Hecho por: CMMG______
+
+Revisado:
+YYJO___
+
+Autorizado:
+JPP__
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+Saldos ajustados:
+Deudores diversos
+
+Inventario de mercancías
+
+Gastos de venta
+
+15)
+20,000.00
+
+1) 500,000.00
+
+200,000.00 (4
+
+12)
+7,000.00
+
+2) 700,000.00
+
+500,000.00 (6
+
+15) 30,000.00
+
+9) 50,000.00
+
+$
+50,000.00
+(15
+
+$ 37,000.00
+
+$
+
+11) 50,000.00
+
+$
+1’300,000.00
+
+$ 750,000.00
+
+$ 550,000.00
+
+Balanza de comprobación ajustada al 31 de diciembre de 2014
+No.
+Cuenta
+
+Cuentas
+
+Debe
+
+100
+
+Bancos
+
+$ 643,000.00
+
+100
+
+Clientes
+
+$ 200,000.00
+
+100
+
+Deudores diversos
+
+$20,000.00
+
+100
+
+Inventario de mercancías
+
+$ 550,000.00
+
+200
+
+Proveedores
+
+$ 400,000.00
+
+200
+
+Acreedores diversos
+
+$ 5,000.00
+
+300
+
+Capital
+
+$ 650,000.00
+
+400
+
+Ventas
+
+$ 800,000.00
+
+                          
+  
+
+Haber
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+Balanza de comprobación ajustada al 31 de diciembre de 2014
+500
+
+Costo de ventas
+
+$ 400,000.00
+
+500
+
+Gastos de ventas
+
+$ 37,000.00
+
+500
+
+Gastos de Administración
+
+$ 5,000.00
+
+SUMAS IGUALES
+
+$ 1’855,000.000
+
+$ 1’855,000.00
+
+Como podrás observar, en nuestra balanza ajustada se refleja el decremento de la cuenta
+de inventarios derivada del recuento físico donde se conocieron las mercancías defectuosas
+que repercutieron en gastos de venta y el faltante de mercancías que no justificó el
+almacenista por lo que se registró como un deudor diverso; es decir, que el almacenista
+deberá pagar el inventario faltante.
+
+ESTADOS FINANCIEROS
+La balanza de comprobación es una lista de todos los saldos deudores y acreedores de las
+cuentas de mayor para comprobar la partida doble, por lo que sus saldos servirán de base
+para la preparación de los estados financieros.
+
+Guajardo (2014) menciona que “los estados financieros son informes a través de los cuales
+los usuarios de la información financiera perciben la realidad de la empresa y, en general,
+de cualquier organización económica. Dichos informes constituyen el informe final del
+llamado ciclo contable.”
+Barbosa (2012) menciona que los Estados Financieros son:
+
+                          
+  
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+BALANCE  
+GENERAL	
+
+ESTADO  DE  
+RESULTADOS	
+•Balance  General	
+•Activos	
+•Pasivos	
+•Capital  	
+
+•Ingresos	
+•Costos  y  gastos	
+•Utilidad  o  
+pérdida  neta	
+•Cambio  neto  en  el  
+patrimonio  
+contable  	
+
+ESTADO  DE  
+VARIACIONES  EN  
+EL  CAPITAL  
+•Movimientos  de  
+CONTABLE  	
+propietarios  	
+•Creación  de  
+reservas	
+•Utilidad  o  
+pérdida  integral	
+
+ESTADO  DE  FLUJO  
+DE  EFECTIVO	
+•Origen  de  los  
+recursos	
+•Aplicación  de  
+recursos	
+
+NOTA: En esta ocasión solo se analizarán el estado de resultados y el balance general.
+
+ESTADO DE RESULTADOS
+El estado de resultados para entidades comerciales muestra la información relativa al
+resultado de sus operaciones en un periodo y, por ende, los ingresos y gastos así como la
+utilidad o pérdida neta del ejercicio; es decir, es un estado financiero básico que muestra la
+utilidad o pérdida neta resultante de todos los ingresos, costos y gastos realizados por la
+entidad en un periodo determinado. Así mismo, el estado de resultados complementa la
+información del balance general.
+
+El modelo del estado financiero lo encontramos en el Apéndice B de la Norma de
+Información Financiera B-3 Estado de resultados; en esta ocasión, y para efectos
+didácticos, consideraremos el siguiente formato para elaborar el estado de resultados:
+
+                          
+  
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+Nombre de la Empresa:_______________
+Estado de resultados
+Para el año terminado al 31 de diciembre de 20____
+Ventas o ingresos netos
+( - ) menos
+
+Costo de ventas
+
+( = ) igual
+
+Utilidad o pérdida bruta
+
+( - ) menos
+
+Gastos generales:
+Gastos de venta
+Gastos de administración
+Gastos y productos financieros
+Otros gastos y otros productos
+
+( = ) igual
+
+Utilidad o pérdida neta
+
+BALANCE GENERAL
+Balance general, estado de situación financiera o estado de posición financiera, es el
+documento contable que muestra la situación financiera de la entidad a una fecha
+determinada.
+La Norma de Información Mexicana A-3 define al balance general en los siguientes
+términos:
+Muestra información relativa a una fecha determinada sobre los recursos y obligaciones
+financieras de la entidad; por consiguiente, los activos en orden de sus disponibilidad,
+revelando sus restricciones, los pasivos atendiendo a su exigibilidad, revelando sus riesgos
+financieros, así como el capital contable a dicha fecha.
+
+                          
+  
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+Nombre de la empresa: __________________
+Balance general
+Al 31 de diciem bre de 20_______
+Activo
+
+Pasivo
+
+Activo circulante
+
+Pasivo a corto plazo
+
+Bancos
+
+$ XXX
+
+Proveedores
+
+$ XXX
+
+Clientes
+
+$ XXX
+
+Anticipo de clientes
+
+$ XXX
+
+Deudores diversos
+
+$ XXX
+
+Acreedores diversos
+
+$ XXX
+
+Inventarios
+
+$ XXX
+
+ISR por pagar
+
+$ XXX
+
+Total activo circulante
+
+$ XXX
+
+Activo no circulante
+
+Total pasivo a corto plazo
+
+$ XXX
+
+Pasivo a largo plazo
+
+Equipo de transporte
+
+$ XXX
+
+Arrendamiento financiero
+
+$ XXX
+
+Depreciación
+acumulada equipo
+transporte
+
+$ (XXX)
+
+Crédito hipotecario
+
+$ XXX
+
+Mobiliario y equipo de
+oficina
+
+$ XXX
+
+Total pasivo a largo plazo
+
+Depreciación
+acumulada mobiliario y
+equipo de oficina
+
+$ (XXX)
+
+Capital contable
+
+de
+
+Total
+Activo
+circulante
+
+no
+
+Otros
+Activos
+circulantes
+
+no
+
+$ XXX
+
+Patentes
+
+$ XXX
+
+Marcas
+
+$ XXX
+
+Total otros activos no
+circulantes
+
+                          
+  
+
+Capital Social
+
+$ XXX
+
+Utilidades retenidas
+
+$ XXX
+
+Total capital contable
+
+$ XXX
+
+$ XXX
+
+$ XXX
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+TOTAL ACTIVO
+
+$ XXX
+
+TOTAL PASIVO MÁS CAPITAL
+
+$ XXX
+
+El modelo del estado de posición financiera (balance general) lo encontramos en el
+Apéndice A de la Norma de Información Financiera B-16; en esta ocasión y para efectos
+didácticos consideraremos el siguiente formato para elabora el balance general:
+Las cuentas son enunciativas más no limitativas.
+Presta atención a los siguientes ejemplos tomados de Lara E. y Lara L. (2014). Primer
+Curso de Contabilidad (26a Edición). México. Trillas.
+Ejemplo Estado de Resultados
+Suponga que ya elaboró las pólizas de ajustes con sus respectivos registros contables, los
+cuales ya registró en el libro mayor (esquemas de mayor o cuentas “T”) y le arrojan la
+siguiente balanza de comprobación ajustada al 31 de diciembre de 2014.
+Balanza de comprobación ajustada al 31 de diciembre de 2014
+No.
+Cuenta
+
+Cuentas
+
+Debe
+
+100
+
+Bancos
+
+$ 643,000.00
+
+100
+
+Clientes
+
+$ 200,000.00
+
+100
+
+Deudores diversos
+
+$20,000.00
+
+100
+
+Inventario de mercancías
+
+$ 550,000.00
+
+200
+
+Proveedores
+
+$ 400,000.00
+
+200
+
+Acreedores diversos
+
+$ 5,000.00
+
+300
+
+Capital
+
+$ 650,000.00
+
+400
+
+Ventas
+
+$ 800,000.00
+
+500
+
+Costo de ventas
+
+$ 400,000.00
+
+500
+
+Gastos de ventas
+
+$ 37,000.00
+
+500
+
+Gastos de Administración
+
+$ 5,000.00
+
+                          
+  
+
+Haber
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+SUMAS IGUALES
+
+$ 1’855,000.000
+
+$ 1’855,000.00
+
+Ajuste para determinar la utilidad bruta…
+Para determinar la utilidad o pérdida bruta, basta con restar la cuenta de ventas y el saldo
+de la cuenta de costo de ventas, como se muestra a continuación:
+Ventas
+8) 100,000.00
+
+Costo de ventas
+1’000,000.00 (5
+
+6) 500,000.00
+
+50,000.00 (9
+
+10) 100,000.00
+
+50,000.00 (11
+
+16) 400,000.00
+
+400,000.00 (16
+
+$ 600,000.00
+
+1’000,000.00
+
+$ 500,000.00
+
+$ 500,000.00
+
+$ 400,000.00
+
+Determine la utilidad bruta en cantidad de $400,000.00
+Póliza de: DIARIO
+
+Fecha: 31/Dic/14
+
+Póliza No. 16
+
+No. Cuenta
+
+Cuenta
+
+Debe
+
+Haber
+
+400
+
+Ventas
+
+$ 400,000.00
+
+500
+
+Costo de Ventas
+
+Sumas iguales
+Concepto: Asiento para determinar la utilidad bruta
+
+                          
+  
+
+$ 400,000.00
+$ 400,000.00
+
+$ 400,000.00
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+CONTROL
+
+Hecho por: CMMG______
+
+Revisado:
+YYJO___
+
+Autorizado: JPP__
+
+Es una póliza de diario porque no causa movimientos de dinero.
+Para determinar la utilidad o pérdida de operación, basta con restar la cuenta de ventas y
+el saldo de la cuenta de gastos de venta, gastos de administración, gastos y productos
+financieros y otros gastos y otros productos, como se muestra a continuación:
+
+Gastos de Venta
+
+Ventas
+
+Gasto de administración
+
+12)
+7,000.00
+
+8)
+1’000,000.00
+100,000.00 (5
+
+13)
+5,000.00
+
+37,000.00
+(17
+
+15)
+30,000.00
+
+10)
+100,000.00
+
+$
+$
+37,000.00 37,000.00
+
+16)
+400,000.00
+17)
+42,000.00
+$
+$1’000,000.00
+642,000.00
+$ 358,000.00
+
+                          
+  
+
+5,000.00
+(17
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+
+Determine la utilidad neta en cantidad de $ 358,000.00
+
+Póliza de: DIARIO
+
+Fecha:
+31/Dic/14
+
+Póliza No. 17
+
+No. Cuenta
+
+Cuenta
+
+Debe
+
+Haber
+
+400
+
+Ventas
+
+$ 42,000.00
+
+500
+
+Gastos de Venta
+
+$ 37,000.00
+
+500
+
+Gastos de Administración
+
+$ 5,000.00
+
+Sumas iguales
+
+$ 42,000.00
+
+$ 42,000.00
+
+Concepto: Asiento para determinar la utilidad de operación.
+CONTROL
+
+Hecho por: CMMG______
+
+Revisado:
+YYJO___
+
+Autorizado:
+JPP__
+
+Es una póliza de diario porque no causa movimientos de dinero.
+
+La cuenta de ventas, después de haber sido ajustada, se convierte en cuenta de resultados,
+pues su saldo expresa la utilidad si es acreedor, o la pérdida si es deudor.
+
+                          
+  
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+
+Ventas
+8) 100,000.00
+
+1’000,000.00 (5
+
+10) 100,000.00
+
+16) 400,000.00
+
+17) 42,000.00
+$ 642,000.00
+
+$1’000,000.00
+
+$ 358,000.00
+
+El saldo de la cuenta de ventas se debe traspasar a la cuenta de pérdidas y ganancias o
+utilidad neta.
+Ventas
+8) 100,000.00
+
+10) 100,000.00
+
+16) 400,000.00
+
+17) 42,000.00
+
+                          
+  
+
+Utilidad neta
+1’000,000.00 (5
+
+$358,000.00 (18
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+18) 358,000.00
+
+El saldo de la cuenta de ventas es acreedor por lo tanto es una utilidad y se traspasa a
+pérdidas y ganancias en cantidad de $358,000.00.
+
+Póliza de: DIARIO
+
+Fecha:
+31/Dic/14
+
+Póliza No. 18
+
+No. Cuenta
+
+Cuenta
+
+Debe
+
+Haber
+
+400
+
+Ventas
+
+$ 358,000.00
+
+500
+
+Utilidad neta
+
+Sumas iguales
+
+$ 358,000.00
+$ 358,000.00
+
+$ 358,000.00
+
+Concepto: Asiento para traspasar la utilidad o pérdida a la cuenta pérdidas y ganancias.
+CONTROL
+
+Hecho por: CMMG______
+
+Revisado:
+YYJO___
+
+Es una póliza de diario porque no causa movimientos de dinero.
+Estado de Resultados
+
+                          
+  
+
+Autorizado:
+JPP__
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+Nombre de la Empresa:_______________
+Estado de resultados
+Para el año term inado al 31 de diciem bre de 20____
+Ventas o ingresos netos
+
+$ 800,000.00
+
+Costo de ventas
+
+$ 400,000.00
+
+( = ) igual
+
+Utilidad o pérdida bruta
+
+$ 400,000.00
+
+(
+menos
+
+Gastos generales:
+
+(
+menos
+
+)
+
+)
+
+( = ) igual
+
+                          
+  
+
+Gastos de venta
+
+$ 37,000.00
+
+Gastos de administración
+
+$ 5,000.00
+
+Gastos y productos financieros
+
+$ 0.00
+
+Otros gastos y otros productos
+
+$ 0.00
+
+Utilidad o pérdida neta
+
+$ 42,000.00
+$ 358,000.00
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+
+Balance General
+Ejemplo Balance General
+Con la información de los saldos de balanza ajustada y la información del estado de
+resultados, el balance general quedaría de la siguiente manera:
+Nombre de la empresa: __________________
+Balance general
+Al 31 de diciembre de 20_______
+Activo
+
+Pasivo
+
+Activo circulante
+
+Pasivo a corto plazo
+
+Bancos
+
+$
+643,000.00
+
+Proveedores
+
+$
+400,000.00
+
+Clientes
+
+$ 200,00.00
+
+Acreedores diversos
+
+$ 5,000.00
+
+Deudores diversos
+
+$ 20,000.00
+
+Total pasivo a corto plazo
+
+$
+550,000.00
+
+Capital contable
+
+Inventarios
+mercancías
+Total
+circulante
+
+de
+
+activo
+
+$1’413,000,00
+
+Capital Social
+
+$
+650,000.00
+
+Utilidad del ejercicio
+
+$
+358,000.00
+
+Total capital contable
+TOTAL ACTIVO
+
+                          
+  
+
+$1’413,000.00
+
+$405,000.00
+
+TOTAL
+CAPITAL
+
+PASIVO
+
+$1’008,000.00
+MÁS
+
+$1’413,000.00
+
+Balanza de Comprobación
+Estados Financieros
+Producto yIntegrador
+         
+Aplicando Inventarios Perpetuos
+Como podrás observar, los saldos de las cuentas de balance que nos arrojó la balanza de
+comprobación ajustada, nos sirvieron para elaborar el balance general; solo le agregamos
+la utilidad obtenida en el estado de resultados, por que como recordarás, las cuentas de
+utilidades o pérdidas, son cuentas del capital contable.
+
+REFERENCIAS:
+Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financieras A.C. (2011).
+Normas de Información Financiera (6a Edición). México. IMCP.
+Barbosa, M. (2012). Contabilidad Financiera a Corto Plazo (1a Edición). México. IMCP.
+Guajardo G. y Andrade N. (2014). Contabilidad Financiera (6a Edición). México. McGraw-Hill
+Lara E. y Lara L. (2014). Primer Curso de Contabilidad (26a Edición). México. Trillas
+
+                          
+  
+
+

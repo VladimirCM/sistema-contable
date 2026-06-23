@@ -1,0 +1,49 @@
+1.2 PRINCIPIOS CONTABLES GENERALES ACEPTADOS (PCGA)
+Los Principios de Contabilidad Generalmente Aceptados (PCGA), en ingles
+conocidos como GAAP (Generally Accepted Accounting Principles). Estos
+principios son un conjunto de normas, requisitos y reglas que se aplican en las
+prácticas contables para asegurar la transparencia la consistencia y la
+comparabilidad de la información financiera presentada por las empresas.
+Su propósito es proporcionar información clara, coherente y comparable sobre
+las finanzas de las organizaciones.
+Los PCGA incluyen directrices sobre cómo se deben registrar y reportar las
+transacciones financieras, son utilizados en muchos países principalmente en
+Estados Unidos.
+Son normas para mantener un estándar entre todas las empresas en varios
+países, y en otros usan NIIF completas o NIIF para PYMES ; básicamente sirven
+para lo mismo, el ingeniero dice jejejejejejej.
+
+ALGUNOS PRINCIPIOS FUNDAMENTALES DEL MARCO DE LOS PCGA
+SON:
+1. Principio de Entidad: La contabilidad se lleva a cabo considerando a la
+entidad como una unidad económica separada. Las transacciones personales
+de los dueños o administradores deben mantenerse separadas de las de la
+entidad.
+2. Principio de Continuidad: Se asume que la entidad continuará en
+funcionamiento en el futuro previsible, lo que implica que no hay intención de
+liquidar o reducir significativamente sus operaciones.
+3. Principio de Realización: Los ingresos se reconocen en el momento en que
+se realizan, es decir, cuando se ha entregado el producto o prestado el
+servicio, y se tiene la certeza razonable de que se recibirán los pagos
+correspondientes.
+4. Principio de Consistencia: Las políticas contables deben aplicarse de
+manera consistente de un período a otro. Si se cambia alguna política
+contable, debe revelarse en las notas a los estados financieros.
+
+5. Principio de Prudencia: Se sugiere que las estimaciones no deben
+sobrestimar ingresos o activos y que se deberían considerar todos los gastos
+y pérdidas posibles. Este principio promueve el uso de estimaciones
+conservadoras.
+6. Principio de Devengo: Los ingresos y gastos se reconocen en el período en
+el que ocurren, independientemente de cuándo se reciben o pagan
+efectivamente las cantidades. Esto permite una representación más precisa
+del desempeño económico de la entidad.
+7. Principio de Importancia Relativa: Permite que se ignore un principio
+contable si su efecto en los estados financieros es trivial. En otras palabras, si
+la omisión o el error no afecta las decisiones de los usuarios de los estados
+financieros, puede considerarse irrelevante.
+8. Principio de Uniformidad: Se deben utilizar las mismas normas y métodos
+contables a lo largo del tiempo para permitir la comparación de la información
+financiera de diferentes períodos.
+
+

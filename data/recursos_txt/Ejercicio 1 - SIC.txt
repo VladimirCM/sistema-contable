@@ -1,0 +1,1366 @@
+LA TORTUGA
+BALANCE GENERAL AL XXX DE XXX DE 2025
+Activo
+Circulante
+Caja
+Inventario
+Fijo
+Mobilario
+
+Total de Activo
+
+f. _________________________
+dueño
+
+-$ 60.000,00-$ 10.000,00-$ 50.000,00-$
+-$
+
+5.000,00-
+
+5.000,00-
+
+-$ 65.000,00-
+
+f. ________________________
+contador
+
+Pasivo
+Circulante
+Documentos por pagar
+Capital
+Sr Noel Lado cta
+
+_______________________
+
+Total de pasivo y capital
+
+-$ 20.000,00-$ 20.000,00-$ 45.000,00-$ 45.000,00-
+
+mes
+
+EMPRESA LA TORTUGA
+fecha
+concept
+dia
+partida 1
+caja
+inventario
+mobilario
+documentos por pagar
+capital
+Partida de apertura del negocio LA TORTUGA
+Partida n.2
+compras
+credito fiscal IVA
+Proveedores
+Compras al crédito al Sr. Raúl Traman
+Partida n.3
+Caja
+Ventas
+Débito fiscal IVA
+Venta al contado
+Partida n.4
+Gastos sobre compras (flete)
+Crédito fiscal IVA
+Caja
+Pago de flete
+Partida n.5
+Clientes
+Ventas
+Débito fiscal IVA
+Ventas al crédito al Sr. Chó
+Partida n.6
+Compras
+Crédito fiscal IVA
+Documentos por pagar
+Compra al crédito al Señor Antonio López al 12% por 90 días
+Partida n.7
+Proveedor
+Devolución sobre compras
+Rebaja sobre compras
+Crédito fiscal
+Devolución al Sr. Raúl Trama y rebaja
+Partida n.8
+Documento por cobrar
+
+debe
+
+-$
+-$
+-$
+
+-$
+-$
+
+-$
+
+-$
+-$
+
+-$
+
+-$
+-$
+
+-$
+
+-$
+
+haber
+
+10.000,0050.000,005.000,00-$
+-$
+
+20.000,0045.000,00-
+
+-$
+
+22.600,00-
+
+-$
+-$
+
+7.000,00910,00-
+
+-$
+
+904,00-
+
+-$
+-$
+
+8.000,001.040,00-
+
+-$
+
+3.955,00-
+
+-$
+-$
+-$
+
+3.500,00165,00476,45-
+
+20.000,002.600,00-
+
+7.910,00-
+
+800,00104,00-
+
+9.040,00-
+
+3.500,00455,00-
+
+4.141,45-
+
+8.475,00-
+
+Ventas
+Débito Fiscal IVA
+Venta al crédito del Sr. Mario Roldán al 18%
+Partida n.9
+Compras
+Gastos sobre compra
+Crédito fiscal - IVA
+Caja
+Compras al contado y el flete
+Partida n.10
+Devolución sobre venta
+Debito fiscal
+Cliente
+c/ Devolución aceptada al N° cliente Juan Chón
+Partida n.11
+Caja
+Clientes
+Ventas
+Débito fiscal
+c/ Ventas al contado al crédito al Sr. Ramón Terrón
+Partida n.12
+Proveedores
+Caja
+c/ Cancelación al contado al proveedor Tramán
+Partida n.13
+Compras
+Gastos sobre compra
+Crédito fiscal
+Caja
+Documentos por pagar
+c/ Compra al contado y al crédito al Sr. Miguel Tirado al 12%
+Partida n.14
+Clientes
+Ventas
+Débito fiscal
+c/ Venta al crédito al Sr. Alfredo Jiménez
+Partida n.15
+Documentos por pagar
+Caja
+Gasto financiero
+Crédito fiscal - IVA
+Caja
+Documento por cobrar
+Producto financiero
+
+-$
+-$
+-$
+
+-$
+-$
+
+-$
+-$
+
+-$
+
+-$
+-$
+-$
+
+-$
+
+-$
+-$
+-$
+-$
+
+-$
+-$
+
+7.500,00975,00-
+
+-$
+
+2.401,25-
+
+-$
+
+1.695,00-
+
+2.000,00125,00276,25-
+
+1.500,00195,00-
+
+19.775,0019.775,00-
+
+Ya que se pagó al contado y también se realizo crédito
+-$
+-$
+
+35.000,004.550,00-
+
+-$
+
+18.458,55-
+
+-$
+-$
+
+8.757,508.757,50-
+
+-$
+-$
+
+3.000,00390,00-
+
+-$
+-$
+-$
+
+4.089,078.475,00508,50-
+
+18.458,55-
+
+15.000,00500,002.015,00-
+
+3.390,00-
+
+3.955,009.049,61118,6515,42-
+
+Débito fiscal - IVA
+c/ Pago al Sr. Antonio López al contado y cancelación de Mario Roldán
+Partida n.16
+Compras
+Gastos sobre compra
+Crédito fiscal
+Caja
+c/ Compras al contado y al acarreo
+Partida n.17
+Devolución sobre venta
+Débito fiscal
+Clientes
+c/ Devolución al Sr. Afredo Jiménez
+Partida n.18
+Caja
+Ventas
+Débito fiscal IVA
+c/ Venta al contado
+Partida n.19
+Gasto de administración
+Gasto de ventas
+Caja
+c/ Pago de sueldo del mes de enero
+Partida n.20
+Gasto de administración
+Gasto de ventas
+Caja
+c/ Pago de sueldo del mes de febrero
+Partida n.21
+Gasto de administración
+Gasto de ventas
+Caja
+c/ Pago de sueldo del mes de marzo
+Partida n.22
+Debito fiscal - IVA
+Crédito fiscal IVA
+c/ Liquidación del IVA en el mes de enero
+Partida n.23
+Debito fiscal - IVA
+Crédito fiscal IVA
+Caja
+c/ Liquidación del IVA del mes de febrero
+
+-$
+
+-$
+-$
+-$
+
+66,11-
+
+4.000,00100,00533,00$4.633
+
+-$
+-$
+
+-$
+
+-$
+-$
+
+-$
+-$
+
+-$
+-$
+
+800,00104,00-$
+
+904,00-
+
+-$
+-$
+
+16.000,002.080,00-
+
+-$
+
+4.000,00-
+
+-$
+
+4.000,00-
+
+18.080,00-
+
+1.600,002.400,00-
+
+1.600,002.400,00MES DE ENERO PARTIDAS DEL 2-7
+Débito
+Credito
+-$
+910,00- -$ 2.600,00-$ 1.040,00- -$
+104,00-$
+455,00-
+
+1.600,002.400,00-$
+
+4.000,00Total
+
+-$
+
+1.950,00-$
+
+-$
+
+-$ 1.950,00- -$ 2.682,55-$
+732,55-
+
+1.950,00MES DE FEBRERO PARTIDAS DEL 8-13
+Débito
+Debe
+Haber
+-$
+195,00- -$
+975,00-$ 4.550,00-
+
+5.330,00-$
+-$
+
+3.023,802.306,20suma
+
+-$ 5.330,00-
+
+PARTIDAS DEL 2-7
+
+-$
+
+476,45-
+
+Restar los 2 mil a los mil
+Luego sumar con el siguiente
+
+RO PARTIDAS DEL 8-13
+Crédito
+Debe
+Haber
+276,25
+2015
+-$ 3.023,80-
+
+Partida n.24
+Débito fiscal
+Crédito fiscal
+IVA por pagar
+c/ Liquidación del IVA del mes de marzo
+
+PARTIDA DE AJUSTE
+
+> En el Libro Diario no se lleva el emblema
+Partida n.25
+Gasto financiero
+Crédito Fiscal
+Intereses por pagar
+Otras cuentas por pagar
+c/ Provisión del 12% sobre $8757.50 en 30 días
+Partida n.26
+Gasto de venta
+Gasto de administración
+Depreciación acumulada de mobilaria
+c/ Por la depreciciación de los tres meses del mobilario
+Partida n.27
+Gasto de Administración
+Revisión para cuentas incobrables
+c/ Por las cuentas incobrables del 5% sobre la cantidad de $29606
+Partina n.28
+Inventario
+Costo de venta
+c/ Para establecer el costo de venta
+
+PARTIDAS DE CIERRE
+
+NO SE COLOCA EN REALIADAD
+Partida n.29
+Ventas
+Devoluciones sobre ventas
+c/ Para establecer las ventas reales
+Partida n.30
+Compras
+Gasto sobre compras
+c/ Para establecer las compras totales
+Partida n.31
+Devoluciones sobre compra
+Rebajas sobre compra
+Compras
+
+-$
+
+2.432,11-$
+-$
+
+548,421.883,69-
+
+suma y resta
+
+-$
+-$
+
+-$
+-$
+
+-$
+
+-$
+
+-$
+
+-$
+
+-$
+
+MES DE FEBRERO PARTIDAS DEL 8-13
+Débito
+Debe
+Haber
+-$
+104,00- -$
+390,00-$
+66,11-$ 2.080,00-$ 2.432,11-
+
+87,5811,39-$
+-$
+
+87,5811,39-
+
+-$
+
+225,00-
+
+168,7556,25-
+
+1.480,30-
+
+BUSCAR EN CLIENTES DEL LIBRO MAYOR
+-$
+
+1.480,00-
+
+-$
+
+64.410,00-
+
+-$
+
+2.300,00-
+
+-$
+
+1.525,00-
+
+Resultado deudor
+Costo de venta
+Gasto de administración
+Gasto de venta
+Gasto financiero
+
+-$
+
+3.665,00-
+
+Resultado acreedora
+
+64.410,00LE CORRESPONDE AL ESTADO DE PÉRDIDAS Y GANANCIAS
+
+2.300,00-
+
+1.525,00-
+
+$3.500
+165,00-
+
+RO PARTIDAS DEL 8-13
+Crédito
+Debe
+Haber
+-$
+15,42-$
+533,00-$
+
+548,42-
+
+DAS Y GANANCIAS
+
+Tenemos que tener mayorizado
+
+c/ Para establecer de forma directa el costo de venta
+Ahora a saldar el inventario inicial y saldar las compras
+Partida n.32
+Costo de venta
+Inventario
+Compras
+c/ Para establecer el costo de venta
+Partida n.33
+Perdida y ganancia
+Costo de venta
+Gasto de administración
+Gasto de venta
+Gasto financiero
+c/ Liquidación de cuentas deudoras
+Partida n.34
+Ventas
+Producto financiero
+Pérdida y ganancia
+c/ Liquidación de cuenta acreedora
+Partida n.35
+Perdidas y ganancias
+Utilidad por aplicar
+c/ Por establecer utilidad neta
+
+Venta
+
+-$
+
+-$
+
+-$
+-$
+
+-$
+
+92.360,00-$
+-$
+
+50.000,0042.360,00-
+
+-$
+-$
+-$
+-$
+
+27.950,006.336,557.368,75206,23-
+
+-$
+
+74.708,50-
+
+-$
+
+32.846,97-
+
+41.861,53-
+
+74.200,00508,50-
+
+32.846,97-
+
+n0.
+
+cuentas
+CAJA
+INVENTARIO
+MOBILIARIO
+DOCUMENTOS POR PAGAR
+CAPITAL
+COMPRAS
+CRÉDITO FISCAL IVA
+VENTAS
+GASTOS SOBRE COMPRA
+CLIENTES
+GASTOS DE ADMINISTRACIÓN
+GASTO DE VENTA
+DEVOLUCIONES SOBRE VENTA
+REBAJAS SOBRE COMPRA
+DEVOLUCIONES SOBRE COMPRA
+GASTO FINANCIERO
+PRODUCTO FINANCIERO
+IVA POR PAGAR
+INTERESES POR PAGAR
+OTRAS CUENTAS POR PAGAR
+DEPRECIACIÓN ACUMULADA DE MOBILIARIO
+REMISIÓN PARA CUENTAS INCOBRABLES
+UTILIDAD POR APLICAR
+
+Balance de comprobación
+deudor(debe)
+
+Balance de comprobación
+acreedor(haber)
+
+Debe
+
+Ajustes
+Haber
+
+Balance ajustado
+Deudor(debe)
+Acreedor(Haber)
+
+Estado de resultados
+Deudor(Debe)
+
+Estado de resultados
+Acreedor(Haber)
+
+Balance General
+Deudor(Debe)
+Acreedor(Haber)
+
+BALANCE GENERAL
+LAS DEMÁS EN RESULTADO
+
+AMBOS ESTADOS FINANCIER
+
+FECHA
+
+FORMATO DEL LIBRO MAYOR
+
+NOMBRE DE LA CUENTA MAYOR _
+DECRIPCION
+Apertura de negocio La Tortuga
+Venta al contado
+Pago de flete
+Compras al contado y el flete
+Ventas al contado y al crédito al Sr. Ramón Terrón
+Cancelación al contado al proveedor Tramán
+Compra al contado y al crédito al Sr. Miguel Tirado al 12%
+Pago al Sr. Antonio López al contado y cancelación de Mario Roldán
+Compras al contado y al acarreo
+Venta al contado
+Pago de sueldo del mes de enero
+Pago de sueldo del mes de febrero
+Pago de sueldo del mes de marzo
+Liquidación del mes de febrero
+
+PARTIDA
+1
+3
+4
+9
+11
+12
+13
+15
+16
+18
+19
+20
+21
+3
+
+FOLIO XXX
+OMBRE DE LA CUENTA MAYOR ____________________
+CAJA
+DEBE
+HABER
+SALDO
+-$ 10.000,00-$ 10.000,00-$ 7.910,00-$ 17.910,00-$
+904,00- -$ 17.006,00-$ 2.401,25- -$ 14.604,75-$ 19.775,00-$ 34.379,75-$ 18.458,55- -$ 15.921,20-$ 8.757,50- -$ 7.163,70-$ 9.049,61- -$ 4.089,07- -$ 12.124,24$4.633 -$ 7.491,24-$ 18.080,00-$ 25.571,24-$ 4.000,00- -$ 21.571,24-$ 4.000,00- -$ 17.571,24-$ 4.000,00- -$ 13.571,24-$ 2.306,20- -$ 11.265,04-
+
+Aumenta en el DEBE pero disminuye en el HABER
+
+FECHA
+
+DECRIPCION
+Partida de apertura del negocio LA TORTUGA
+Para establecer el costo de venta
+Para establecer el costo de venta
+
+PARTIDA
+
+DEBE
+HABER
+1 -$ 50.000,0028
+$64.410,00
+32
+-$ 50.000,00
+
+SALDO
+-$
+50.000,00-$
+114.410,0064.410,00-
+
+FECHA
+
+DECRIPCION
+Partida de apertura del negocio LA TORTUGA
+
+PARTIDA
+
+DEBE
+HABER
+1 -$ 5.000,00-
+
+SALDO
+-$ 5.000,00-
+
+FECHA
+
+DECRIPCION
+Partida de apertura del negocio LA TORTUGA
+Compra al crédito al Señor Antonio López al 12% por 90 días
+Compra al contado y al crédito al Sr. Miguel Tirado al 12%
+Pago al Sr. Antonio López al contado y cancelación de Mario Roldán
+
+PARTIDA
+1
+6
+13
+15
+
+DEBE
+
+HABER
+SALDO
+-$ 20.000,00- -$ 20.000,00-$ 3.955,00- -$ 23.955,00-$ 8.757,50- -$ 32.712,50-$ 3.955,00-$ 28.757,50-
+
+FECHA
+
+DECRIPCION
+Partida de apertura del negocio LA TORTUGA
+
+PARTIDA
+
+DEBE
+1
+
+HABER
+-$ 45.000,00-
+
+SALDO
+-$ 45.000,00-
+
+FECHA
+
+DECRIPCION
+Compras al crédito al Sr. Raúl Traman
+Compra al crédito al Señor Antonio López al 12% por 90 días
+Compras al contado y el flete
+Compra al contado y al crédito al Sr. Miguel Tirado al 12%
+Compras al contado y al acarreo
+Para establecer las compras totales
+Para establecer de forma directa el costo de venta
+Para establecer el costo de venta
+
+PARTIDA
+
+DEBE
+2 -$ 20.000,006 -$ 3.500,009 -$ 2.000,0013 -$ 15.000,0016 -$ 4.000,0030 -$ 1.525,0031
+32
+
+HABER
+
+SALDO
+-$ 20.000,00-$ 23.500,00-$ 25.500,00-$ 40.500,00-$ 44.500,00-$ 46.025,00-$ 3.665,00 -$ 42.360,00-$ 42.360,00- -$
+- -
+
+Esta cuenta aumenta en el debe pero disminuye en el haber
+
+FECHA
+
+DECRIPCION
+Compras al crédito al Sr. Raúl Traman
+Pago de flete
+Compra al crédito al Señor Antonio López al 12% por 90 días
+Devolución al Sr. Raúl Trama y rebaja
+Compras al contado y el flete
+Compra al contado y al crédito al Sr. Miguel Tirado al 12%
+Pago al Sr. Antonio López al contado y cancelación de Mario Roldán
+Compras al contado y al acarreo
+Liquidación del mes de enero
+Liquidación del mes de febrero
+Liquiación del mes de marzo
+c/ Provisión del 12% sobre $8757.50 en 30 días
+
+PARTIDA
+2
+4
+6
+7
+9
+13
+15
+16
+22
+23
+24
+25
+
+DEBE
+HABER
+SALDO
+-$ 2.600,00-$ 2.600,00-$
+104,00-$ 2.704,00-$
+455,00-$ 3.159,00-$
+476,45- -$ 2.682,55-$
+276,25-$ 2.958,80-$ 2.015,00-$ 4.973,80-$
+15,42-$ 4.989,22-$
+533,00-$ 5.522,22-$ 1.950,00- -$ 3.572,22-$ 3.023,80- -$
+548,42-$
+548,42- -$
+0,00$11,39
+-$
+11,39-
+
+AUMENTA EN EL DEBE PERO DISMINUYE EN EL HABE
+
+FECHA
+
+DECRIPCION
+Compras al crédito al Sr. Raúl Traman
+Devolución al Sr. Raúl Trama y rebaja
+Cancelación al contado al proveedor Tramán
+
+PARTIDA
+
+DEBE
+HABER
+SALDO
+2
+-$ 22.600,00- -$ 22.600,007 -$ 4.141,45-$ 18.458,5512 -$ 18.458,55-$
+- -
+
+Aumenta en el haber pero disminuye en el debe
+
+FECHA
+
+DECRIPCION
+Venta al contado
+Ventas al crédito al Sr. Chón
+Venta al crédito del Sr. Mario Roldán al 18%
+Ventas al contado al crédito al Sr. Ramón Terrón
+Venta al crédito al Sr. Alfredo Jiménez
+Venta al contado
+Para establecer ventas reales
+Liquidación de cuenta acreedora
+
+PARTIDA
+
+DEBE
+3
+5
+8
+11
+14
+18
+29
+2300
+34 -$ 74.200,00
+
+HABER
+SALDO
+-$ 7.000,00- -$ 7.000,00-$ 8.000,00- -$ 15.000,00-$ 7.500,00- -$ 22.500,00-$ 35.000,00- -$ 57.500,00-$ 3.000,00- -$ 60.500,00-$ 16.000,00- -$ 76.500,00-$ 74.200,00- -
+
+Aumenta en el haber pero disminuye en el debe
+Es una cuenta de estado de pérdida y ganancias
+
+FECHA
+
+DECRIPCION
+Venta al contado
+Ventas al crédito al Sr. Chó
+Venta al crédito del Sr. Mario Roldán al 18%
+Devolución aceptada al N° cliente Juan Chón
+Ventas al contado al crédito al Sr. Ramón Terrón
+Venta al crédito al Sr. Alfredo Jiménez
+Devolución al Sr. Afredo Jiménez
+Pago al Sr. Antonio López al contado y cancelación de Mario Roldán
+Venta al contado
+Liquidación del mes de enero
+Liquidación del mes de febrero
+Liquidación del mes de marzo
+
+PARTIDA
+3
+5
+8
+10
+11
+14
+17
+15
+18
+22
+23
+24
+
+DEBE
+
+-$
+
+-$
+
+-$
+-$
+-$
+
+HABER
+SALDO
+-$
+910,00- -$
+910,00-$ 1.040,00- -$ 1.950,00-$
+975,00- -$ 2.925,00195,00-$ 2.730,00-$ 4.550,00- -$ 7.280,00-$
+390,00- -$ 7.670,00104,00-$ 7.566,00-$
+66,11- -$ 7.632,11-$ 2.080,00- -$ 9.712,111.950,00-$ 7.762,115.330,00-$ 2.432,112.432,11-$
+0,00-
+
+Aumenta cuando tengo ventas pero disminuye cuando tengo reba
+Balance general
+
+FECHA
+
+DECRIPCION
+Pago de flete
+Compras al contado y el flete
+Compra al contado y al crédito al Sr. Miguel Tirado al 12%
+Compras al contado y al acarreo
+Para establecer las compras totales
+
+PARTIDA
+
+DEBE
+4 -$
+800,009 -$
+125,0013 -$
+500,0016 -$
+100,0030
+
+HABER
+
+-$
+
+SALDO
+-$
+800,00-$
+925,00-$ 1.425,00-$ 1.525,001.525,00 - -
+
+Aumenta en el debe pero disminuye en el haber
+
+FECHA
+
+DECRIPCION
+Ventas al crédito al Sr. Chó
+Devolución aceptada al N° cliente Juan Chón
+Ventas al contado al crédito al Sr. Ramón Terrón
+Venta al crédito al Sr. Alfredo Jiménez
+Devolución al Sr. Afredo Jiménez
+
+PARTIDA
+
+DEBE
+HABER
+5 -$ 9.040,0010
+-$ 1.695,0011 -$ 19.775,0014 -$ 3.390,0017
+-$
+904,00-
+
+SALDO
+-$ 9.040,00-$ 7.345,00-$ 27.120,00-$ 30.510,00-$ 29.606,00-
+
+Aumenta en el debe y disminuye en el haber
+Corresponde en el activo
+
+FECHA
+
+DECRIPCION
+Pago de sueldo del mes de enero
+Pago de sueldo del mes de febrero
+Pago de sueldo del mes de marzo
+Por la depreciciación de los tres meses del mobilario
+Por las cuentas incobrables del 5% sobre la cantidad de $29606
+Por liquidar cuentas deudoras
+
+PARTIDA
+
+DEBE
+19 -$ 1.600,0020 -$ 1.600,0021 -$ 1.600,0026
+$56,25
+27
+$1.480,30
+33
+
+HABER
+
+-$
+
+SALDO
+-$ 1.600,00-$ 3.200,00-$ 4.800,00-$ 4.856,25-$ 6.336,556.336,55 - -
+
+FECHA
+
+DECRIPCION
+Pago de sueldo del mes de enero
+Pago de sueldo del mes de febrero
+Pago de sueldo del mes de marzo
+Por la depreciciación de los tres meses del mobilario
+Por liquidar cuentas deudoras
+
+PARTIDA
+
+DEBE
+HABER
+19 -$ 2.400,0020 -$ 2.400,0021 -$ 2.400,0026
+$168,75
+33
+-$ 7.368,75
+
+SALDO
+-$ 2.400,00-$ 4.800,00-$ 7.200,00-$ 7.368,75- -
+
+FECHA
+
+DECRIPCION
+Devolución al Sr. Raúl Trama y rebaja
+Para establecer de forma directa el costo de ventas
+
+PARTIDA
+
+DEBE
+HABER
+7
+-$ 3.500,0031 -$ 3.500,00
+
+SALDO
+-$ 3.500,00- -
+
+FECHA
+
+DECRIPCION
+Devolución al Sr. Raúl Trama y rebaja
+c/ Para establecer de forma directa el costo de venta
+
+PARTIDA
+
+DEBE
+7
+31 -$
+
+165,00
+
+HABER
+-$
+165,00-
+
+SALDO
+-$
+165,00-$
+-
+
+FECHA
+
+DECRIPCION
+Venta al crédito del Sr. Mario Roldán al 18%
+Pago al Sr. Antonio López al contado y cancelación de Mario Roldán
+
+PARTIDA
+8
+15
+
+DEBE
+HABER
+SALDO
+-$ 8.475,00-$ 8.475,00-$ 8.475,00- -$
+- -
+
+Cuenta de activo
+Aumenta en el debe pero disminuye en el haber
+
+FECHA
+
+DECRIPCION
+Devolución aceptada al N° cliente Juan Chón
+Devolución al Sr. Afredo Jiménez
+Para establecer ventas reales
+
+PARTIDA
+
+DEBE
+HABER
+10 -$ 1.500,0017 -$
+800,0029
+2300
+
+SALDO
+-$ 1.500,00-$ 2.300,00-$
+- -
+
+ESTA CUENTA SIEMPRE QUEDA EN 0
+
+FECHA
+
+DECRIPCION
+Pago al Sr. Antonio López al contado y cancelación de Mario Roldán
+Provisión del 12% sobre $8757.50 en 30 días
+Por liquidar cuentas deudoras
+
+PARTIDA
+15
+25
+33
+
+DEBE
+HABER
+SALDO
+-$
+118,65-$
+118,65-$
+87,58
+-$
+206,23206,23 0,00-
+
+FECHA
+
+DECRIPCION
+Provisión del 12% sobre $8757.50 en 30 días
+
+PARTIDA
+
+DEBE
+25
+
+HABER
+SALDO
+-$
+87,58- -$
+87,58-
+
+FECHA
+
+DECRIPCION
+Provisión del 12% sobre $8757.50 en 30 días
+
+PARTIDA
+
+DEBE
+25
+
+HABER
+SALDO
+$11,39
+$11,39
+
+FECHA
+
+DECRIPCION
+Pago al Sr. Antonio López al contado y cancelación de Mario Roldán
+Liquidación de cuenta acreedora
+
+PARTIDA
+15
+34
+
+DEBE
+
+HABER
+SALDO
+-$
+508,50- -$
+508,50508,5 - -
+
+FECHA
+
+DECRIPCION
+Liquidación del mes de marzo
+
+PARTIDA
+
+DEBE
+24
+
+HABER
+SALDO
+-$ 1.883,69- -$ 1.883,69-
+
+FECHA
+
+DECRIPCION
+Por la depreciciación de los tres meses del mobilario
+
+PARTIDA
+
+DEBE
+26
+
+HABER
+$225,00
+
+SALDO
+$225,00
+
+FECHA
+
+DECRIPCION
+Por las cuentas incobrables del 5% sobre la cantidad de $29606
+
+PARTIDA
+
+DEBE
+27
+
+HABER
+SALDO
+$1.480,30
+$1.480,30
+
+FECHA
+
+DECRIPCION
+Para establecer el costo de venta
+Para establecer el costo de venta
+Liquidación de cuentas deudoras
+
+PARTIDA
+28
+32
+33
+
+DEBE
+
+HABER
+SALDO
+$64.410,00
+$64.410,00
+-$ 92.360,00
+-$ 27.950,00
+-$ 27.950,00 -$
+-
+
+Se suma en el debe, se resta en el haber
+
+FECHA
+
+DECRIPCION
+Liquidar cuentas deudoras
+Liquidar cuentas acreedoras
+
+PARTIDA
+
+DEBE
+33 $ 41,861.53
+34
+
+HABER
+
+SALDO
+-$
+41.861,53
+-$ 74.708,50 -$
+32.846,97
+
+Formato que debe tener el libro diario
+N. Partida
+Fecha
+
+Concepto
+
+Total
+
+FM
+
+folio N. xxx
+Parcial
+
+Debe
+
+Haber
+
+xxx
+
+xxx
+
+FORMATO DEL LIBRO MAYOR
+NOMBRE DE LA CUENTA MAYOR
+FECHA
+DECRIPCION
+1 de XXX de XPartida de apertura del negocio LA TORTUGA
+3 xx de xxx Venta al contado
+3 xx de xxx Pago de sueldo del mes de febrero
+
+Continua en el folio xxx
+
+PARTIDA
+1
+18
+21
+
+R
+FOLIO XXX
+OMBRE DE LA CUENTA MAYOR ____________________
+CAJA
+DEBE
+HABER
+SALDO
+-$ 10.000,00-$ 10.000,00-$ 18.080,00-$ 28.080,00-$ 4.000,00- -$ 24.080,00-
+
+Folio donde llega
+Continua del folio ….
+
+

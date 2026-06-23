@@ -1,0 +1,741 @@
+Finanzas
+Corporativas
+Presupuesto de Capital
+
+DECISIONES FINANCIERAS
+• INVERSIÓN:
+– Seguridad
+– Rentabilidad
+– Liquidez
+
+Presupuesto
+de capital
+
+• FINANCIACIÓN:
+– Menor Costo
+– Oportunidad : CICLO DE CAJA
+– Riesgo
+
+Estructura
+de capital
+
+Decisiones de Inversión
+Inversión
+Cualquier sacrifico de recursos que se haga hoy, con la
+esperanza de recibir beneficios en el futuro.
+
+Características
+•
+•
+•
+•
+•
+
+Implica alternativas
+Se relaciona con las diferencias entre las alternativas del futuro
+Se interesa en la diferencia de costos, no en la asignación de costos
+Se interesa en la ocurrencia de ingresos y gastos, no en su causación
+Considera la diferencia de sumas iguales de dinero en distintos puntos en
+el tiempo.
+
+Tipos de proyectos
+Decisiones de reemplazo: implica decisiones para reemplazar activos
+existentes;
+
+Decisiones de Expansión: son proyectos de capital encaminados a
+incrementar los activos actuales;
+
+Proyectos de independientes: son proyectos cuyos flujos de efectivo no se
+relacionan o independientes unos de otros, la aceptación no significa la
+eliminación de los demás;
+
+Proyectos mutuamente excluyentes: son proyectos que compiten entre si,
+de tal manera que la aceptación de uno elimina a los demás de ser tomados
+en consideración.
+
+Decisiones de Inversión
+(Presupuesto de Capital)
+
+La conveniencia de un proyecto debe siempre
+evaluarse sin tomar en cuenta su
+financiamiento;
+
+Es decir,
+El proyecto es bueno o malo
+independientemente de cómo se le financie.
+
+• Las decisiones de inversión se sustentan en:
+
+Rentabilidad
+
+Liquidez
+Riesgo
+Inversión
+Valor del
+Proyecto
+
+Crear
+valor
+
+Técnicas de Valuación
+Tasa de Rendimiento Contable Promedio.
+Período de Recuperación de la Inversión.
+Valor Presente Neto.
+Tasa Interna de Retorno.
+Índice de Rentabilidad.
+
+Costo Anual equivalente.
+
+Técnicas de
+valuación
+contable
+
+Método del Rendimiento Contable Promedio o
+Ganancia Contable
+Se define como el cociente entre el beneficio medio esperado de un proyecto,
+después de amortizaciones e impuestos, y el valor promedio contable de la
+inversión.
+
+CRITERIO:
+COMPARAR RCP CON LA TASA DE RENDIMIENTO
+CONTABLE DE LA EMPRESA EN SU CONJUNTO
+O CON ALGUNA REFERENCIA EXTERNA DEL SECTOR.
+
+Desventajas:
+• No tiene en cuenta el valor del dinero en el tiempo
+
+• Sufre el efecto de las distorsiones contables (métodos de valuación de activos
+y reconocimiento de resultados)
+
+Desventajas:
+• Puede esconder periodos donde hubo perdidas o las utilidades fueron muy
+bajas.
+
+Ventajas:
+• Permite comunicar la rentabilidad de un periodo específico.
+
+Tasa de Ganancia Contable =
+
+Utilidad Neta Promedio
+Inversión Promedio
+
+Tasa de Ganancia Contable =
+
+Resultado Operativo - Impuestos
+Activos Invertidos
+
+Ejemplo:
+
+Los proyectos A, B y C tienen una inversión inicial idéntica de $ 6.000 y
+depreciación en línea recta durante 3 años, sin valor de recuperación:
+PROYECTO
+
+AÑO 1
+
+AÑO 2
+
+AÑO 3
+
+TOTAL
+
+Proyecto A
+Cash Flow
+Ut. Neta
+
+4000
+2000
+
+3000
+1000
+
+2000
+0
+
+9000
+3000
+
+Proyecto B
+Cash Flow
+Ut. Neta
+
+2000
+0
+
+3000
+1000
+
+4000
+2000
+
+9000
+3000
+
+Proyecto C
+Cash Flow
+Ut. neta
+
+3000
+1000
+
+3000
+1000
+
+3000
+1000
+
+9000
+3000
+
+UTILIDAD NETA PROMEDIO= 2000 + 1000 + 0
+3
+Ut. Neta
+promedio
+Activo neto
+promedio
+ó Inversión
+promedio
+
+1000
+
+1000= 0.333 Ó = 33.33%
+3000
+
+Mientras la tasa de rendimiento contable es igual en los tres proyectos... 33.33%
+El proyecto A es mejor que el B debido a que su flujo de fondos se genera antes, y
+C es preferible a B por la misma razón.
+
+Período de Recuperación (PRI) (payback)
+Se define como el número esperado de tiempo que se requiere para
+recuperar una inversión original (el costo del activo), es decir, es la cantidad
+de periodos que han de transcurrir para que la acumulación de los flujos de
+efectivo iguale a la inversión inicial.
+
+Es el método más sencillo y formal, y el más antiguo utilizado para evaluar
+los proyectos de presupuesto de capital.
+
+Para calcular el periodo de recuperación en un proyecto, sólo debemos
+añadir los flujos de efectivo esperados de cada año hasta que se recupere el
+monto inicialmente invertido en el proyecto.
+
+Ejemplo:
+El periodo de recuperación exacto puede determinarse de la siguiente manera:
+FLUJOS NETOS DE EFECTIVO PROYECTO A
+CONCEPTO
+
+Per 0
+
+- Inversión Inicial
+
+-1000
+
+FLUJO NETO DE EFECTIVO
+
+-1000
+
+Per 1
+
+Per 2
+
+200
+
+Per 3
+
+300
+
+Per 4
+
+300
+
+200
+
+Per 0
+
+- Inversión Inicial
+
+-1000
+
+FLUJO NETO DE EFECTIVO
+
+-1000
+
+500
+
+Para el proyecto A el periodo
+de
+recuperación
+de
+la
+inversión se logra en el
+periodo 4:
+(200+300+300+200=1.000)
+.
+
+FLUJOS NETOS DE EFECTIVO PROYECTO B
+CONCEPTO
+
+Per 5
+
+Per 1
+
+600
+
+Per 2
+
+300
+
+Per 3
+
+300
+
+Per 4
+
+Per 5
+
+200
+
+500
+
+Para el proyecto B el periodo
+de
+recuperación
+de
+la
+inversión se logra entre los
+periodos 2 y 3:
+(600+300+100 =1.000).
+
+Para determinarlo con mayor exactitud se puede aplicar la siguiente formula:
+
+PR= 2 + 100/300 = 2.33
+principales desventajas del PRI:
+Ignora los flujos netos de efectivo más allá del periodo de recuperación;
+sesga los proyectos a largo plazo que pueden ser más rentables que los proyectos a
+corto plazo;
+
+ignora el valor del dinero en el tiempo cuando no se aplica una tasa de descuento
+o costo de capital.
+
+Principales ventajas del PRI:
+Facilidad de calculo
+Es un método intuitivo y sirve de apoyo en economías inestables
+
+Período de Recuperación descontado (PRI)
+(discounted payback)
+
+• Es una técnica mejorada al expresar los flujos de efectivo futuros en términos
+de su valor presente, donde cada flujo es descontado con una tasa de interés
+que representa el costo de oportunidad del inversor.
+
+No corrige todas las deficiencias del payback ya que sigue sin tomar en cuenta
+los flujos posteriores a la recuperación de la inversión y la rentabilidad del
+proyecto.
+
+Ejemplo: Inversión $ 600, tasa de interés, 10% flujos contantes durante 6 años
+por $ 150
+Flujos de
+Efectivo
+
+periodo
+
+Factor de descuento
+formula= 1/(1+i)n
+
+1
+2
+3
+4
+5
+
+150
+150
+150
+150
+150
+
+0.9090
+0.8264
+0.7513
+0.6830
+0.6209
+
+136.35
+123.96
+112.70
+102.45
+93.14
+
+6
+
+flujos a Valor actual
+151
+1.77
+0.5644
+
+568.59
+85.22
+653.81
+
+(600-568.59)
+
+31.41
+
+150 / (1,10)6
+
+84.67
+
+1.10
+1.21
+1.33
+1.46
+1.61
+
+Valor presente
+
+0.370965
+
+= X 12
+meses
+
+= 4.45 meses
+
+Valor Presente Neto = VPN
+El VPN de un proyecto de inversión no es otra cosa que su valor medido en
+dinero de hoy, o expresado de otra manera, es el equivalente en pesos
+actuales de todos los ingresos y egresos de un proyecto.
+Se mide con los flujos de efectivo netos, no con utilidades.
+
+• Si «i» es la tasa de interés adecuada el proyecto...
+
+•
+
+VPN(i) > 0 .... Crea Valor = proyecto conveniente
+
+•
+
+VPN(i) = 0 .... Ni crea ni destruye valor = Proyecto indiferente
+¿puede haber opciones?
+
+•
+
+VPN(i) < 0 .... Destruye Valor
+
+Proyecto inconveniente
+
+Ejemplo:
+Se desea invertir en la compra de un taxi que vale $300,000 para
+trabajarlo durante 4 años con rendimientos anuales de $70,000.
+Al final del cuarto año se vende por $35,000. El costo de
+oportunidad de los recursos es del 15%.
+Proyecto Taxi
+0
+
+Inversión
+
+1
+
+2
+
+3
+
+4
+
+70,000
+
+70,000
+
+70,000
+
+70,000
+
+(300,000)
+
+Ingresos netos
+Valor de Venta
+Flujo de caja
+Tasa Descuento
+VPN
+
+35,000
+(300,000)
+
+70,000
+
+70,000
+
+70,000
+
+60,869.57
+1.15
+
+52,930.06
+1.3225
+
+46,026.14
+1.520875
+
+105,000
+
+15.00%
+(80,140.15)
+
+CALCULOS
+60,034.09 219,859.85
+1.74900625
+
+FE: Flujos Netos de efectivo;
+
+k=valores porcentuales = i
+
+Tasa Interna de Retorno (TIR)
+Se define como la tasa de interés que reduce a cero el valor presente,
+el valor futuro o el valor anual de los flujos de efectivo esperados de
+
+un proyecto con el desembolso de la inversión, en otras palabras, es
+la tasa en la que los flujos de entrada y salida se igualan al costo
+inicial.
+Es decir, TIR es la tasa que iguala el VPN a cero
+
+En tanto la tasa interna de rendimiento del proyecto (TIR), sea mayor
+que la tasa de rendimiento requerida por la empresa para tal
+inversión, el proyecto será aceptable.
+
+Regla general de inversión al valorar la TIR:
+Mayor que K , aceptar
+
+Si la TIR es
+
+Igual que K , indiferente, ¿hay opciones?
+Menor que K , Rechazar
+
+Ejemplo:
+Si se solicita un préstamo a una tasa de interés del 15% para invertirla en el mercado de
+acciones, pero los valores que se eligen solo tienen una tasa de rendimiento del 13%.
+Se paga:
+Interés tasa del 15%
+
+pierde 2% s/la inversión.
+
+Para obtener rendimientos:
+La tasa de descuento (costo de inversión) debe ser inferior al 13%
+
+El VPN tiene como virtud
+determinar cuanto van a valer
+los flujos de estrada y salida al
+día de hoy para compararlos
+entre
+si
+y
+verificar
+el
+rendimiento.
+
+La TIR nos da la referencia de
+cuanto
+es
+el
+mínimo
+rendimiento que se debe
+exigir a un proyecto para
+cubrir costo de la inversión y
+establecer a partir de ahí cual
+es la tasa de rendimiento.
+
+Desventajas
+
+Ventajas
+
+Ventajas y desventajas del VPN y la TIR
+
+Tanto el VPN como la TIR
+dependen de una estimación de
+flujos, pueden arrojar cifras
+erróneas en el caso de que no
+sean estimados correctamente.
+A
+flujos
+de
+efectivo
+considerables y poco frecuentes
+la TIR se vuelve imprecisa.
+
+Diferencias y analogías del VPN y la TIR
+Diferencias
+
+analogías
+
+• La TIR es una incógnita
+del proyecto, en cambio,
+para el calculo del VPN
+se utiliza el costo de
+oportunidad.
+
+• Ambos utilizan flujos de
+efectivo netos de
+impuestos
+
+• La TIR es una medida de
+rentabilidad en términos
+relativos, el VPN es una
+medida de rentabilidad
+en términos absolutos
+
+• Ambos tienen en cuenta
+el valor del dinero en el
+tiempo
+
+Índice de Rentabilidad o Relación CostoBeneficio
+Mide el rendimiento que genera cada peso invertido en el
+proyecto descontado al valor presente.
+Se obtiene calculando el cociente entre el valor actual de los ingresos netos
+esperados y el desembolso de la inversión inicial.
+
+La fórmula es la siguiente:
+IR = VPN
+Io
+IR = 219,859.85
+300 000
+
+IR= 0.7329
+
+Reglas para evaluar el Índice de Rentabilidad:
+Mayor que K , aceptar
+
+Si el IR es
+
+Igual que K , indiferente, ¿hay opciones?
+Menor que K , Rechazar
+
+ventajas :
+
+desventajas :
+
+Es útil cuando se quiere racionar el
+capital, aunque presenta limitaciones
+
+No es una buena técnica cuando se
+tienen
+
+proyectos
+
+mutuamente
+
+excluyentes
+Proyecto
+
+inversión
+inicial
+
+Flujos de
+efectivo
+
+VP al 10%
+
+VAN
+
+IR
+
+A
+B
+
+-100
+-200
+
+400
+700
+
+363
+636
+
+263
+436
+
+-3.63
+-3.18
+
+Costo Anual Equivalente (CAE)
+permite comparar alternativas de distinta vida útil. Se calcula mediante la
+siguiente fórmula:
+la alternativa de solución evaluada
+que presente el menor valor actual de
+costos, es la más conveniente desde el
+punto de vista técnico económico.
+
+Una empresa compra una máquina por $ 600,000 y la explota durante
+cinco años sin problemas , al final la vende por $300,000.
+¿Si los costos anuales de operación y mantenimiento empiezan en $100,000 y
+crecen con una tasa de 10%. ¿Cual es el CAE?
+Tasa de descuento
+
+20%
+
+Tasa de crecimiento
+
+10%
+0
+
+Inversión
+
+1
+
+2
+
+3
+
+4
+
+5
+
+-100,000
+
+-110,000
+
+-121,000
+
+-133,100
+
+-146,410
+
+-600,000
+
+Costos
+
+Salvamento
+
+300,000
+
+Flujo neto
+
+-600,000
+
+VPN
+
+-832,209
+
+CAE
+
+278,274
+
+-100,000
+
+-110,000
+
+-121,000
+
+-133,100
+
+153,590
+
+Ventajas:
+Particularmente útil para proyectos que constituyen fuentes de egresos
+En la mayoría de los casos no resulta práctico definir los ingresos de las
+diferentes alternativas de un proyecto, pero si se puede garantizar que se
+
+obtienen los mismos beneficios, aun cuando no se puedan cuantificar
+explícitamente.
+
+Es conveniente en los casos que no se puede calcular la TIR
+Los indicadores VPN y CAE son plenamente consistentes en las evaluaciones
+
+que producen.
+
+

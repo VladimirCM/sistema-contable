@@ -1,0 +1,508 @@
+LOS ELEMENTOS DEL COSTO DE
+PRODUCCIÓN
+Mtra. María Isabel Roca Gutiérrez
+
+MATERIA PRIMA
+
+MATERIA PRIMA
+• Una empresa de transformación se dedica a la
+adquisición de materias primas para transformarlas
+física y/o químicamente y ofrecer un producto a los
+consumidores diferente al que ella adquirió.
+• La materia prima que se puede identificar o
+cuantificar plenamente con los productos terminados
+se clasifica como materia prima directa (MPD) y pasa
+a ser el primer elemento de la producción. La materia
+prima que no se puede identificar o cuantificar
+plenamente con los productos terminados se clasifica
+como Materia prima indirecta (MPI) y se acumula
+dentro de los cargos indirectos.
+
+Objetivos del control de Materia
+Prima
+• Compras
+• Planeación de Producción y Control
+de Inventarios
+• Control de Calidad
+• Almacén de Materias Primas
+• Costos
+
+COMPRAS
+La primera función de la empresa de
+transformación es la función de compra. En esta
+primera función la realiza el área de compras,
+cuyos principales objetivos son:
+• Adquirir los materiales, suministros y servicios
+necesarios de la calidad apropiada.
+• Adquirirlos a tiempo para satisfacer las
+necesidades de la planta fabril y hacer que sean
+entregados en el sitio debido.
+• Adquirirlos al costo final más bajo posible.
+
+PLANEACIÓN DE PRODUCCIÓN Y
+CONTROL DE INVENTARIOS.
+Tiene a su cargo la planeación de los consumos
+anuales de materias primas y otros materiales,
+así como las revisiones mensuales. Diseña y
+realiza controles estadísticos diarios de
+inventarios de las principales materias primas;
+coordina con las áreas de producción e
+ingeniería el estudio de las posibles
+sustituciones de los materiales difíciles de
+obtener, así como la determinación de fabricar
+o comprar algunos otros.
+
+CONTROL DE CALIDAD
+• Esta área intervienen en la
+aprobación de los materiales
+recibidos, a la vez que efectúa
+revisiones
+técnicas,
+análisis
+químicos y todas las pruebas
+necesarias que permitan comprobar
+que su calidad es la establecida
+previamente.
+
+ALMACEN DE MATERIAS PRIMAS
+• Tiene a su cargo la guarda,
+custodia,
+conservación
+y
+distribución de los materiales
+antes de que éstos sean
+sometidos a cualquier proceso
+de
+manufactura
+o
+transformación.
+
+COSTOS
+Se encarga del control, registro y valor
+tanto de los materiales recibidos como de
+los enviados a producción, contabiliza los
+materiales aplicados a cada orden de
+producción y los materiales indirectos
+utilizados
+en
+los
+diferentes
+departamentos de producción y servicio.
+
+VALUACIÓN DE SALIDAS DEL
+ALMACEN
+Para costear las salidas de los materiales que
+directa o indirectamente se utilizan en la
+producción consideraremos los siguientes
+métodos:
+1. Costo Promedio
+2. Primeras entradas, primeras salidas (PEPS)
+3. Últimas entradas, primeras salidas (UEPS)
+
+MANO DE OBRA
+
+MANO DE OBRA
+• Es el segundo elemento del costo de
+producción y se refiere al esfuerzo
+humano necesario para transformar la
+materia prima en un producto
+terminado o manufacturado. Este
+esfuerzo es remunerado en efectivo,
+valor que interviene4 como parte
+importante en la formación del costo de
+Producción
+
+MANO DE OBRA DIRECTA E INDIRECTA
+• Los salarios que se pagan a las personas que
+participan directamente en la transformación de la
+materia prima en un producto terminado y que
+pueden identificarse o cuantificar plenamente con el
+mismo se clasifica como mano de obra directa (MOD).
+Los sueldos y salarios y prestaciones que se pagan al
+personal de apoyo a la producción como por ejemplo
+directivos de la fabrica, supervisores, personal del
+almacén, personal de mantenimiento, etc. y que no se
+pueden identificar o cuantificar plenamente con la
+elaboración de los productos, se clasifica como costo
+de mano de obra indirecta (MOI) .
+
+EL CONTRATO DE TRABAJO
+• Es el convenio por medio del cual una persona o
+grupo de personas se obliga a ejecutar una obra
+o prestar ciertos servicios a otra y otras
+personas, bajo la dependencia de éstos y
+mediante el pago de determinada cuota por
+tiempo o por pieza liquidada en efectivo.
+• Los contratos de trabajo se clasifican en:
+– Contratos Individuales
+– Contratos Colectivos.
+
+SISTEMAS DE SALARIOS
+Los salarios se dividen por cuanto a su
+forma de pago en:
+• Sistema de Salarios por tiempo.
+• Sistema de salarios a destajo.
+• Sistema de incentivos
+
+Sistema de salarios por tiempo.
+• Es aquel que se paga con base en el tiempo
+trabajo que puede ser por hora o por día.
+
+Sistema de salarios a destajo
+• Consiste en pagarle al obrero de acuerdo con
+el trabajo desarrollado, fijándosele una cuota
+por cada unidad producida.
+
+SISTEMA DE INCENTIVOS
+Cualquiera de los sistemas de salarios pueden
+mejorarse combinándolos con incentivos que
+son premios que tienden a lo siguiente:
+• Mejorar la Calidad
+• Economizar Material
+• Economizar tiempo.
+Los incentivos son complemento de los
+sistemas de salarios a base de tiempo o
+producción.
+
+SALARIO DIARIO INTEGRADO
+• Salario diario=100
+• Vacaciones=6 x0.25=1.5
+• Aguinaldo= 15
+• Días año=365
+• (prima vacacional) 1.5 + 15 (Aguinaldo) =
+(16.5/365) + 1 = 1.0452 factor integración
+mínimo
+• Salario diario x factor integración= SBC
+• 100 x 1.0452 = 104.52
+
+CALCULO DEL SEPTIMO DÍA
+Existen dos formas para calcular el séptimo día:
+a) Dividiendo el salario nominal total entre 6
+con lo cual se obtiene la cifra
+correspondiente al séptimo día.
+b) Multiplicando el salario nominal por 16.66%
+que representa 1/16 de 100.
+
+CALCULO DE LA CUOTA PARA APLICACIÓN
+DE LA MANO DE OBRA DIRECTA.
+Cuando se ha calculado el salario total semanal
+que corresponde a un trabajador, incluyendo el
+séptimo día para después calcular la cuota por
+hora que se debe tomar para la aplicación de la
+mano de obra directa a los costos de
+producción.
+Suponiendo que la cuota según contrato es de
+$ 2.40 la cuota para aplicación del costo sería:
+2.40 mas 1/6 = $ 2.80
+
+MANO DE OBRA DIRECTA EXTRA.
+• El tiempo extra es aquel que se trabaja
+después del tiempo normal y de acuerdo con
+la Ley Federal del Trabajo, no deberá ser ni
+más de tres horas diarias ni más de tres veces
+por semana.
+• El tiempo que exceda de la jornada normal
+de trabajo se llama tiempo extra y, debe
+cubrirse con cuota doble con base en la cuota
+que corresponde al tiempo normal.
+
+EJEMPLO
+• Suponiendo que un obrero ha trabajado 48
+horas normales y 8 horas extras, siendo su
+salario por día de $ 32.00 o sea $ 4.00 por
+hora.
+Tiempo normal:
+• 48 horas a $ 4.00
+• 7° día
+• Tiempo extra:
+• 8 horas a $ 8.00
+• Total
+
+$ 192.00
+32.00
+
+64.00
+$ 288.00
+
+OBJETIVOS DE LA CONTABILIZACIÓN
+DE LA MANO DE OBRA
+1. Controlar la mano de obra y su costo
+2. Tener elementos suficientes para formular
+las nóminas o listas de raya.
+3. Registro de tiempo (entrada y salida de los
+trabajadores)
+4. Tarjetas de Asistencia
+5. Tarjetas de distribución de tiempo.
+
+GASTOS INDIRECTOS DE FABRICACIÓN
+
+GASTOS INDIRECTOS
+Se denominan como gastos o costos
+indirectos de fabricación o producción (CIF)
+al conjunto de los gastos de producción o
+fabricación
+que
+intervienen en la
+transformación de los productos , y que no se
+identifican o cuantifican plenamente con la
+elaboración de las partidas de productos,
+procesos productivos o centro de costo
+determinados.
+
+CLASIFICACION DE LOS CIF
+Los CIF representan el tercer elemento del
+costo de producción y pueden referirse a los
+siguientes conceptos:
+• Materia prima indirecta
+• Mano de Obra indirecta
+• Gastos de la fabrica o local
+• Depreciaciones y amortizaciones
+• Gastos pagados por anticipado.
+
+DIVISION DEPARTAMENTAL
+• Es conveniente
+seccionar las
+operaciones
+productivas en
+departamentos o
+procesos ya que con
+ellos contamos con
+información analítica.
+
+• Departamentos
+productivos
+• Departamentos de
+servicios a la
+producción
+• Departamentos de
+servicios generales
+
+Departamentos de servicios a
+la producción
+
+Departamentos de servicios
+generales
+
+• Calderas
+• Departamento
+Mecánico
+• Subestación
+• Almacén de materiales
+• Departamento de
+costos
+• etc.
+
+• Mantenimiento del
+edificio
+• Aseo del edificio
+• Departamento de
+personal
+• Estacionamiento
+• Vigilancia
+• Etc.
+
+CONTABILIZACION DE LOS GASTOS
+INDIRECTOS DE FABRICACION
+• El primer paso contable que originan los gastos
+indirectos es su acumulación la cual dependerá de
+que la fabrica este o no departa mentalizada.
+• Si no esta dividida la acumulación se hará a través
+de una cuenta de mayor que se llamara gastos de
+fabricación o gastos indirectos de fabricación.
+• En caso que abrir la cuenta de mayor para cada
+departamento, con su auxiliar correspondiente cuyo
+caso tendrá tantas cuentas de mayor como
+departamentos existan
+
+ASIGNACIÓN DE COSTOS INDIRECTOS
+DE PRODUCCIÓN
+• LA ASIGNACION DE COSTOS.- consiste en
+determina una actividad base o una
+asignación base, debe de ser una medida que
+refleje la utilización o el empleo del costo de
+gastos indirectos de producción.
+• Estos se pueden asignar o aplicar a la orden
+de producción, utilizando un índice
+predeterminado de gastos indirectos de
+producción
+
+SEGÚN SU APLICACIÓN O
+ASIGNACIÓN
+• Reales.- los gastos erogados en el periodo
+• Predeterminados.- gastos presupuestados
+aplicados con base a una cuota calculada en
+función de cierto volumen de producción
+también predeterminada. Dicha cuota se
+denomina coeficiente regulador de gastos
+indirectos
+
+ÍNDICE DE COSTOS INDIRECTOS DE
+FABRICACIÓN
+
+• ICIF= COSTOS ESTIMADOS O HISTORICOS
+BASE DE LA ACTIVIDAD
+
+PRORRATEO DE GASTOS INDIRECTOS
+DE FABRICACIÓN
+• Los cargos indirectos no se identifican
+plenamente con la elaboración de partidas
+especificas de productos, proceso productivos o
+centros de costo determinado. Para superar esta
+situación y poder determinar los costos unitarios
+de producción, tendremos que partir de los
+costos aplicables al periodo que reporta nuestra
+base de datos, para poderlos direccionar hacia la
+producción del mismo periodo de costos, a
+través de los prorrateos primario, secundario y
+final.
+
+PRORRATEO PRIMARIO
+• Es la aplicación de los costos del periodo que son
+originados por todas las aéreas (comunes), hacia los
+departamentos de producción y de servicios de acuerdo a
+las bases determinadas para su distribución.
+• Debemos de tener en cuenta que ciertos CIF se convierten
+en directos al departamento que los origina.
+• La aplicación del prorrateo primario debemos tener en
+cuenta:
+1. La aplicación de aquellos gastos directos a cada
+departamento.
+2. La aplicación de aquellos gastos que deban prorratearse
+entre todos los departamentos de acuerdo con las bases
+siguientes:
+
+GASTOS INDIRECTOS DE
+PRODUCCION
+
+DEPARTAMENTOS
+PRODUCTIVOS
+
+DEPARTAMENTOS
+DE SERVICIOS A
+LOS
+PRODUCTIVOS
+
+DEPARTAMENTOS
+DE SERVICIOS
+GENERALES
+
+GASTOS INDIRECTOS
+
+BASES DE DISTRIBUICON
+
+Alquiler del edificio
+Depreciación del edificio
+Reparaciones del edificio
+Seguro del edificio
+
+Metros cuadrados ocupados por cada
+departamento
+
+Gastos de comedor
+Gastos de previsión social
+Seguros médicos
+
+Cantidad de obreros o importe de la
+mano de obra
+
+Depreciación de la Maquinaria
+Seguro de la Maquinaria
+
+Inversión del equipo en cada
+departamento
+
+Pago de luz y fuerza
+
+Aplicación de cuota fina estimada por
+cada lámparas y por los kw-hora
+consumidos por las maquinas
+
+PRORRATEO SECUNDARIO
+• Esta operación tiene como finalidad el hacer
+una derrama interdepartamental,
+empezando a repartir los gastos del
+departamento que mayor servicio
+proporcione, ósea el que sirve a mas
+departamentos, tomando como base el
+servicio recibido por los demás
+departamentos
+
+DEPARTAMENTOS
+DE SERVICIOS
+GENERALES
+
+1
+
+DEPARTAMENTOS DE
+SERVICIOS A LOS
+PRODUCTIVOS
+
+2
+
+DEPARTAMENTOS
+PRODUCTIVOS
+1
+
+DEPARTAMENTOS
+
+BASE DE APLICACION
+
+Mantenimiento y aseo
+
+Espacio metros cuadrados por cada
+departamento
+
+Personal
+
+Nº de trabajadores
+
+Vigilancia
+
+Valor de las inversiones
+
+Costos
+
+Horas de trabajo
+
+Luz y fuerza
+
+Kw-hora. Nº de lámparas en cada
+departamento
+
+almacenes
+
+Nº de vales
+
+Herramientas del taller mecánico,
+servicios generales
+
+Horas servidas en cada departamento
+
+Calderas
+
+Porcentaje del consumo
+
+PRORRATEO FINAL
+• Es la aplicación de los
+gastos indirectos
+acumulados del
+periodo en los
+departamentos de
+producción a los
+artículos terminados.
+• La aplicación se hace
+de acuerdo a bases
+determinadas para su
+distribución.
+
+• Las bases pueden ser:
+– La producción obtenida
+– El costo de la materia
+prima
+– El costo de la mano de
+obra
+– El costo primo
+– Las horas-hombre
+– Las horas-maquina
+
+

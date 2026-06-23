@@ -1,0 +1,329 @@
+mes
+
+fecha
+dia
+
+concepto
+FM
+partida #1
+Caja general
+Inventarios
+Bienes muebles
+mobiliario y equipo
+proveedores
+capital
+c/Partida de apertura del negocio
+
+parcial
+1
+2
+3
+
+debe
+$10000
+$50000
+$5000
+
+$5000
+4
+5
+
+Partida #2
+compras
+6
+credito fiscal-IVA
+7
+Proveedores
+4
+c/Compras al señor Raul Traman al credito
+
+$20000
+$45000
+
+$20000
+$2600
+$22600
+
+Partida #3
+Caja general
+ventas
+debito fiscal
+c/ ventas al contado
+
+1
+8
+9
+
+$7910
+
+partida #4
+gasto sobre compra
+credito fiscal IVA
+caja general
+c/Pago de flete y seguro
+
+10
+7
+1
+
+$800
+$104
+
+partida#5
+Clientes
+Ventas
+Debito fiscal
+c/ Venta al credito al sr Juan Cho
+
+11
+8
+9
+
+$9040
+
+partida #6
+compras
+6
+credito fiscal
+7
+Documentos por pagar
+12
+c/Compra al credito al señor Antonio Lopez
+Partida #7
+
+haber
+
+$7000
+$910
+
+$904
+
+$8000
+$1040
+
+$3500
+$455
+$3955
+
+pasa al folio x
+
+enunciado 1 al numero 6 corresponde al mes de enero, entonces hay que hacer partidas complementarias acerca del ejercicio
+
+calculo del iva
+partida numero dos
+compra
+2600 credito fiscal
+partida #3 venta
+910 debito fiscal
+partida #4
+104
+partida #5
+1040
+partida 6
+455
+
+ley de impuestos es del 13%
+
+Caja general
+fecha
+concepto
+Partida de apertura del negocio
+Ventas al contado
+pago de flete y seguro
+
+folio
+numero de partida
+debe
+haber
+1
+10000
+3 $7910
+4
+$904
+
+1
+saldo
+
+Inventarios
+folio
+fecha
+concepto numero de partida
+debe
+Apertura del negocio 1 $50000
+
+2
+haber
+
+saldo
+
+Bienes y muebles
+fecha
+concepto
+Apertura del negocio
+
+numero de partida
+
+folio
+debe
+1 $5000
+
+3
+haber
+
+saldo
+
+Proveedores
+folio
+fecha
+concepto
+numero de partida
+debe
+apertura del negocio
+1
+Compras al credito del sr Traman 2
+
+4
+haber
+$20000
+$22600
+
+saldo
+
+Capital
+fecha
+
+concepto
+apertura del negocio
+
+folio
+numero de partida
+debe
+1
+
+5
+haber
+
+saldo
+$45000
+
+Compras
+fecha
+
+concepto
+Compras al credito al srTramana
+compras al credito al seño anatonio
+
+folio
+numero de partida
+debe
+2 $20000
+6 $3500
+
+6
+haber
+
+saldo
+
+Credito fiscal-IVA
+folio
+numero de partida
+debe
+fecha
+concepto
+Compras al credito al sr tramana
+2 $2600
+pago de flete y seguro
+4 $104
+Compras al señor Antonio al credito
+6 $455
+
+7
+haber
+
+saldo
+
+Ventas
+fecha
+
+folio
+concepto
+numero de partida
+debe
+Venta al contado
+3
+vental al credito al sr. Juan Cho
+5
+
+8
+haber
+$7000
+$8000
+
+saldo
+
+Debito Fiscal
+folio
+numero de partida
+debe
+fecha
+concepto
+vantas al contado
+3
+ventas al credito al señor Juan Cho
+5
+
+9
+haber
+$910
+$1040
+
+saldo
+
+clientes
+fecha
+
+concepto
+vental al credio al sr Juan Cho
+
+folio
+numero de partida
+debe
+5 $9040
+
+11
+haber
+
+saldo
+
+Documentos por pagar
+fecha
+concepto
+compras al credito al Sr antonio
+
+folio
+numero de partida
+debe
+6
+
+12
+haber
+$3955
+
+saldo
+
+gasto sobre compra
+fecha
+concepto
+Pago de flete y seguro
+
+folio
+numero de partida
+debe
+4 $800
+
+10
+haber
+
+saldo
+
+

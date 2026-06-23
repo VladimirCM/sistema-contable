@@ -1,0 +1,449 @@
+Unidad 16
+
+• Cierre anual de operaciones y hoja de trabajo
+
+"Al terminar el ejercicio, una vez registradas todas las operaciones efectuadas durante
+el mismo, el proceso contable que se debe de seguir para hacer el cierre anual de
+operaciones, se inicia con la formulación de la balanza de comprobación y termina con
+el Estado de resultados, esto esa el Estado de perdidas y ganancias".
+
+PROCESO CONTABLE
+Al terminar el ejercicio, una vez registradas todas las operaciones efectuadas
+durante el mismo, el proceso contable que se debe seguir para hacer el cierre anual de
+operaciones es el siguiente:
+•
+
+Se formula la Balanza de comprobación con las cuentas que aparecen abiertas
+en el libro Mayor.
+
+•
+
+Se verifica, por medio de la Balanza de comprobación, que el registro de las
+operaciones se haya hecho respetando la partida doble.
+
+•
+
+Se comprueba que el saldo de cada una de las cuentas coincida con el de su
+Mayor auxiliar correspondiente.
+
+•
+
+Se determina cuáles son los saldos de las cuentas que no coinciden con la
+realidad.
+
+•
+
+Se hacen los asientos de ajuste necesarios para que el saldo de cada una de
+las cuentas coincida con la realidad, o por lo menos sea lo más exacto posible.
+
+•
+
+Se formula una nueva balanza en la que figuren los saldos de las cuentas ya
+ajustados.
+
+•
+
+Se hacen los asientos de pérdidas y ganancias para determinar la utilidad o
+pérdida del ejercicio.
+
+•
+
+Se hace el asiento de cierre.
+
+•
+
+Se formula el Estado de situación o Balance general.
+
+•
+
+Se elabora el Estado de resultados o Estado de pérdidas y ganancias.
+
+Para comprender mejor cada uno de los puntos del proceso anterior, a
+continuación se trata en forma amplia y detallada cada uno de ellos.
+
+BALANZA DE COMPROBACIÓN
+Como sabemos la balanza de comprobación es el documento por medio del cual
+
+se puede verificar si todos los cargos y abonos de los asientos del Diario han sido
+trasladados a las cuentas correspondientes del Mayor, respetando el principio de la
+partida doble.
+Para estar seguros de la exactitud de los saldos de las cuentas que contiene la
+Balanza de comprobación, es preciso examinar el saldo de cada cuenta para verificar si
+cada uno de ellos coincide con el de su mayor auxiliar correspondiente.
+No obstante haber cumplido con el principio de la partida doble, y haber
+comprobado que todos los saldos de las cuentas coinciden con el de su Mayor auxiliar
+correspondiente, no es posible formular los estados financieros con ellos, aun cuando
+no se hayan cometido errores en el registro, debido a que por motivos ajenos o
+imprevistos, no siempre coinciden con la realidad.
+Los motivos que originan que los saldos de las cuentas no siempre coincidan con
+la realidad provienen de:
+a) Operaciones no reportadas.
+b) Extravíos, robos o malos manejos de bienes propiedad de la empresa.
+c) Activos en malas condiciones no incluidos en los inventarios.
+d) Créditos de cobro dudoso.
+e) Depreciación y revaluación del activo fijo.
+f) Amortización y consumo del activo diferido.
+g) Acumulación de activo y pasivo pendiente de registrar.
+Éstos y algunos otros de la misma índole son la causa de que los saldos de la
+balanza de comprobación no-concuerden al terminar el ejercicio, coincida con la
+realidad.
+
+ASIENTOS DE AJUSTE
+Teniendo en cuenta la explicación anterior, se requiere que antes de proceder a
+la formulación o ela- 659 boración de los estados financieros, es preciso hacer los
+asientos de ajuste necesarios para que el saldo de cada una de las cuentas, al terminar
+el ejercicio, coincida con la realidad, o por lo menos sea lo más exacto posible.
+
+BALANZA DE SALDOS AJUSTADOS
+Una vez efectuados los asientos de ajuste necesarios, así como los pases de los
+mismos a las cuentas 660 correspondientes del Mayor, es necesario obtener de éste
+una relación de cuentas con los saldos ya ajustados, la cual se denomina Balanza de
+saldos ajustados.
+De acuerdo con lo anterior, la Balanza de saldos ajustados es un documento en
+que aparecen los saldos 661 de las cuentas después de haber pasado a ellas los
+asientos de ajustes necesarios.
+A continuación se indica en forma práctica el proceso que se debe seguir para la
+formulación de la Balanza de saldos ajustados, partiendo de la siguiente Balanza de
+comprobación, y tomando como base los datos que aparecen después de ella para
+hacer los asientos de ajuste correspondientes.
+
+Datos para hacer los ajustes de las cuentas que aparecen en la Balanza de
+comprobación anterior:
+1. Existencia en efectivo, según arqueo de caja $ 42 000.00; por la diferencia se
+hizo responsable a la cajera, señorita Socorro Regalado.
+2. Saldo de la cuenta de Bancos, según estado de cuenta $ 3 196 550.00; la
+diferencia pertenece a la renta e IVA de una caja de seguridad, correspondiente
+al próximo ejercicio; que la institución descontó de nuestra cuenta de cheques.
+3. Inventario final de mercancías, según recuento físico $ 8 900 000.00.
+4. Se estima incobrable el 2% sobre el saldo de la cuenta de Clientes.
+5. Se considera incobrable el 1% sobre el saldo de la cuenta de Documentos por
+cobrar.
+6. Se estima incobrable, de la cuenta de Deudores diversos, la cantidad de $
+1600.00.
+7. Se considera a los terrenos un valor actual de $ 5 000 000.00.
+8. Depreciación de edificios 5%; el departamento de ventas ocupa 750 metros
+cuadrados y el de administración 250.
+9. Depreciación de mobiliario y equipo 10% ; del valor que resulte, aplíquese el
+
+70% a gastos de venta y el resto a administración.
+10. Depreciación de equipo de reparto 15%.
+11. Amortización de gastos de instalación 5%; del valor que resulte, aplique el
+100% a gastos de venta, pues las instalaciones y adaptaciones fueron hechos
+para acondicionar una bodega que se rentó.
+12. Intereses pagados por anticipado transcurridos a la fecha del Balance $ 50
+000.00.
+13. Rentas pagadas por anticipado transcurridos a la fecha del Balance $ 24
+000.00, los cuales se deben cargar a gastos de venta, pues las rentas
+corresponden a una bodega.
+14. Inventario final de papelería y útiles del departamento de ventas $ 75 000.00,
+y del de administración $ 125 000.00.
+15. Inventario final de propaganda $ 150 000.00.
+16. Intereses por cobrar sobre documentos a favor de la empresa procedentes
+de la venta demercancías $ 120 000.00, los cuales causan IVA.
+17. Gastos de operación pendientes de pago a la fecha del Balance:
+
+ASIENTOS DE AJUSTE
+Para hacer los asientos de ajuste es preciso verificar que el saldo de cada una
+de las cuentas de la Balanza de comprobación coincidan con la realidad; las diferencias
+detectadas son las que se deben contabilizar por medio de asientos de ajuste.
+En nuestro caso, los asientos de ajuste que se deben procesar, tomando como
+base los saldos de la Balanza de comprobación y los datos que aparecen después de
+ella, son los siguientes:
+Por faltante en caja a cargo de la cajera:
+
+Por la renta e IVA de una caja de seguridad que el banco descontó de nuestra cuenta
+de cheques:
+
+Para determinar las ventas netas:
+
+Para determinar las compras totales:
+
+Para determinar las compras netas:
+
+Para determinar la suma o total de mercancías:
+
+Para determinar el costo de lo vendido
+
+Para determinar la utilidad o la pérdida bruta o en ventas:
+
+Por el valor que se estima incobrable sobre el saldo de la cuenta de Clientes:
+
+Por el valor que se considera incobrable sobre el saldo de la cuenta de Documentos por
+cobrar:
+
+Por el valor que se estima incobrable sobre la cuenta de Deudores diversos:
+
+Por el aumento de valor estimado a los terrenos:
+
+Por la depreciación de edificios:
+
+Por la depreciación de mobiliario y equipo:
+
+Por la depreciación de equipo de reparto:
+
+Por la amortización de gastos de instalación:
+
+Por intereses pagados por anticipados transcurridos a la fecha del Balance:
+
+Por las rentas pagadas por anticipado disfrutadas a la fecha del Balance:
+
+Por el inventario final de papelería y útiles:
+
+Por el inventario final de propaganda:
+
+Por los intereses por cobrar sobre documentos a favor de la empresa y el IVA
+correspondiente:
+
+Por los gastos de operación pendientes de pago a la fecha del Balance:
+
+Después de haber trasladado los asientos de ajuste anteriores, a las cuentas del
+Mayor, éstas figuran con los saldos siguientes:
+
+Con los saldos que figuran en las cuentas después de haber pasado a ellas los
+asientos de ajuste se forma la Balanza de saldos ajustados que en nuestro caso es la
+siguiente:
+
+En la balanza de saldos ajustados no deben aparecer las cuentas que saldaron
+al hacer los asientos de ajuste.
+Una vez formulada la Balanza de saldos ajustados y después de haber
+comprobado que la suma de los saldos deudores es igual a la de los acreedores, se
+
+debe proceder a la determinación de la utilidad o de la pérdida del ejercicio, para lo cual
+es preciso conocer el saldo de las cuentas de Capital o de Resultados; que en nuestro
+caso, son las siguientes:
+
+Para determinar la utilidad o la pérdida del ejercicio se debe traspasar el saldo de
+las cuentas de resultados a la de Pérdidas y ganancias, la cual tiene el movimiento y
+saldo siguiente.
+
+PÉRDIDAS Y GANACIAS
+
+Saldo deudor. Expresa la pérdida neta del ejercicio, la cual se debe traspasar a
+la cuenta de Capital, si se trata de una empresa cuyo capital pertenece a una sola
+persona, o a la de Pérdida del ejercicio si el capital ha sido aportado por varias
+personas.
+Saldo acreedor. Expresa la utilidad neta del ejercicio, la cual se debe traspasar
+a la cuenta de Capital, si se trata de una empresa cuyo capital pertenece a una sola
+persona, o a la de Utilidad del ejercicio si el capital ha sido aportado por varias
+personas.
+
+Las cuentas de Pérdida del ejercicio y de Utilidad del ejercicio quedan saldadas
+al hacer el asiento 671 de cierre.
+
+ASIENTOS DE PÉRDIDAS Y GANANCIAS
+Los asientos de Pérdidas y ganancias, también nombrados Traspasos, se hacen
+al terminar el ejercio para transferir los saldos de las cuentas de Resultados a las
+Pérdidas y ganancias, con objeto de conocer la utilidad o la pérdida del ejercicio. Los
+saldos de las cuentas de Resultados se deben tomar precisamente de la Balanza de
+saldos ajustados.
+Para traspasar los saldos de las cuentas de Resultados a la de Pérdidas y
+ganancias, se acostumbra hacer dos asientos; en el primero, se deben transferir los
+saldos acreedores y, en el segundo, los deudores.
+En nuestro caso, el primer asiento se debe hacer para transferir a la cuenta de
+Pérdidas y ganancias los saldos de las cuentas de Resultados, Ventas y Gastos y
+productos financieros, que son los que aparecen con saldo acreedor. Ejemplo:
+Para saldar las cuentas de resultados acreedores:
+
+El segundo asiento se debe hacer para transferir a la cuenta de Pérdidas y
+ganancias los saldos de las cuentas de resultados Gastos de venta, Gastos de
+administración y Otros gastos y productos, que son las que, en nuestro caso, resultaron
+con saldo deudor. Ejemplo:
+Para saldar las cuentas de resultados deudoras:
+
+Después de estos dos asientos las cuentas de Resultados quedan saldadas y la
+de Pérdidas y ganan- 675 cias, en nuestro caso, queda con un saldo acreedor de $ 5
+298 950.00, que representa la utilidad del ejercicio, dicha utilidad se debe trasferir a la
+cuenta de Capital o a la de Utilidad del ejercicio, según la clase de empresa de que se
+trate, por medio del asiento siguiente:
+
+Para saldar la cuenta de Pérdidas y ganancias:
+
+676
+
+Si el saldo de la cuenta de Pérdidas y ganancias hubiese sido deudor
+representaría la pérdida del ejercicio, en tal caso para transferirla se haría el asiento
+siguiente:
+Para cerrarla cuenta de Pérdidas y ganancias cuando su saldo resulte deudor:
+
+Una vez trasladados los asientos de Pérdidas y ganancias al libro Mayor, las
+cuentas de Resultados deben quedar saldadas, y las demás cuentas del Mayor quedan
+con los siguientes saldos:
+
+Como puede verse únicamente quedan abiertas las cuentas del Activo, del
+Pasivo, las Complementarias de Activo, la de Capital y la de Utilidad del ejercicio, que
+son precisamente las que se emplean para la formulación del Estado de situación.
+
+BALANZA PREVIA AL BALANCE
+La Balanza previa al Balance general se formula con los saldos de las cuentas
+que quedan abiertas después de haber trasladado al libro Mayor los asientos de
+pérdidas y ganancias.
+Véase a continuación la Balanza previa al Balance general, correspondiente al
+ejercicio que venimos desarrollando.
+
+ASIENTO DE CIERRE
+El asiento de cierre, como su nombre lo indica, se hace para saldar o cerrar las
+cuentas que quedan 680 abiertas después de haber trasladado los asientos de pérdidas
+y ganancias al libro Mayor.
+
+El asiento de cierre se hace con los saldos de las cuentas que aparecen en la
+Balanza previa al Balance general.
+Véase a continuación el asiento de cierre correspondiente al ejercicio que
+venimos desarrollando.
+
+Al trasladar el asiento de cierre al libro Mayor, todas las cuentas deben quedar
+saldadas o cerradas según puede verse en los esquemas siguientes:
+
+ASIENTO DE REAPERTURA
+Al empezar el nuevo ejercicio se debe hacer en el libro Diario el asiento de reapertura,
+precisamente con las mismas cuentas y saldos que contiene el asiento de cierre, pero
+invirtiendo su orden, o sea que las cuentas que aparecen cargadas en este último se
+deben abonar, y las que figuran abonadas se deben cargar.
+
+ESTADO DE SITUACIÓN FINANCIERA O BALANCE GENERAL
+El Estado de situación o Balance general se formula con las cuentas y saldos que
+aparecen en la Ba- 683 lanza previa al Balance general. Véase Estado de situación
+financiera en la página 309.
+
+ESTADO DE RESULTADOS O ESTADO DE PÉRDIDAS Y GANANCIAS
+El Estado de resultados o Estado de pérdidas y ganancias se formula con las cuentas y
+saldos que 684 aparecen en las balanzas de comprobación y de saldos ajustados; a
+continuación se indica qué cuentas y saldos se toman de cada una de ellas:
+
+Saldos ajustados
+
+Gastos y productos financieros Otros gastos y productos
+
+Véase Estado de resultados en la página 308.
+
+HOJA DE TRABAJO
+Todo el proceso desarrollado, desde la Balanza de comprobación hasta la
+formulación de los Esta dos financieros, se puede hacer en un solo documento
+denominado Hoja de trabajo.
+Hoja de trabajo, también conocida con el nombre de Estado de trabajo, no es un
+documento con table obligatorio o indispensable, tiene carácter optativo, y además de
+índole interna, que el contador formula antes de hacer el cierre anual de operaciones y
+que le sirve de guía para hacer con seguridad los asientos de ajuste, los de pérdidas y
+ganancias y el de cierre en el libro Diario, así como los Estados financieros: Estado de
+situación y Estado de resultados en el libro de Inventarios y balances.
+El Estado de trabajo se desarrolla en una hoja tabular de doce columnas, en las
+cuales se hace el resumen del cierre anual de operaciones; en seguida se indica lo que
+debe anotarse en dichas columnas:
+Balanza de comprobación. En las cuatro primeras columnas se registran la
+Balanza de comprobación; en la primera de ellas se anotan los movimientos deudores;
+en la segunda, los acreedores; en la tercera, los saldos deudores y en la cuarta, los
+acreedores.
+Al hacer la Balanza de comprobación, se deben dejar disponibles los renglones
+necesarios para anotar los ajustes que reciban las cuentas. Si una cuenta solo recibe
+un ajuste de cargo o abono no es necesario dejar después de ella renglones
+disponibles, pues el cargo o el abono se anota en el mismo renglón donde aparece la
+cuenta; pero, si por ejemplo, una cuenta recibe cuatro asientos de ajuste, es necesario
+dejar después de ella tres disponibles, el primer ajuste se anotará en el mismo renglón
+en que aparece la cuenta y los demás en los tres renglones disponibles.
+Por tanto, antes de hacer la Balanza de comprobación en la Hoja de trabajo, es
+
+preciso conocer cuántos ajustes reciben las cuentas, para saber los renglones que se
+deben dejar disponibles después de las cuentas que reciban más de un ajuste.
+Asientos de ajuste. Las columnas quinta y sexta se destinan para anotar los
+asientos de ajuste; en la primera de ellas se asientan los cargos y en la segunda, los
+abonos.
+Balanza de saldos ajustados. Las columnas séptima y octava se destinan para
+anotar los saldos que quedan en las cuentas después de haber hecho los asientos de
+ajuste; en la primera de ellas se asientan los saldos deudores y en la segunda, los
+acreedores.
+Asientos de pérdida y ganancias. Las columnas novena y décima se destinan
+para anotar los asientos de pérdidas y ganancias; en la primera de ellas se registran los
+cargos y en la segunda, los abonos.
+Balanza previa al Balance. Las columnas undécima y duodécima se destinan
+para anotar los saldos que quedan en las cuentas después de haber hecho los asientos
+de pérdidas y ganancias o traspasos; en la primera de ellas se anotan los saldos
+deudores y en la segunda, los acreedores.
+Precisamente, de la Balanza previa al Balance se toman las cuentas y saldos
+para formular con ellos el estado de situación.
+Para comprender mejor las explicaciones anteriores, véase en la página 310 la
+Hoja de trabajo correspondiente al ejercicio desarrollado en esta lección.
+Esta forma de Hoja de trabajo es más práctica y sencilla, también se elabora o
+desarrolla en una hoja tabular de doce columnas, difiere de la forma anterior en los
+puntos siguientes:
+Balanza de comprobación. Al pasar la Balanza de comprobación a la Hoja de
+trabajo, no es nece sario dejar renglones disponibles después de ninguna cuenta.
+Asientos de ajuste. Los cargos o abonos de las cuentas que reciben varios
+ajustes se acumulan por separado, y tan sólo se anotan en estas columnas las sumas
+de ellos, anteponiendo en lugar del número de ajuste la letra "v", con lo cual se indica
+que el importe corresponde a varios ajustes.
+Asientos de pérdidas y ganancias. El nombre de estas columnas cambia por el
+de Pérdidas y ganancias; en la primera de ellas se anotan los saldos deudores de las
+cuentas de resultados y en la segunda, los acreedores; la diferencia que resulte entre
+las sumas de los saldos deudores y acreedores se anota en la primera columna si
+corresponde a utilidad o en la segunda, si corresponde a pérdida, con lo cual se logra
+obtener sumas iguales en ambas columnas.
+Para entender mejor los puntos anteriores, véase en la página 311 la Hoja de
+
+trabajo correspondiente al mismo ejercicio desarrollado en esta unidad.
+
+CUESTIONARIO
+Conteste las siguientes preguntas
+1. ¿Cuál es el proceso que se debe seguir para hacer el cierre anual de
+operaciones?
+2. ¿Qué se requiere hacer antes de proceder a la formulación de los Estados
+financieros?
+3. ¿Qué es necesario obtener después de haber efectuado los asientos de ajuste
+necesarios?
+4. ¿Qué entendemos por la Balanza de saldos ajustados?
+5. ¿Con qué elementos contables se forma la Balanza de saldos ajustados?
+6. ¿Qué cuentas no deben figurar en la Balanza de saldos ajustados?
+7. ¿Qué procede determinar una vez formulada la Balanza de saldos ajustados, y
+qué es preciso conocer?
+8. ¿A qué cuenta se debe traspasar el saldo de las cuentas de Capital o de
+Resultados?
+9. ¿De qué se carga y abona la cuenta de Pérdidas y ganancias?
+10. ¿Qué representa el saldo de la cuenta de Pérdidas y ganancias cuando es
+deudor, y a qué cuenta se debe traspasar?
+11. ¿Qué representa el saldo de la cuenta de Pérdidas y ganancias cuando es
+acreedor, y a qué cuenta se debe traspasar?
+12. ¿De qué se carga y abona la cuenta de Pérdida del ejercicio?
+13. ¿De qué se abona y carga la cuenta de Utilidad del ejercicio?
+14. ¿Cuándo saldan las cuentas de Pérdida del ejercicio y Utilidad del ejercicio?
+15. ¿Con qué otro nombre se conocen los asientos de Pérdidas y ganancias,
+cuándo se hacen, para qué y con qué objeto?
+16. ¿Para qué se hace el primer asiento de Pérdidas y ganancias?
+
+17. ¿Para qué se hace el segundo asiento de Pérdidas y ganancias?
+18. ¿Qué cuentas deben quedar saldadas después de haber hecho los dos
+primeros asientos de pérdidas y ganancias?
+19. ¿Qué asiento se debe hacer para cerrar la cuenta de Pérdidas y ganancias
+cuando su saldo es acreedor?
+20. ¿Qué asiento se debe hacer para cerrar la cuenta de Pérdidas y ganancias
+cuando su saldo es deudor?
+21. ¿Qué cuentas quedan abiertas únicamente después de haber hecho los
+asientos de Pérdidas y ganancias?
+22. ¿Con qué elementos contables se formula la Balanza previa al Balance
+general?
+23. ¿Para qué se hace el asiento de cierre?
+24. ¿Con qué elementos contables se hace el asiento de cierre?
+25. ¿Cómo se le denomina al primer asiento que se hace al empezar el ejercicio
+fiscal, con qué se hace, y en qué forma?
+26. ¿Con qué cuentas y saldos se formula el Estado de situación?
+27. ¿Con qué cuentas y saldos se formula el Estado de resultados?
+28. ¿Cómo se llama el documento en el cual se puede hacer todo el proceso
+contable del cierre anual de operaciones?
+29. ¿Qué entendemos por la Hoja de trabajo, y para qué sirve?
+30. ¿De cuántas columnas consta el rayado tabular de la Hoja de trabajo?
+31. ¿Qué se anota en las primeras cuatro columnas?
+32. ¿Qué es preciso conocer antes de pasar la Balanza de comprobación a la Hoja
+de trabajo?
+33. ¿Qué se anota en la quinta y sexta columnas?
+34. ¿Qué se anota en la séptima y octava columnas?
+35. ¿Qué se anota en la novena y décima columnas?
+36. ¿Qué se anota en las dos últimas columnas?
+
+37. ¿En qué puntos difiere la Hoja de trabajo concentrada, con respecto de la
+forma anterior?
+
+EJERCICIOS
+Con los mismo datos de los ejercicios de las páginas 281-285, formule los siguientes
+estados:
+a) Hoja de trabajo.
+b) Estado e situación o Balance general.
+c) Estado de resultados o Estados de pérdidas y ganancias.
+
+

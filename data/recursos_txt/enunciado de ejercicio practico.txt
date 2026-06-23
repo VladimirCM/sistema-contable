@@ -1,0 +1,1014 @@
+5.2 CASO PRÁCTICO DE COSTOS POR ORDENES DE PRODUCCIÓN
+INDUSTRIAS ILOMODAS, S.A. DE C.V.
+BALANZA DE COMPROBACIÓN
+AL 3O DE NOVIEMBRE DE 2020
+
+CUENTAS
+1101 Efectivo y Equivalente de Efectivo
+1103 Cuentas por Cobrar
+1107 Inventario
+1110 Anticipo a Cuenta del ISR
+1201 Propiedad Planta y Equipo
+4102 Costos de Venta
+4301 Costos Indirectos de Fabricación Control
+4401 Gasto de Administración
+4402 Gasto de Venta
+1202 R Depreciación Acumulada
+2104 Tributos por Pagar
+2106 Retenciones por Pagar
+2108 Aportes Patronales por Pagar
+3101 Capital Social
+3201 Reserva Legal
+4302 R Costos Indirectos de Fabricación
+Aplicados
+5101 Ingresos Operacionales
+TOTALES
+
+DEUDOR
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+$
+
+ACREEDOR
+
+33,666.18
+7,510.50
+800.00
+1,264.98
+30,000.00
+43,370.79
+12,481.15
+6,500.00
+6,000.00
+
+141,593.60
+
+$
+$
+$
+$
+$
+$
+
+12,199.17
+1,389.98
+123.00
+183.00
+40,000.00
+600.00
+
+$
+
+14,813.80
+
+$
+$
+
+72,284.65
+141,593.60
+
+El Efectivo está conformado de la siguiente manera:
+Caja: $ 841.66
+Bancos: $ 32,824.52
+El inventario tiene el siguiente detalle:
+
+
+Materia Prima
+
+$ 500.00
+
+
+
+Material Directo
+
+$ 200.00
+212
+
+
+
+Material Indirecto
+
+INVENTARIO
+Pique negro
+Casimir
+Mesh
+Sincatex
+Adidas
+Oxford sencillo
+Cavalier
+Quiana
+Q-1
+TOTALES
+
+$ 100.00
+MATERIAS PRIMAS
+UNIDADES
+COSTO
+(LBS)
+UNITARIO
+36
+$
+5.40
+32
+$
+3.60
+10
+$
+1.65
+17
+$
+3.75
+12.5
+$
+3.50
+10
+$
+2.60
+5
+$
+6.20
+5
+$
+1.50
+1
+$
+1.90
+
+MATERIALES DIRECTOS
+COSTO
+INVENTARIO
+UNIDADES
+UNITARIO
+Set de cuellos rojo
+15
+$
+1.50
+Set de cuellos rayas
+20
+$
+1.75
+Set de cuellos blancos
+22
+$
+1.50
+Botones transparentes
+155
+$
+0.038
+Botones plateados
+33
+$
+0.05
+Botones celeste claro
+12
+$
+0.038
+Zippers negro P/pantalón
+50
+$
+0.35
+Zippers sintético café
+10
+$
+0.20
+Zippers rosa P/falda
+25
+$
+0.20
+Dacrón P/ pechera cafe-lbs
+5
+$
+3.50
+Dacrón P/ pechera blanco-lbs
+7
+$
+3.50
+Dacrón P/ pechera verde-lbs
+5
+$
+3.50
+Dacrón P/ pechera rayas-lbs
+5
+$
+3.50
+TOTALES
+
+PRECIO TOTAL
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+194.40
+115.20
+16.50
+63.75
+43.75
+26.00
+31.00
+7.50
+1.90
+500.00
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+PRECIO
+TOTAL
+22.50
+35.00
+33.00
+5.89
+1.65
+0.46
+17.50
+2.00
+5.00
+17.50
+24.50
+17.50
+17.50
+200.00
+
+213
+
+HILOS
+Plateado P/bordar
+Rojo P/bordar
+Blanco P/bordar
+Negro/bordar
+Verde
+Blanco
+Amarillo
+Negro
+Azul
+Café
+Rosa
+Celeste
+TOTALES
+
+MATERIALES INDIRECTOS
+UNIDADES
+COSTO
+(CONOS)
+UNITARIO
+5
+$
+3.75
+2
+$
+3.75
+2
+$
+3.75
+4
+$
+3.75
+2
+$
+1.15
+1
+$
+1.15
+2
+$
+1.15
+5
+$
+3.50
+2
+$
+3.50
+3
+$
+3.50
+1
+$
+3.50
+2
+$
+3.50
+
+PRECIO TOTAL
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+18.75
+7.50
+7.50
+15.00
+2.30
+1.15
+2.30
+17.50
+7.00
+10.50
+3.50
+7.00
+100.00
+
+Los gastos pagados por anticipados están integrados por:
+Pago a Cuenta: $ 1,264.98
+La Propiedad Planta y Equipo está constituido por:
+Equipo y Maquinaria de producción: $ 29,400.00
+Mobiliario y Equipo de oficina: $ 600.00
+Y a continuación se presenta un cuadro resumen de depreciación de Propiedad Planta y Equipo.
+
+214
+
+Fecha de
+Adquisición
+03/01/2018
+03/01/2018
+03/01/2018
+03/01/2018
+03/01/2018
+05/01/2019
+05/01/2019
+05/01/2019
+05/01/2019
+12/01/2019
+12/01/2019
+12/01/2019
+12/01/2019
+06/09/2020
+06/09/2020
+TOTALES
+
+Descripción
+Máquina de ojal
+Máquina de botón
+Máquina rana
+Cortadora pequeña
+Máquina
+tapacosturas
+Escritorio
+Escritorio
+Mesa
+Mesa
+Bordadora
+Máquina collaretera
+Máquina
+multiagujas
+Cortadora de baidi
+Máquina atracadora
+Máquina rana
+
+$
+$
+$
+$
+
+650.00
+650.00
+650.00
+650.00
+
+20%
+20%
+20%
+20%
+
+Depreciación
+acumulada a
+Nov/20
+$
+379.17
+$
+379.17
+$
+379.17
+$
+379.17
+
+$
+$
+$
+$
+$
+
+650.00
+300.00
+300.00
+250.00
+250.00
+
+20%
+50%
+50%
+50%
+50%
+
+$
+$
+$
+$
+$
+
+379.17
+287.50
+287.50
+239.58
+239.58
+
+$
+$
+$
+$
+$
+
+10.83
+12.50
+12.50
+10.42
+10.42
+
+$
+$
+$
+$
+$
+
+390.00
+300.00
+300.00
+250.00
+250.00
+
+$
+$
+$
+$
+$
+
+260.00
+-
+
+$ 20,000.00
+$
+700.00
+
+20%
+20%
+
+$
+$
+
+7,666.67
+268.33
+
+$
+$
+
+333.33
+11.67
+
+$
+$
+
+8,000.00
+280.00
+
+$
+$
+
+12,000.00
+420.00
+
+$
+700.00
+$ 2,500.00
+$
+875.00
+$
+875.00
+$ 30,000.00
+
+20%
+20%
+20%
+20%
+
+$
+$
+$
+$
+$
+
+268.33
+958.33
+43.75
+43.75
+12,199.17
+
+$
+$
+$
+$
+$
+
+11.67
+41.67
+14.58
+14.58
+527.49
+
+$
+280.00
+$ 1,000.00
+$
+58.33
+$
+58.33
+$ 12,726.66
+
+$
+$
+$
+$
+$
+
+420.00
+1,500.00
+816.67
+816.67
+17,273.34
+
+Costo de
+Adquisición
+
+%
+Depreciación
+
+Depreciación
+diciembre
+
+Depreciación
+Acumulada
+
+Valor Actual
+
+$
+$
+$
+$
+
+10.83
+10.83
+10.83
+10.83
+
+$
+$
+$
+$
+
+390.00
+390.00
+390.00
+390.00
+
+$
+$
+$
+$
+
+260.00
+260.00
+260.00
+260.00
+
+215
+
+OPERACIONES DE DICIEMBRE
+Diciembre 1: Se detalla en la orden de requisición (ver anexo 7) las materias primas y materiales
+a utilizar en la orden No. 0001.
+Precio
+
+Inventario
+
+Total
+
+unitario
+
+Materia Prima: 35 lbs. Tela pique
+
+$
+
+5.40
+
+$
+
+189.00
+
+Material Directo:150 Botones
+
+$
+
+0.038
+
+$
+
+5.70
+
+Material Indirecto:4 conos Hilo
+
+$
+
+3.50
+
+$
+
+14.00
+
+Diciembre 2: Se envían al área de producción el inventario solicitado en la orden de requisición
+0001, para iniciar la producción de 50 Camisas Polo (orden No. 0001).
+Diciembre 5:
+
+
+Se realiza el registro de la mano de obra de la orden No. 0001, por $200.00.
+
+
+
+Se realiza la aplicación de la carga fabril a la orden No. 0001.
+
+
+
+Se finaliza la orden de producción No. 0001 y se envían los productos terminados al área
+de ventas.
+
+
+
+Se realiza pago de las retenciones del mes de noviembre.
+
+
+
+Compra de los siguientes insumos más IVA.
+Precio
+
+Compra
+
+Total
+
+unitario
+
+Materia Prima: 35 Lbs Tela pique $
+
+5.40
+
+$
+
+189.00
+
+Material Directo:150 Botones
+
+$
+
+0.038
+
+$
+
+5.70
+
+Material Indirecto:4 conos Hilo
+
+$
+
+3.50
+
+$
+
+14.00
+
+216
+
+
+
+Se detalla en la orden de requisición (ver anexo 4) las materias primas y materiales a
+utilizar en la orden No. 0002.
+
+Diciembre 6: Se envía al área de producción el inventario comprado el 5 de diciembre, según
+orden de requisición 0002, para iniciar la Producción de 50 Camisas Polo (Orden No. 0002.)
+Diciembre 7: La señora Juana Cortez pasa a recoger la orden No. 0001, la venta es realizada a
+contribuyente y se le entrega Comprobante de Crédito fiscal, el precio de venta se consideró
+aplicando un margen de ganancia del 40% sobre el costo de producción.
+Diciembre 8:
+
+
+Se realiza remesa al banco de la venta realizada el día anterior.
+
+
+
+Se realiza la compra de los siguientes materiales más IVA, para la producción de
+uniformes Escolares:
+Precio
+
+Descripción
+Material Directo: 3,500 Botones
+
+$
+
+0.05
+
+$
+
+175.00
+
+Material Directo: 150 Zippers para pantalón
+
+$
+
+0.35
+
+$
+
+122.5
+
+$
+
+0.20
+
+$
+
+3.50
+
+$
+
+35.00
+
+350 Zippers para faldas
+Material Indirecto: 10 conos Hilo
+
+
+
+Total
+
+Unitario
+
+Se detalla en la orden de requisición (ver anexo 3) las materias primas y materiales a
+utilizar en la prestación de servicios orden No. 0001.
+
+Diciembre 9:
+
+
+Se realiza el registro de la mano de obra de la orden No. 0002, por $ 200.00.
+
+
+
+Se realiza la aplicación de la carga fabril a la orden No. 0002.
+
+217
+
+
+
+El informe de producción indica que se finalizó la orden No. 0002 y se envían los
+productos terminados al área de ventas.
+
+
+
+Se envía el material directo y material indirecto comprado el 8 de diciembre, según orden
+de requisición 0003 al área de producción, para iniciar la elaboración de 3000 Uniformes
+Escolares (orden No. 0001, prestación de servicios).
+
+Diciembre 11: Se cancelan aguinaldos.
+Diciembre 15: Se elabora la planilla quincenal, para efectos de pago los salarios fueron cargados
+a las órdenes de acuerdo con el siguiente detalle:
+
+
+Orden de producción No. 0001
+
+$ 200.00
+
+
+
+Orden de producción No. 0002
+
+$ 200.00
+
+
+
+Orden por prestación de servicios No. 0001:
+Permanentes $ 350.00 y pago de honorario a personal eventual por $ 375.00.
+
+
+
+Se paga salarios a los empleados del área de venta por $375.00.
+
+Nota: Son 4 Operarios permanentes y dos empleados en el área de ventas, devengando un salario
+diario de $12.50 c/u. Se contrataron 5 operarios eventuales para abastecer la prestación de
+servicios orden No. 0001(uniformes escolares), devengando honorarios de $12.50 diario c/u.
+Diciembre 17: El Señor Rómulo Castañeda pasa a recoger la orden No. 0002 y se le extiende
+Factura, la venta es realizada a consumidor final, el precio de venta se consideró aplicando un
+margen de ganancia del 40% sobre el costo de producción.
+Diciembre 18: Se realiza remesa a banco de la venta realizada el día anterior.
+Diciembre 25: Compra de Materias Primas y materiales indirectos más IVA.
+
+218
+
+Descripción
+
+Precio unitario
+
+Total
+
+Materia Prima Tela: 70 Lbs de Algodón
+
+$
+
+2.75
+
+$
+
+192.50
+
+5 libras Cárdigan
+
+$
+
+3.75
+
+$
+
+18.75
+
+5 conos de Hilo
+
+$
+
+3.50
+
+$
+
+17.50
+
+Material Indirecto:
+
+Se detalla en la orden de requisición (ver anexo 4) las materias primas y materiales a utilizar en
+la orden No. 0003.
+Diciembre 26: Se envía el inventario adquirido el 25 de diciembre, según orden de requisición
+0004 para iniciar la producción de 100 Camisetas (orden No. 0003).
+Diciembre 28:
+
+
+Se realiza la aplicación de la mano de obra a la orden No. 0003 por $ 150.00.
+
+
+
+Se realiza la aplicación de la carga fabril a la orden No. 0003.
+
+
+
+El informe de producción indica que se finalizó la orden de producción No. 0003 y se
+envían los productos terminados al área de ventas.
+
+Diciembre 28: Compra de las siguientes materias primas y materiales más IVA.
+Precio
+
+Compra
+
+Total
+
+Unitario
+
+Materia Prima: 17.5 Lbs de Lino Oxford
+
+$
+
+4.90
+
+$
+
+85.75
+
+Material Directo: 150 Botones
+
+$
+
+0.05
+
+$
+
+7.50
+
+Material Indirecto: 3 Conos de Hilo
+
+$
+
+3.50
+
+$
+
+10.5
+
+Se detalla en la orden de requisición (ver anexo 5) las materias primas y materiales a utilizar en
+la orden No. 0004.
+Diciembre 29: Se envía el inventario adquirido el 28 de diciembre al área de producción, según
+orden de requisición 0005, para iniciar la elaboración de 25 camisas de vestir (orden No. 0004).
+219
+
+Diciembre 31:
+
+
+Se elabora Planilla de salarios de la segunda quincena de diciembre:
+ Prestación de servicios orden No. 0001: Honorarios a Eventuales $ 875.00 y
+salarios a empleados Permanentes $ 500.00.
+ Orden de Producción No. 0003: $ 150.00
+ Orden de Producción No. 0004: $ 150.00
+ Se paga salarios a los empleados del área de venta por $ 375.00.
+
+
+
+Se realiza la aplicación de la carga fabril a la orden No. 0004.
+
+
+
+El informe de producción indica que se finalizó la orden de producción No. 0004 y se
+envían los productos terminados al área de ventas.
+
+
+
+El consumo de energía eléctrica es de $180.00 más IVA.
+
+
+
+Provisionar los aportes patronales de ISSS y AFP.
+
+
+
+El Señor Gregorio Alfaro pasa a recoger la orden No. 0003 y se le extiende Factura, la
+venta es realizada a consumidor final, para establecer el precio de la venta se consideró
+un margen de ganancia del 40%.
+
+
+
+Al finalizar el periodo queda en proceso la prestación de servicios orden No. 0001.
+
+
+
+Se realiza la aplicación de la carga fabril a la prestación de servicios orden No. 0001, y
+posteriormente se registrará en inventario de productos en proceso.
+
+
+
+Se realiza el registro de la depreciación.
+
+
+
+Se efectúa el pago de alquiler por $250.00, el 50% a carga fabril y el 25% a gasto de
+administración y gasto de venta.
+
+Nota: Se supone que la depreciación fiscal es igual a la depreciación financiera, por lo que no
+hay efecto de impuesto sobre la renta diferido.
+
+220
+
+El presupuesto de Mano de obra anual es de: $14,592.00
+El presupuesto de carga fabril anual es de: $ 10,681.00
+Nota: a las órdenes de producción se les aplica la carga fabril de acuerdo con el costo de mano
+de obra.
+Con la información proporcionada se realiza lo siguiente:
+a. Asientos contables correspondientes.
+b. Libro mayor.
+c. Determinar el costo para las órdenes de producción.
+d. Determinar si existen costos sub-aplicados o sobre-aplicados de carga fabril.
+
+221
+
+
